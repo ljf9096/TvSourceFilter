@@ -91,12 +91,13 @@ CHC影迷电影,http://m.061899.xyz/mg/ymdy
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-8.ctv
 CHC影迷电影,http://227w9f5104.zicp.fun:35455/mgtv/952383261.m3u8
 CHC影迷电影,http://t.061899.xyz/tl/dq.php?id=ymdy
-CHC影迷电影,https://mgtv.ottiptv.cc/mg/952383261.m3u8?userid=5559462299&sign=84a8512f6e7ad6161cdda95a4db50d456e83526abcdafba58947795e2886d58475e2d830cd6a09ec9024bdcd9c59cacbc30d05a43a576958bd52738f6a451550d1897f6355c1a5dfe69c44ce1f135f3bae&auth_token=d96795f1341390f714a1afffe625b303
+CHC影迷电影,https://mgtv.ottiptv.cc/mg/952383261.m3u8?userid=5559462299&sign=0e20edb1bc1f548453801261a04d43c95b86d86e9a607c16b2ac99f6f54c5cb68b1c9f23bdc8b834c865962dc37f5dcd981852a9fa6d0ba2a05833674b81a3000432ace138b94f254da54b131ea65fc7ab&auth_token=d96795f1341390f714a1afffe625b303
 CHC影迷电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC影迷电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC影迷电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC影迷电影,http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv
-CHC影迷电影,https://mg.chinacert.cftest5.cn/mg/952383261.m3u8?userid=1999482075&sign=9282335b56406803ee7b5ba98d729f524dd668c9d2c7f250b74b59cd1732e2a08f2fb0cdfbeac187058e8baa0c6b5676803a9793933363e587cdcfdb1a3ae2062a5d6c31b48a33bba53000f5f8b60945c4&auth_token=4813f1616b78290ad5ee0a94a3066809
+CHC影迷电影,https://mg.chinacert.cftest5.cn/mg/952383261.m3u8?userid=1999482075&sign=5202a8999a5aa1258c1a9b34934acd9e2802700bb7d161bbc7e3df78da464f83c0df89dd1ac5d7527e50a950245caeec527bba497e848ed6b4a3a527c0b9373c2a95f998a469059cfcf74095371aa1a3d6&auth_token=4813f1616b78290ad5ee0a94a3066809
+CHC影迷电影,https://migu.11cn.dpdns.org/chc
 CHC影迷电影,http://171.113.210.106:4022/rtp/239.69.1.241:11088
 CHC影迷电影,http://106.53.99.30/tv/hot.php?id=ymdy
-CHC影迷电影,https://mgtv.ottiptv.cc/mg/952383261.m3u8?userid=5559462299&sign=0e20edb1bc1f548453801261a04d43c95b86d86e9a607c16b2ac99f6f54c5cb68b1c9f23bdc8b834c865962dc37f5dcd981852a9fa6d0ba2a05833674b81a3000432ace138b94f254da54b131ea65fc7ab&auth_token=d96795f1341390f714a1afffe625b303
+CHC影迷电影,https://mgtv.ottiptv.cc/mg/952383261.m3u8?userid=5559462299&sign=f7c986c950d784d5eece4d86f331809ff90eac3c421bd9bfa9fb1188027545c6d7b361a3e81b8c7f6be5d4521ff3f79241fcc2600e2b2e5c766f4c8f32037ffc94bfe18928144bb386ace2d2e03cc6e844&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8

@@ -56,4 +56,7 @@
 浙江卫视,http://k.061899.xyz/m.php?id=zjws
 浙江卫视,http://t.061899.xyz/tl/dq.php?id=zjws
 浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
+浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-69.ctv
+浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-75.ctv
 浙江卫视,http://112.123.243.37:50085/tsfile/live/0019_1.m3u8
+浙江卫视,http://221.2.148.205:8154/tsfile/live/0124_1.m3u8
