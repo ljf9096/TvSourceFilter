@@ -793,4 +793,3 @@ CCTV-9,http://171.14.89.243:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&a
 CCTV-9,http://171.14.89.243:9901/tsfile/live/0009_1.m3u8?key=txiptv
 CCTV-9,http://free.cnlive.club/channel/47d2f363/index.m3u8?q=1758329016291
 CCTV-9,http://180.76.145.203:656/zb.php?id=cctv9
-CCTV-9,http://180.213.170.24:8188/rtp/239.5.1.9:5000

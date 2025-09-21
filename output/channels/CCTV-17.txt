@@ -566,4 +566,3 @@ CCTV-17,http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=cctv17&zy.m3u
 CCTV-17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1758329016291
 CCTV-17,https://mgtv.ottiptv.cc/mg/673168256.m3u8?userid=5559462299&sign=444e837a78ec09af6f112fea7735c2dfcfcfc417f1694914925c6cea5defec2e4eb2e895d3cb61b1d6a017a69ec145f200aa7b418a755b67a1652381bb585ba3b8f96c356616c4d9d110fe6fbac65c3fdf&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-17,http://180.76.145.203:656/zb.php?id=cctv17
-CCTV-17,http://112.109.206.106:9999/rtp/239.255.40.143:8208

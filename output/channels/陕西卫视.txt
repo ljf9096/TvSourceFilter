@@ -408,3 +408,5 @@
 陕西卫视,http://lml1971.cn:35455/gptv/G_SHANXI-HQ.m3u8
 陕西卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225807/1.m3u8
 陕西卫视,http://ott.mobaibox.com/PLTV/3/224/3221227583/index.m3u8
+陕西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225754/index.m3u8?servicetype=1
+陕西卫视,http://www.terrykang.xyz:35455/itv/1000000002000007495.m3u8?cdn=ystenlive

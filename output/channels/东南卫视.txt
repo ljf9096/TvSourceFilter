@@ -667,5 +667,4 @@
 东南卫视,http://00ds.mc.hi.cn/ddzbsmt.php?id=fujian
 东南卫视,http://171.14.89.243:9901/tsfile/live/1017_1.m3u8?key=txiptv
 东南卫视,https://mgtv.ottiptv.cc/mg/849116810.m3u8?userid=5559462299&sign=c25cf3cf39f34cacdacb19c1b3190182955078d07c36d627362a1eecf71c83fe9e7b6152858a61cd0f5d90bbc891d9a16cf68055e3c41f87f98c4ba2ec974ee2a60eb7fa76ff8e552815e1fce45d253893&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
-东南卫视,http://221.10.226.195:5000/rtp/239.0.0.62:5140
-东南卫视,http://111.127.156.228:51234/rtp/239.29.0.103:5000
+东南卫视,http://183.220.20.17:4321/rtp/239.11.0.41:5140

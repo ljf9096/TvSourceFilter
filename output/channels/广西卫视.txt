@@ -599,4 +599,4 @@
 广西卫视,http://00ds.mc.hi.cn/ddzbsmt.php?id=guangxi
 广西卫视,http://171.14.89.243:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://171.14.89.243:9901/tsfile/live/0113_1.m3u8?key=txiptv
-广西卫视,http://221.10.226.195:5000/rtp/239.0.0.185:5140
+广西卫视,http://183.220.20.17:4321/rtp/239.11.0.48:5140

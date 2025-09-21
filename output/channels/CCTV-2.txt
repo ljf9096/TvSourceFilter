@@ -863,4 +863,3 @@ CCTV-2,http://free.cnlive.club/channel/47d01112/index.m3u8?q=1758329016291
 CCTV-2,https://mgtv.ottiptv.cc/mg/631780532.m3u8?userid=5559462299&sign=f2ae5322315588e002cf87c83b8492079437dfa458ef2003ecac9dfa65e146142244c6b71df0dc50818e7248d57b29aa9649de952aad41f54dd6cd33a6fe7e1d5b6e0293832e88beeb0c8b6683cc77f8aa&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-2,http://180.76.145.203:656/zb.php?id=cctv2
 CCTV-2,https://60.191.56.186:8888/hls/2/index.m3u8
-CCTV-2,http://113.104.184.116:7088/udp/239.77.1.158:5146

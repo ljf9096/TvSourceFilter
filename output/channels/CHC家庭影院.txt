@@ -197,6 +197,5 @@ CHC家庭影院,http://175.15.56.195:4022/udp/239.76.245.241:1234
 CHC家庭影院,https://mg.chinacert.cftest5.cn/mg/644368373.m3u8?userid=1999482075&sign=8de3ee73fbe2799a9ecd2f2f9ff882afb552ea70ff10c5ec5fdd48b174de7872c009a6dc2b0933f40013609d85462de11ab92558cd18c0a2eb398d0ed5f6408596d25a6a9c9c3c477378b4054d81335e9a&auth_token=4813f1616b78290ad5ee0a94a3066809
 CHC家庭影院,http://106.53.99.30/tv/hot.php?id=jtyy
 CHC家庭影院,https://mgtv.ottiptv.cc/mg/644368373.m3u8?userid=5559462299&sign=8df5d9389115170e544183c4c70ab957b4b7c0368a8342e9096d9b59a88fcaa45809eafb89c249b79e8db5701dd292a82f589ebf7cf87a5571a1cfd98307fd4c89c296ef2780282f16fdf303e615abdaac&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
-CHC家庭影院,http://cx.shscxzx.cn:8899/rtp/239.45.0.40:5140
 CHC家庭影院,http://221.10.226.195:5000/rtp/239.0.0.23:5140
-CHC家庭影院,http://iptv.huuc.edu.cn/hls/chctv.m3u8
+CHC家庭影院,http://cx.shscxzx.cn:8899/rtp/239.45.0.40:5140

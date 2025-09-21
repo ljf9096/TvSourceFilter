@@ -506,5 +506,5 @@
 海南卫视,http://171.14.89.243:9901/tsfile/live/0114_1.m3u8?key=txiptv
 海南卫视,https://mgtv.ottiptv.cc/mg/947472502.m3u8?userid=5559462299&sign=7f224f9aafc237e619c335ffaddf11a90a8115879956b7e9565fa13e34ef83ce7e2e2fa8485c307e382ac10da9e2f0ddf708997769469728c2dafe0a78f89efa95824d6e043d8ffa84cf75267d956bf353&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 海南卫视,https://stream1.freetv.fun/b49eb8c449c75b34dae48f7cba8d8e63de58ca8e034c3095819a17688dd68e10.ctv
-海南卫视,http://112.109.206.106:9999/rtp/239.255.40.23:8208
+海南卫视,http://nn.7x9d.cn/地方台8563/海南.php
 海南卫视,http://111.127.156.228:51234/rtp/239.29.1.126:5000
