@@ -32,6 +32,6 @@
 陕西卫视,http://go.bkpcp.top/mg/sxws
 陕西卫视,http://t.061899.xyz/tl/dq.php?id=sxws
 陕西卫视,https://stream1.freetv.fun/shan-xi-wei-shi-27.ctv
-陕西卫视,http://106.53.99.30/tv/hot.php?id=sxws
-陕西卫视,http://dmggg.tyzb.fun:26355/migu/738910838.m3u8?migutoken=0e2dfa2f9df352907ed97b8f7689b398455aa7e3d8e06bed1b81f137e3c8a169b4cbcdc80a0a2076f1345e11d441e9e2cab6603ccd1e045b7e882d56f44cfa03221dc79c19599b6e2296f62e0a
 陕西卫视,http://112.123.243.37:50085/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
+陕西卫视,http://dmggg.tyzb.fun:26355/migu/738910838.m3u8?migutoken=0e2dfa2f9df352907ed97b8f7689b398455aa7e3d8e06bed1b81f137e3c8a169b4cbcdc80a0a2076f1345e11d441e9e2cab6603ccd1e045b7e882d56f44cfa03221dc79c19599b6e2296f62e0a
+陕西卫视,http://106.53.99.30/tv/hot.php?id=sxws
