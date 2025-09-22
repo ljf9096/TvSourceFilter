@@ -899,4 +899,3 @@ CCTV-5,http://free.cnlive.club/channel/n5d959a6c/index.m3u8?q=1758415770851
 CCTV-5,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 CCTV-5,http://221.2.148.205:8154/tsfile/live/0005_1.m3u8
 CCTV-5,http://113.104.184.116:7088/udp/239.77.0.170:5146
-CCTV-5,http://116.21.205.101:8188/udp/239.77.0.170:5146

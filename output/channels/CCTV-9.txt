@@ -802,3 +802,4 @@ CCTV-9,https://live.catvod.com/catvod_com.php?id=cctv9hd&token=7268bbae39fa26dc2
 CCTV-9,http://tvtj.jxwltx.com:8003/cctv9.m3u8
 CCTV-9,http://free.cnlive.club/channel/47d2f363/index.m3u8?q=1758415770851
 CCTV-9,http://180.76.145.203:656/zb.php?id=cctv9
+CCTV-9,http://180.213.170.24:8188/rtp/239.5.1.9:5000
