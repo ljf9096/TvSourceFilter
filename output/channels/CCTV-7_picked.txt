@@ -51,8 +51,8 @@ CCTV-7,http://go.bkpcp.top/mg/cctv7
 CCTV-7,https://stream1.freetv.fun/cctv7-4.ctv
 CCTV-7,https://zby.130519.xyz/PLTV/11/224/3221226143/index.m3u8
 CCTV-7,https://zby.130519.xyz/PLTV/11/224/3221226137/index.m3u8
-CCTV-7,http://gfr.x3322.net:9901/tsfile/live/1072_1.m3u8
 CCTV-7,http://153.0.171.163:9901/tsfile/live/0007_1.m3u8
 CCTV-7,http://221.2.148.205:8154/tsfile/live/0007_1.m3u8
+CCTV-7,http://gfr.x3322.net:9901/tsfile/live/1072_1.m3u8
 CCTV-7,http://180.76.145.203:656/zb.php?id=cctv7
 CCTV-7,http://106.53.99.30/tv/api.php?id=cctv7
