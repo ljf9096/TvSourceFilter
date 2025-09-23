@@ -149,4 +149,5 @@ CETV-4,http://114.254.35.159:8888/rtp/239.3.1.56:4120
 CETV-4,http://180.165.1.151:4022/rtp/239.45.1.50:5140
 CETV-4,https://mgtv.ottiptv.cc/mg/923287339.m3u8?userid=5559462299&sign=6d284e2e5fe9b19aca89b96b6f1bbb84770f3afe158ed9dcbdec10fecdb1f5e76ea349bfe2c46277e11045b82b5b0ce69e53e7c34633a96d4484a428606bb9e791014371e667cd88262d785c80207dff66&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CETV-4,http://www.rogerxlj.top:9998/rtp/239.45.0.21:5140
-CETV-4,http://180.165.22.198:4022/rtp/239.45.1.50:5140
+CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
+CETV-4,http://n1.gzbody.com:85/rtp/239.253.43.114:5146

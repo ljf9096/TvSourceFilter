@@ -822,4 +822,3 @@
 江苏卫视,https://mgtv.ottiptv.cc/mg/623899368.m3u8?userid=5559462299&sign=ff37f2ce4072d37429117a6fb3972a1bbc368aa239b5e31a10bb35633d5f10977d2d6816f510e4d40fa8da5d0750c9489e763c789d95d81d85d7a39ccad4eae45ebcca4c52de9e2cc53fed29a606a8e49e&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 江苏卫视,https://live.lalifeier.eu.org/jstv/jsws.m3u8?t=1758496884&key=7b1f690c5c7854ffcbbc808dcdad5a7b
 江苏卫视,http://180.213.170.24:8188/rtp/239.5.1.25:5000
-江苏卫视,http://113.104.184.116:7088/udp/239.77.1.18:5146

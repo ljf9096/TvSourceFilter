@@ -815,4 +815,3 @@
 东方卫视,https://mgtv.ottiptv.cc/mg/651632648.m3u8?userid=5559462299&sign=58ab577aba05d6851e8c8d27803bd07b46c9411cd7ca341334c54bb445f48da7ebda2f9cdffc70c7b4b6e7060bf5d37b2455dd835fd3de14c23fd72b57c6b5be6b569988be8a770cde03fa6d2e904c0529&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 东方卫视,https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1758496884&key=eba8bf5311173fd6a430887c893dd9cd
 东方卫视,https://stream1.freetv.fun/f7183476c990eb9535f04a78051890b8ec6067ea92ac87bc123ac15cb3849f12.m3u8
-东方卫视,http://113.104.184.116:7088/udp/239.77.1.218:5146

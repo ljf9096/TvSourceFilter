@@ -667,3 +667,4 @@
 河北卫视,https://hyf000.eu.org/FG/216
 河北卫视,https://hyf000.eu.org/FG/217
 河北卫视,https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1758496884&key=f3572d8c19edc7221dc2860ba1dc6e1f
+河北卫视,http://221.10.226.195:5000/rtp/239.0.0.55:5140
