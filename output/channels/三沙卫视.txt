@@ -230,6 +230,10 @@
 三沙卫视,https://www.nettvpro.xyz/hls/hainan.php?id=ssws
 三沙卫视,https://stream1.freetv.fun/039dfef60560b3de2b57edc4976c77a817905d1fc0e3c8e1fc1a9230efd52078.m3u8
 三沙卫视,http://112.109.206.106:9999/rtp/239.255.40.82:8208
-三沙卫视,http://222.82.204.151:8188/udp/238.125.5.114:5140
 三沙卫视,http://missyao.com:35455/bptv/10000100000000050000000003887452.m3u8
 三沙卫视,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887452.m3u8
+三沙卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227404/index.m3u8
+三沙卫视,http://lml1971.cn:35455/gptv/G_SANSHA-HQ.m3u8
+三沙卫视,http://n1.gzbody.com:85/rtp/239.253.43.113:5146
+三沙卫视,http://ott.mobaibox.com/PLTV/3/224/3221228626/index.m3u8
+三沙卫视,http://www.terrykang.xyz:35455/itv/5000000011000288016.m3u8?cdn=bestzb

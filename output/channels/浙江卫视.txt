@@ -857,3 +857,4 @@
 浙江卫视,https://iptv.catvod.com/catvod_com.php?id=zhejiang_twn&token=1e9606185c862f03f62773b3d5c29232d99dd48fde25e33d8cd8eac1c9d9629c%3A1758660057%3AMTcyLjE4NC4yMTQuMjI3
 浙江卫视,https://live.catvod.com/catvod_com.php?id=zhejiang_twn&token=788b39f4b485e3d10b00dfa81d863c360b7a41f8cdb6bff67a3f27dc19ce3531%3A1758588096
 浙江卫视,https://iptv.catvod.com/catvod_com.php?id=zhejiang_twn&token=e99cc698a114cb72ef27da342c14e51142ea852081af500aacb050a88229d1a8%3A1758595137
+浙江卫视,http://144.255.44.48:7788/udp/239.21.1.90:5002

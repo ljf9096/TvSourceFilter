@@ -1057,4 +1057,3 @@
 重庆卫视,http://171.14.89.243:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://171.14.89.243:9901/tsfile/live/0142_1.m3u8?key=txiptv
 重庆卫视,http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202509230705/app_2/_definst_/ls_2.stream/chunklist.m3u8
-重庆卫视,http://111.127.156.228:51234/rtp/239.29.0.99:5000

@@ -405,4 +405,4 @@ CCTV-16,http://111.162.205.105:8686/udp/225.1.2.237:5002
 CCTV-16,http://iptv.4666888.xyz/iptv.php?id=20016
 CCTV-16,http://free.cnlive.club/channel/c15fcc8/index.m3u8?q=1758588294700
 CCTV-16,http://111.127.156.228:51234/rtp/239.29.1.146:5000
-CCTV-16,http://222.82.204.151:8188/udp/238.125.5.34:5140
+CCTV-16,http://lf.670203.xyz:7088/rtp/239.45.0.12:5140

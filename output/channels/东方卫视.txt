@@ -826,3 +826,4 @@
 东方卫视,https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1758583304&key=e874212279b254fba77fdaf10221e94b
 东方卫视,https://iptv.catvod.com/catvod_com.php?id=dongfangweishi_twn&token=0bcd19494f0175ee1da7fc203080ab12078389427d10860c4743f2caab64d6c6%3A1758595137
 东方卫视,https://stream1.freetv.fun/f7183476c990eb9535f04a78051890b8ec6067ea92ac87bc123ac15cb3849f12.m3u8
+东方卫视,http://112.109.206.106:9999/rtp/239.255.40.50:8208
