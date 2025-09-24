@@ -17,3 +17,4 @@
 兵团卫视,http://112.123.243.37:50085/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
 兵团卫视,http://hbhyjq.ufyct.com:1088/hls/1/index.m3u8
 兵团卫视,https://zby.130519.xyz/PLTV/11/224/3221226111/index.m3u8
+兵团卫视,http://112.123.243.37:50085/tsfile/live/0112_1.m3u8
