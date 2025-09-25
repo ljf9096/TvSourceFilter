@@ -147,4 +147,3 @@
 第一财经,http://nas.suntao.online:35455/itv/5000000010000027146.m3u8?cdn=bestzb
 第一财经,http://home.dzlove.top:35455/itv/5000000010000027146.m3u8?cdn=bestzb
 第一财经,http://unicom.lynnyang.cn:4022/rtp/239.45.3.211:5140
-第一财经,https://mg.chinacert.cftest5.cn/mg/608780988.m3u8?userid=1999482075&sign=6a38bf7975b117fd0633e7ec69197ae7c6365083b2daa0c9908c5c8596bc4cebcb32ebae0a980bbcd7e5f3f7b89a606c20548e3e9f79c774b78975d073d899a09398412f1a583bf6d6652ec9ed3e8aefe2&auth_token=4813f1616b78290ad5ee0a94a3066809

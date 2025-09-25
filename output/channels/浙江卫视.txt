@@ -865,3 +865,4 @@
 浙江卫视,https://live.catvod.com/catvod_com.php?id=zhejiang_twn&token=2b7121cd842b19282c7417da78f8cde1a5e29b56b5faf890be2b471ec6dee5e3%3A1758674541%3AMjAuNTcuNzcuMTkz
 浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1758672310-9873388da0c924cce1069ad313bc6798-0-1ea92637844820fb2ce224452eda6875
 浙江卫视,http://144.255.44.48:7788/udp/239.21.1.90:5002
+浙江卫视,http://183.220.20.17:4321/rtp/239.11.0.70:5140

@@ -120,6 +120,5 @@
 上海新闻综合,https://stream1.freetv.fun/9585bd251ceb89ed89a45812f120781dac9ddc1ce6c46699a762801c7d48c728.m3u8
 上海新闻综合,http://180.154.61.39:4022/rtp/239.45.3.209:5140
 上海新闻综合,http://180.165.22.198:4022/rtp/239.45.3.209:5140
-上海新闻综合,https://mg.chinacert.cftest5.cn/mg/651632657.m3u8?userid=1999482075&sign=1c4130178cfb2d173a2451c71aaf45b9eb04bf0d2b499ff190f89af0a819c5f25f8ff9e93584fd492edbcac2dcf36fa545c9264c4d1e8a619f99a79e7961219fb66e78d5f8510d0ca1c88d6b35c11717f6&auth_token=4813f1616b78290ad5ee0a94a3066809
 上海新闻综合,http://yc.myds.me:35455/itv/5000000011000031110.m3u8?cdn=bestzb
 上海新闻综合,http://nas.suntao.online:35455/itv/5000000011000031110.m3u8?cdn=bestzb

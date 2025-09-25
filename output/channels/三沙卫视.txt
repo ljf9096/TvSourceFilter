@@ -237,4 +237,3 @@
 三沙卫视,http://lml1971.cn:35455/gptv/G_SANSHA-HQ.m3u8
 三沙卫视,http://n1.gzbody.com:85/rtp/239.253.43.113:5146
 三沙卫视,http://ott.mobaibox.com/PLTV/3/224/3221228626/index.m3u8
-三沙卫视,http://www.terrykang.xyz:35455/itv/5000000011000288016.m3u8?cdn=bestzb

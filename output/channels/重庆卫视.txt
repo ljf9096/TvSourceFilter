@@ -1065,3 +1065,5 @@
 重庆卫视,https://hyf000.eu.org/FG/200
 重庆卫视,http://106.53.99.30/tv/hot.php?id=cqws
 重庆卫视,http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202509240639/app_2/_definst_/ls_2.stream/chunklist.m3u8
+重庆卫视,http://144.255.44.48:7788/udp/239.21.1.233:5002
+重庆卫视,http://112.109.206.106:9999/rtp/239.255.40.21:8208
