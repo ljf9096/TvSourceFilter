@@ -222,3 +222,6 @@ CHC动作电影,http://180.213.170.24:8188/rtp/239.5.1.52:5000
 CHC动作电影,http://221.10.226.195:5000/rtp/239.0.0.24:5140
 CHC动作电影,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226034/1.m3u8
 CHC动作电影,http://iptv.huuc.edu.cn/hls/chcatv.m3u8
+CHC动作电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225661/index.m3u8
+CHC动作电影,http://tv.scjyhd.com:4022/udp/239.11.0.142:5140
+CHC动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8

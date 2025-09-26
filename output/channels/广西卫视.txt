@@ -624,3 +624,4 @@
 广西卫视,https://live.catvod.com/catvod_com.php?id=guangxi&token=edef7b199a025db6c01c6c82154ec42b2cbd1bbf532fd98da626d5d653b1037a%3A1758674541%3AMjAuNTcuNzcuMTkz
 广西卫视,http://183.220.20.17:4321/rtp/239.11.0.48:5140
 广西卫视,http://112.109.206.106:9999/rtp/239.255.40.22:8208
+广西卫视,http://221.10.226.195:5000/rtp/239.0.0.185:5140

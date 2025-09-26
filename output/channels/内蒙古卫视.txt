@@ -419,3 +419,6 @@
 内蒙古卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225801/1.m3u8
 内蒙古卫视,https://www.nmtv.cn/liveTv?tag=内蒙古卫视
 内蒙古卫视,http://iptv.huuc.edu.cn/hls/nmtv.m3u8
+内蒙古卫视,http://n1.gzbody.com:85/rtp/239.77.0.70:5146
+内蒙古卫视,http://ott.mobaibox.com/PLTV/3/224/3221227557/index.m3u8
+内蒙古卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225751/index.m3u8?servicetype=1

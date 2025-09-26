@@ -839,4 +839,4 @@ CCTV-9,http://iptv.4666888.xyz/iptv.php?id=20009
 CCTV-9,https://live.catvod.com/catvod_com.php?id=cctv9hd&token=94f05d00a6e8bd0a808c71533a7028a5868f49f6747694bfb09a866ac18a0528%3A1758674541%3AMjAuNTcuNzcuMTkz
 CCTV-9,http://free.cnlive.club/channel/47d2f363/index.m3u8?q=1758674740185
 CCTV-9,http://180.76.145.203:656/zb.php?id=cctv9
-CCTV-9,http://111.127.156.228:51234/rtp/239.29.0.118:5000
+CCTV-9,http://180.213.170.24:8188/rtp/239.5.1.9:5000

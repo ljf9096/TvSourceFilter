@@ -119,6 +119,5 @@
 上海新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1758669694&key=27f07fbb16d60925261cef9ddfb1ddb2
 上海新闻综合,https://stream1.freetv.fun/9585bd251ceb89ed89a45812f120781dac9ddc1ce6c46699a762801c7d48c728.m3u8
 上海新闻综合,http://180.154.61.39:4022/rtp/239.45.3.209:5140
-上海新闻综合,http://180.165.22.198:4022/rtp/239.45.3.209:5140
 上海新闻综合,http://yc.myds.me:35455/itv/5000000011000031110.m3u8?cdn=bestzb
 上海新闻综合,http://nas.suntao.online:35455/itv/5000000011000031110.m3u8?cdn=bestzb

@@ -750,5 +750,3 @@
 深圳卫视,https://live.catvod.com/catvod_com.php?id=shenzhen&token=b435455706e7717415c93fedb22a35635aaf66342e6b47dfce1dce4d48cc3938%3A1758674541%3AMjAuNTcuNzcuMTkz
 深圳卫视,https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1758669694&key=69ec1f4f7da9c7c61a3dd65595785860
 深圳卫视,https://stream1.freetv.fun/e20e442b0ac0eb9ee3d6b90302a722223a0074e2f77b10d0d122cde370809c33.ctv
-深圳卫视,http://144.255.44.48:7788/udp/239.21.1.93:5002
-深圳卫视,http://180.154.61.39:4022/rtp/239.45.3.231:5140

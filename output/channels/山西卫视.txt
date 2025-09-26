@@ -388,6 +388,8 @@
 山西卫视,https://hyf000.eu.org/FG/236
 山西卫视,http://106.53.99.30/tv/hot.php?id=sxiws
 山西卫视,https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1758669694&key=a32692c87df58a7e4ed0a2350df4098c
-山西卫视,http://cx.shscxzx.cn:8899/rtp/239.45.0.57:5140
-山西卫视,http://60.172.83.197:8686/rtp/238.1.78.95:6632
 山西卫视,http://218.8.87.96:4000/rtp/229.58.190.89:5000
+山西卫视,http://cx.shscxzx.cn:8899/rtp/239.45.0.57:5140
+山西卫视,http://missyao.com:35455/bptv/10000100000000050000000003887413.m3u8
+山西卫视,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887413.m3u8
+山西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227191/index.m3u8
