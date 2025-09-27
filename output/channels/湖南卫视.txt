@@ -807,4 +807,5 @@
 湖南卫视,https://iptv.catvod.com/catvod_com.php?id=hunan_twn&token=9b72ea1378947b08893d4dd75cbef2521fd1492625892bb018af2fff9999e3b5%3A1758919305%3ANTIuMTU5LjI0NC4xNjE%3D
 湖南卫视,https://live.catvod.com/catvod_com.php?id=hunan_twn&token=d65c020a7382252c431002690ada69fab85c7bcd909402826151e99ccb1bcc45%3A1758847299%3ANTIuMTczLjEwOC4yMA%3D%3D
 湖南卫视,http://180.213.170.24:8188/rtp/239.5.1.16:5000
+湖南卫视,http://221.10.226.195:5000/rtp/239.0.0.68:5140
 湖南卫视,http://111.127.156.228:51234/rtp/239.29.0.90:5000

@@ -765,5 +765,4 @@
 湖北卫视,https://live.catvod.com/catvod_com.php?id=hubei&token=51412edb26e3f4ebe9af89c883a609003e00f0dadeec8784997ceebdcafaf903%3A1758847299%3ANTIuMTczLjEwOC4yMA%3D%3D
 湖北卫视,https://mgtv.ottiptv.cc/mg/947472496.m3u8?userid=5559462299&sign=4df4358a5029a87b3a4184f6372ed9ee784ddc1da444f320d1130dbf665cad48c135fc97999d5de41a41032abbb3df0c51e8c218f3870b13b942db374e2793575fbda43647f1813ff50fe232fab5fbefbd&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 湖北卫视,http://180.213.170.24:8188/rtp/239.5.1.20:5000
-湖北卫视,http://112.109.206.106:9999/rtp/239.255.40.47:8208
 湖北卫视,http://111.127.156.228:51234/rtp/239.29.0.107:5000

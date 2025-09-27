@@ -795,4 +795,3 @@ CCTV-3,https://live.catvod.com/catvod_com.php?id=cctv3&token=8008ffc0a0100452fe7
 CCTV-3,http://free.cnlive.club/channel/47ced282/index.m3u8?q=1758847488586
 CCTV-3,http://180.76.145.203:656/zb.php?id=cctv3
 CCTV-3,http://106.53.99.30/tv/api.php?id=cctv3
-CCTV-3,http://180.154.61.39:4022/rtp/239.45.1.68:5140

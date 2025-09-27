@@ -513,7 +513,3 @@
 青海卫视,http://iptv.4666888.xyz/iptv2A.php?id=青海卫视
 青海卫视,https://mgtv.ottiptv.cc/mg/947472506.m3u8?userid=5559462299&sign=f34ff3c09187cddd5a5ad3ea3aa9be11a472984eb90283625b22ce37e66fe94c01aa00e9c919f9e96d10df595ecfa388599eeb956f88390ba382a4f7eeff7e7c27ac3794461002013da0725e46212a7b11&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 青海卫视,http://218.17.33.178:53290/tsfile/live/0140_1.m3u8?key=txiptv
-青海卫视,http://112.109.206.106:9999/rtp/239.255.40.15:8208
-青海卫视,http://nas.suntao.online:35455/itv/1000000002000013359.m3u8?cdn=ystenlive
-青海卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227189/index.m3u8
-青海卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226696/1.m3u8

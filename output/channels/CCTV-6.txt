@@ -829,3 +829,4 @@ CCTV-6,https://live.catvod.com/catvod_com.php?id=cctv6&token=c79c16558f91bce0446
 CCTV-6,http://free.cnlive.club/channel/47cedd7d/index.m3u8?q=1758847488586
 CCTV-6,http://free.cnlive.club/channel/63f18811/index.m3u8?q=1758847488586
 CCTV-6,http://180.76.145.203:656/zb.php?id=cctv6
+CCTV-6,http://180.213.170.24:8188/rtp/239.5.1.103:5000

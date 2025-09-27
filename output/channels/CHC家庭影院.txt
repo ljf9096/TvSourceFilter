@@ -198,4 +198,3 @@ CHC家庭影院,https://mgtv.ottiptv.cc/mg/644368373.m3u8?userid=5559462299&sign
 CHC家庭影院,http://180.213.170.24:8188/rtp/239.5.1.50:5000
 CHC家庭影院,http://221.10.226.195:5000/rtp/239.0.0.23:5140
 CHC家庭影院,http://iptv.huuc.edu.cn/hls/chctv.m3u8
-CHC家庭影院,https://mg.chinacert.cftest5.cn/mg/644368373.m3u8?userid=1999482075&sign=b514c509690894b17eb77f55897eee9d5eaaf7831f89378b6c652e7857e9c7ffac741045df1c7fe7f2db3e9723421c11605bc0492ce32bb6d7b334fc497e9a95231ee07152e85ab47cd1ab8d8e549216e4&auth_token=4813f1616b78290ad5ee0a94a3066809

@@ -734,4 +734,3 @@
 安徽卫视,http://iptv.4666888.xyz/iptv2A.php?id=安徽卫视
 安徽卫视,https://live.lalifeier.eu.org/ahtv/ahws.m3u8?t=1758842477&key=425a8f0e89c18d5fa86633b658060cb4
 安徽卫视,http://180.213.170.24:8188/rtp/239.5.1.26:5000
-安徽卫视,http://111.127.156.228:51234/rtp/239.29.0.81:5000

@@ -895,5 +895,3 @@ CCTV-5,https://live.catvod.com/catvod_com.php?id=cctv5&token=531e2a0b0a06260cc5b
 CCTV-5,http://free.cnlive.club/channel/47c9f401/index.m3u8?q=1758847488586
 CCTV-5,http://free.cnlive.club/channel/n5d959a6c/index.m3u8?q=1758847488586
 CCTV-5,http://106.53.99.30/tv/api.php?id=cctv5
-CCTV-5,http://117.174.25.254:8188/rtp/239.0.0.14:5140
-CCTV-5,http://221.10.226.195:5000/rtp/239.0.0.14:5140

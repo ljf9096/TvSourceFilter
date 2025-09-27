@@ -780,5 +780,4 @@
 北京卫视,https://iptv.catvod.com/catvod_com.php?id=beijing&token=f0137ed1e43e397c53f981bab2de2d15845877ee285e2c88e4f7d056b2f82c2c%3A1758919305%3ANTIuMTU5LjI0NC4xNjE%3D
 北京卫视,https://live.catvod.com/catvod_com.php?id=beijing&token=9ff08fb870fdcbb4b3dfcc68b8ac128378202a05cc4788916730f555bd3e47b7%3A1758847299%3ANTIuMTczLjEwOC4yMA%3D%3D
 北京卫视,http://180.213.170.24:8188/rtp/239.5.1.89:5000
-北京卫视,http://112.109.206.106:9999/rtp/239.255.40.46:8208
 北京卫视,http://111.127.156.228:51234/rtp/239.29.0.108:5000

@@ -703,3 +703,4 @@ CCTV-11,http://111.162.205.249:8686/udp/225.1.2.192:5002
 CCTV-11,http://dmggg.tyzb.fun:26355/migu/667987558.m3u8?migutoken=22d29ee28adfece1ca0af1ef21ad55ff2f2d184276ff094691af949ea5c58f29e9c04676de2701e3d0a1f8cd87e31dab6346a861995b2a6b2c47efce5e81abb21107b5599733a991a173282700
 CCTV-11,https://live.catvod.com/catvod_com.php?id=cctv11&token=138d127f9cdc12d21160008670a4552f913c022fb7fa349a52322f4e02b618b0%3A1758847299%3ANTIuMTczLjEwOC4yMA%3D%3D
 CCTV-11,http://free.cnlive.club/channel/n4fe8b4d4/index.m3u8?q=1758847488586
+CCTV-11,http://221.10.226.195:5000/rtp/239.0.0.187:5140

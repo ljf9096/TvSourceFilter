@@ -1028,4 +1028,5 @@
 重庆卫视,http://iptv.4666888.xyz/iptv2A.php?id=重庆卫视
 重庆卫视,http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202509260805/app_2/_definst_/ls_2.stream/chunklist.m3u8
 重庆卫视,http://180.213.170.24:8188/rtp/239.5.1.47:5000
-重庆卫视,http://111.127.156.228:51234/rtp/239.29.0.99:5000
+重庆卫视,http://221.10.226.195:5000/rtp/239.0.0.72:5140
+重庆卫视,http://117.174.25.254:8188/rtp/239.0.0.72:5140
