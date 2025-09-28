@@ -34,4 +34,3 @@ CCTV-5+,https://6663.luyazo.com/livetv/hlcc/eYPhRQnNg/eYPhRQnNg_live.m3u8
 CCTV-5+,https://stream1.freetv.fun/cctv5-plus-41.ctv
 CCTV-5+,https://stream1.freetv.fun/cctv5-plus-54.ctv
 CCTV-5+,https://stream1.freetv.fun/cctv5-plus-33.ctv
-CCTV-5+,http://112.123.243.37:50085/tsfile/live/0006_1.m3u8

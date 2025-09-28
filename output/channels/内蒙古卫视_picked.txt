@@ -30,5 +30,4 @@
 内蒙古卫视,http://8.138.7.223/tv/hot.php?id=23
 内蒙古卫视,http://go.bkpcp.top/mg/nmgws
 内蒙古卫视,http://t.061899.xyz/tl/tl.php?id=nmgws
-内蒙古卫视,http://112.123.243.37:50085/tsfile/live/0118_1.m3u8
 内蒙古卫视,http://106.53.99.30/tv/hot.php?id=nmgws

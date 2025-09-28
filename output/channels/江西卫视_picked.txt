@@ -33,4 +33,3 @@
 江西卫视,https://stream1.freetv.fun/jiang-xi-wei-shi-gao-qing-6.ctv
 江西卫视,http://8.138.7.223/tv/hot.php?id=32
 江西卫视,https://stream1.freetv.fun/jiang-xi-wei-shi-44.ctv
-江西卫视,http://112.123.243.37:50085/tsfile/live/0132_1.m3u8

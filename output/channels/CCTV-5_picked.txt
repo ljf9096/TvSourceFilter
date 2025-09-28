@@ -50,5 +50,4 @@ CCTV-5,http://8.138.7.223/tv/hot.php?id=18
 CCTV-5,https://stream1.freetv.fun/cctv-5-5.ctv
 CCTV-5,https://stream1.freetv.fun/cctv5-50.ctv
 CCTV-5,http://gfr.x3322.net:9901/tsfile/live/1070_1.m3u8
-CCTV-5,http://112.123.243.37:50085/tsfile/live/0005_1.m3u8
 CCTV-5,http://106.53.99.30/tv/api.php?id=cctv5

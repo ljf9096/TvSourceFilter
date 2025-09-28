@@ -25,5 +25,4 @@
 宁夏卫视,http://8.138.7.223/tv/hot.php?id=48
 宁夏卫视,http://t.061899.xyz/tl/tl.php?id=nxws
 宁夏卫视,http://go.bkpcp.top/mg/nxws
-宁夏卫视,http://112.123.243.37:50085/tsfile/live/0125_1.m3u8
 宁夏卫视,http://218.17.33.178:53290/tsfile/live/0112_1.m3u8?key=txiptv

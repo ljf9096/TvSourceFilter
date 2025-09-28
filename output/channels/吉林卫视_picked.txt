@@ -34,4 +34,3 @@
 吉林卫视,https://epg.pw/stream/20ec706dec67b36d8bd933921ddc77d953bdbb5db85ceb51b4235469b7fa23b2.ctv
 吉林卫视,http://8.138.7.223/tv/hot.php?id=25
 吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-gao-qing-4.ctv
-吉林卫视,http://112.123.243.37:50085/tsfile/live/0116_1.m3u8
