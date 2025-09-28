@@ -1,5 +1,4 @@
-欢笑剧场,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA&t=1757403106&token=015608007e238db7b11f63b06504e45f
-欢笑剧场,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA&t=1757401893&token=b2ea6e6e037eeb37f2eb4b5ba8fd922f
+欢笑剧场,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA&t=1759030213&token=391d45ab927a6cc16a62cff6f12260cd
 欢笑剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
 欢笑剧场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8
 欢笑剧场,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=007
@@ -104,5 +103,3 @@
 欢笑剧场,http://218.1.136.141:9999/rtp/239.45.3.196:5140
 欢笑剧场,http://180.165.18.57:4022/rtp/239.45.3.196:5140
 欢笑剧场,http://180.165.2.27:9898/rtp/239.45.3.196:5140
-欢笑剧场,http://tv.scjyhd.com:4022/udp/239.10.0.129:5140
-欢笑剧场,http://lml1971.cn:35455/bst/hxjchd@4000000.m3u8

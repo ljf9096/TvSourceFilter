@@ -1,5 +1,4 @@
-河南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&t=1757403106&token=0cd2754d0a93be3f452e6d35c26989ce
-河南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&t=1757401893&token=63637464c94ea7256e380857b5929e00
+河南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&t=1759030213&token=cd312a394993aa6bd57967bac3a5c955
 河南卫视,http://gfr.x3322.net:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://iptv.huuc.edu.cn/hls/hnhd.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://k.061899.xyz/m.php?id=hnws&key=txiptv&playlive=1&authid=0
@@ -687,3 +686,4 @@
 河南卫视,https://mgtv.ottiptv.cc/mg/790187291.m3u8?userid=5559462299&sign=4c22e487390f483b5fef26279fd6abed44a7b2c8f5bce050e0c1a40457d942c16cc04a6075725d803d70c779a214859fe78e5e837a021102cdd072780fa451e5454ad97cf20d7ccc1dff8a6b5ce3606a13&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 河南卫视,https://live.lalifeier.eu.org/hntv/hnws.m3u8?t=1758929003&key=fa9e52330fa77a3d73fd93e9d5ae6614
 河南卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000586/1000.m3u8?virtualDomain=010.live_hls.zte.com
+河南卫视,http://221.10.226.195:5000/rtp/239.0.0.182:5140

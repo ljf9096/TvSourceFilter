@@ -1,5 +1,4 @@
-湖南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&t=1757403106&token=11081ea910906cedf2f0c6eef82dc119
-湖南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&t=1757401893&token=e24bc8d78e33397d4154a50415b5c076
+湖南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&t=1759030213&token=96b7704063f761434d22c5fa195dcf44
 湖南卫视,http://gfr.x3322.net:9901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://112.27.235.94:8000/hls/31/index.m3u8?key=txiptv&playlive=1&authid=0
@@ -829,5 +828,3 @@
 湖南卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000394/1000.m3u8?virtualDomain=010.live_hls.zte.com
 湖南卫视,https://iptv.catvod.com/catvod_com.php?id=hunan_twn&token=9696ea733f602d53f578aea5253eea40c98b91b7bdbcaaf260963bdd949197e8%3A1758940005%3ANTcuMTUxLjEyOS41Mg%3D%3D
 湖南卫视,http://180.213.170.24:8188/rtp/239.5.1.16:5000
-湖南卫视,http://221.10.226.195:5000/rtp/239.0.0.68:5140
-湖南卫视,http://111.127.156.228:51234/rtp/239.29.0.90:5000

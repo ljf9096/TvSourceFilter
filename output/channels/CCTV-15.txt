@@ -1,5 +1,4 @@
-CCTV-15,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV15&t=1757403106&token=0543d2c7db259db1b88fc66a4b3ed08a
-CCTV-15,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV15&t=1757401893&token=2e0507ae422b675b7036599666c03c22
+CCTV-15,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV15&t=1759030213&token=e41e45d7b9bf7282d1a34329aab6aa3a
 CCTV-15,http://gfr.x3322.net:9901/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-15,http://gfr.x3322.net:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-15,http://k.061899.xyz/m.php?id=cctv15&key=txiptv&playlive=1&authid=0
@@ -746,7 +745,6 @@ CCTV-15,http://free.cnlive.club/channel/n4fe0755e/index.m3u8?q=1758934122703
 CCTV-15,http://180.76.145.203:656/zb.php?id=cctv15
 CCTV-15,http://106.53.99.30/tv/api.php?id=cctv15
 CCTV-15,http://221.10.226.195:5000/rtp/239.0.0.188:5140
-CCTV-15,http://111.127.156.228:51234/rtp/239.29.0.206:5000
 CCTV-15,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv15_2/index.m3u8
 CCTV-15,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031109/1.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=3
 CCTV-15,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226648/1.m3u8

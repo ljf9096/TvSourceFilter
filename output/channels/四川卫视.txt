@@ -1,5 +1,4 @@
-四川卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&t=1757403106&token=6314e5ac129c984493ef5cf5cba0574e
-四川卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&t=1757401893&token=84cf5ce11a99f7eaf044818205dcdf0e
+四川卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&t=1759030213&token=bc05a3bb5adc0acefa9d258ccb79b6cf
 四川卫视,http://gfr.x3322.net:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://112.27.235.94:8000/hls/35/index.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://61.156.228.12:8154/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -683,4 +682,3 @@
 四川卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000581/1000.m3u8?virtualDomain=010.live_hls.zte.com
 四川卫视,https://iptv.catvod.com/catvod_com.php?id=sichuan_twn&token=54b1279fc3938e6e55ea1bdd0818f219a7396a4b845c62b0db841d4d71b3d109%3A1758940005%3ANTcuMTUxLjEyOS41Mg%3D%3D
 四川卫视,http://180.213.170.24:8188/rtp/239.5.1.22:5000
-四川卫视,http://111.127.156.228:51234/rtp/239.29.0.100:5000

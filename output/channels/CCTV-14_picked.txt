@@ -1,5 +1,4 @@
-CCTV-14,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV14&t=1757403106&token=7484587184c1d442981bd5c2d31e986d
-CCTV-14,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV14&t=1757401893&token=84bce2409652cf3ea609c88b4d8c32db
+CCTV-14,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV14&t=1759030213&token=b1d8af0a7d509b0ab220947dbb5d903b
 CCTV-14,http://gfr.x3322.net:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,http://gfr.x3322.net:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,http://k.061899.xyz/m.php?id=cctv14&key=txiptv&playlive=1&authid=0

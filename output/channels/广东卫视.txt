@@ -1,5 +1,4 @@
-广东卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&t=1757403106&token=6216aaa7d4c8c9143aa04b3f99f209b2
-广东卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&t=1757401893&token=fec71e2585838698c0bac01562fdd79d
+广东卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&t=1759030213&token=7beb8f7c2507c45c009a97380402ad86
 广东卫视,http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://gfr.x3322.net:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://183.237.95.108:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -859,6 +858,5 @@
 广东卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000395/1000.m3u8?virtualDomain=010.live_hls.zte.com
 广东卫视,https://iptv.catvod.com/catvod_com.php?id=guangdongweishi_twn&token=29d827901f789d4976083e5b7f17d01b9353068bb14b8598a1cddb9ca43d38db%3A1758940005%3ANTcuMTUxLjEyOS41Mg%3D%3D
 广东卫视,http://106.53.99.30/tv/api.php?id=gdws
-广东卫视,http://180.213.170.24:8188/rtp/239.5.1.18:5000
-广东卫视,http://111.127.156.228:51234/rtp/239.29.0.123:5000
 广东卫视,http://221.10.226.195:5000/rtp/239.0.0.70:5140
+广东卫视,http://111.127.156.228:51234/rtp/239.29.0.123:5000

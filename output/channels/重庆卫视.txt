@@ -1,5 +1,4 @@
-重庆卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&t=1757403106&token=35ae1e3e3023aa2000b0d78a36129223
-重庆卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&t=1757401893&token=4530ce7f9bc00d785cf342668176b0a3
+重庆卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&t=1759030213&token=b5ee2491a4cab762e23dc81e20bc172e
 重庆卫视,http://gfr.x3322.net:9901/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://111.43.126.240:9003/hls/55/index.m3u8?key=txiptv&playlive=1&authid=0
@@ -1050,6 +1049,4 @@
 重庆卫视,http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202509270805/app_2/_definst_/ls_2.stream/chunklist.m3u8
 重庆卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000585/1000.m3u8?virtualDomain=010.live_hls.zte.com
 重庆卫视,http://180.213.170.24:8188/rtp/239.5.1.47:5000
-重庆卫视,http://113.104.184.111:7088/udp/239.77.1.162:5146
 重庆卫视,http://221.10.226.195:5000/rtp/239.0.0.72:5140
-重庆卫视,http://117.174.25.254:8188/rtp/239.0.0.72:5140

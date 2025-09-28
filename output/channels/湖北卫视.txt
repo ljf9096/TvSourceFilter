@@ -1,5 +1,4 @@
-湖北卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&t=1757403106&token=3de4339ad151352166be9d16a298ffff
-湖北卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&t=1757401893&token=68ecbb1f4a79a3b944ca42da11696573
+湖北卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&t=1759030213&token=206306c42108589ce3e8939557e0fa85
 湖北卫视,http://gfr.x3322.net:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://gfr.x3322.net:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8?key=txiptv&playlive=1&authid=0
@@ -786,4 +785,4 @@
 湖北卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000461/1000.m3u8?virtualDomain=010.live_hls.zte.com
 湖北卫视,https://iptv.catvod.com/catvod_com.php?id=hubei&token=e42fb16adfe3707f46d0627ec56d36961f75f650da75445ccdffa862f8f46d0c%3A1758940005%3ANTcuMTUxLjEyOS41Mg%3D%3D
 湖北卫视,http://180.213.170.24:8188/rtp/239.5.1.20:5000
-湖北卫视,http://111.127.156.228:51234/rtp/239.29.0.107:5000
+湖北卫视,http://221.10.226.195:5000/rtp/239.0.0.67:5140

@@ -1,5 +1,4 @@
-新疆卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&t=1757403106&token=eb8527ce73979f251d4e74e57b22279a
-新疆卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&t=1757401893&token=1e0e260f59e7625b29c0d71ea6e3083c
+新疆卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&t=1759030213&token=a4f1bf88fb7fa50caf8e536ea61f1fae
 新疆卫视,http://gfr.x3322.net:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://k.061899.xyz/m.php?id=xjws&key=txiptv&playlive=1&authid=0
 新疆卫视,http://42.225.117.174:11199/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -448,5 +447,5 @@
 新疆卫视,http://180.165.18.57:4022/rtp/239.45.1.116:5140
 新疆卫视,http://106.53.99.30/tv/hot.php?id=xjws
 新疆卫视,http://iptv.4666888.xyz/iptv2A.php?id=新疆卫视
-新疆卫视,http://123.174.106.183:8888/rtp/239.1.1.59:8059
 新疆卫视,http://183.220.20.17:4321/rtp/239.11.0.58:5140
+新疆卫视,http://123.174.106.183:8888/rtp/239.1.1.59:8059

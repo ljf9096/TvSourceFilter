@@ -1,5 +1,4 @@
-CCTV-3,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV3&t=1757403106&token=f4a2e395dd7061a5e2a99933f70b88a0
-CCTV-3,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV3&t=1757401893&token=9b6b29e34f4304e94cbc949d2284c70a
+CCTV-3,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV3&t=1759030213&token=d4b5ab4c20dd434d8089cc8899b6b73e
 CCTV-3,http://gfr.x3322.net:9901/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3,http://gfr.x3322.net:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3,http://k.061899.xyz/m.php?id=cctv3&key=txiptv&playlive=1&authid=0

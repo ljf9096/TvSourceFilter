@@ -1,5 +1,4 @@
-广西卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1757403106&token=5705df825516e89e0945afe5853912a0
-广西卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1757401893&token=5cccf0fa60210e49e0ae6434b148d9fa
+广西卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1759030213&token=a1d371afb6682c74b134df82192b7fef
 广西卫视,http://k.061899.xyz/m.php?id=gxws&key=txiptv&playlive=1&authid=0
 广西卫视,http://gfr.x3322.net:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://42.225.117.174:11199/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -607,3 +606,4 @@
 广西卫视,https://iptv.catvod.com/catvod_com.php?id=guangxi&token=777b99deeb7d14fa345cc4933fea260442e5aee20241d4a200075f3b6428f168%3A1758940005%3ANTcuMTUxLjEyOS41Mg%3D%3D
 广西卫视,http://113.104.184.111:7088/udp/239.253.43.36:5146
 广西卫视,http://221.10.226.195:5000/rtp/239.0.0.185:5140
+广西卫视,http://183.220.20.17:4321/rtp/239.11.0.48:5140

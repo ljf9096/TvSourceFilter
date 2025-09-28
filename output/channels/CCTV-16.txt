@@ -1,5 +1,4 @@
-CCTV-16,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV16&t=1757403106&token=97154890362653a2e213e83697ab71ad
-CCTV-16,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV16&t=1757401893&token=503893e21288b41f41f5e4f75c5116ec
+CCTV-16,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV16&t=1759030213&token=b21e20317c4e3373bb81dd5b422a3e2f
 CCTV-16,http://gfr.x3322.net:9901/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-16,http://111.43.126.240:9003/hls/29/index.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-16,http://sh.lnott.top:880/dx201.m3u8?key=txiptv&playlive=1&authid=0
@@ -398,6 +397,7 @@ CCTV-16,http://113.104.184.111:7088/udp/239.77.0.165:5146
 CCTV-16,http://112.66.101.115:4022/rtp/239.253.64.251:5140
 CCTV-16,http://111.162.205.249:8686/udp/225.1.2.237:5002
 CCTV-16,http://free.cnlive.club/channel/c15fcc8/index.m3u8?q=1758934122703
-CCTV-16,http://nas.201606.xyz:4022/rtp/239.10.0.187:5140
 CCTV-16,http://180.213.170.24:8188/rtp/239.5.1.146:5000
+CCTV-16,http://nas.201606.xyz:4022/rtp/239.10.0.187:5140
 CCTV-16,http://111.127.156.228:51234/rtp/239.29.1.146:5000
+CCTV-16,http://cloud.sunrisecom.cn:8888/rtp/239.45.0.12:5140

@@ -1,7 +1,4 @@
-第一财经,https://stream.iptv-search.com/iptv_test/main.php?id=%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F&t=1757403106&token=0afff77e62af1e6c0b22366556a81a21
-第一财经,https://stream.iptv-search.com/iptv_test/main.php?id=%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F&t=1757401893&token=3ac685afefa17722fb17ea7848e569d5
-第一财经,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%8A%E6%B5%B7%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F&t=1757401893&token=0b41fada89dc32850ad86f33e0dade5a
-第一财经,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%8A%E6%B5%B7%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F&t=1757403106&token=6fda40913d8b39f8d6f1b9fa47e52c0d
+第一财经,https://stream.iptv-search.com/iptv_test/main.php?id=%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F&t=1759030213&token=fa7a380d821acac097b50f6cd09dbb0c
 第一财经,http://8.138.7.223/tv/shtv.php?id=dycj
 第一财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8
 第一财经,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=007
@@ -138,8 +135,9 @@
 第一财经,https://mgtv.ottiptv.cc/mg/608780988.m3u8?userid=5559462299&sign=d36cad183b61f258895bcf033df0ae94b72cb5d971dc660baab81284d1932f6e9f1e30c537c8afc667e83f122a7722ae4145820d4371b46ccb076becac5aa6a93412788565f4c6759100667c163e8465ef&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1758929003&key=3541fb77fa3da21681410159de23d38c
 第一财经,http://223.167.230.34:4022/rtp/239.45.3.211:5140
-第一财经,http://180.165.2.27:9898/rtp/239.45.3.211:5140
 第一财经,http://220.190.54.26:8188/udp/233.50.200.125:5140
+第一财经,http://180.165.2.27:9898/rtp/239.45.3.211:5140
 第一财经,http://nas.suntao.online:35455/itv/5000000010000027146.m3u8?cdn=bestzb
 第一财经,http://home.dzlove.top:35455/itv/5000000010000027146.m3u8?cdn=bestzb
 第一财经,http://unicom.lynnyang.cn:4022/rtp/239.45.3.211:5140
+第一财经,https://mg.chinacert.cftest5.cn/mg/608780988.m3u8?token=e0535845a05783cac0c4a0fc337f423b300d4760407998791e66908fa2f9ff561c7f9dd7fc1d0b6a966d74409d15cb8789ff055c225258aa0e2fd3bdb77bbc7d121876099a055881c770d22795&tm=1757535222&sign=6a95ccf9a0333ae9ac54dfa33e8cfdb8

@@ -1,5 +1,4 @@
-CCTV-17,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV17&t=1757403106&token=a917ff4d11cf12cfe655438f438039d2
-CCTV-17,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV17&t=1757401893&token=b4880c6d3001d3a64dbeec37036a1cd2
+CCTV-17,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV17&t=1759030213&token=e70a8ced1d4d836100a7e311bf81301a
 CCTV-17,http://gfr.x3322.net:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17,http://gfr.x3322.net:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17,http://106.52.196.79:80/TV/mui.php?id=cctv17?key=txiptv&playlive=1&authid=0
@@ -585,5 +584,4 @@ CCTV-17,http://124.90.44.40:6060/010/2/00000001000000060000000000000799/1000.m3u
 CCTV-17,http://180.76.145.203:656/zb.php?id=cctv17
 CCTV-17,http://106.53.99.30/tv/api.php?id=cctv17
 CCTV-17,http://180.213.170.24:8188/rtp/239.5.1.140:5000
-CCTV-17,http://111.127.156.228:51234/rtp/239.29.1.145:5000
 CCTV-17,http://221.10.226.195:5000/rtp/239.0.0.152:5140

@@ -1,5 +1,5 @@
-CETV-2,https://stream.iptv-search.com/iptv_test/main.php?id=CETV2&t=1757403106&token=93a9ecb651e28285de32e56613e65c9a
-CETV-2,https://stream.iptv-search.com/iptv_test/main.php?id=CETV2&t=1757401893&token=bc775399a24f9549ef6946c611e12c3b
+CETV-2,https://stream.iptv-search.com/iptv_test/main.php?id=CETV-2&t=1759030213&token=73aac5fb7942273c6cbf352ae8cb74db
+CETV-2,https://stream.iptv-search.com/iptv_test/main.php?id=CETV2&t=1759030213&token=97eee95189225c575392605e3e0e8aad
 CETV-2,http://gfr.x3322.net:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV-2,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV-2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
@@ -110,3 +110,4 @@ CETV-2,http://180.165.18.57:4022/rtp/239.45.1.52:5140
 CETV-2,https://mgtv.ottiptv.cc/mg/923287211.m3u8?userid=5559462299&sign=96045c8c36560f79c78cafff58c97efc384bea7c324b37b78ba71e1314fafd6b198af6f7de67d26386037ab2c0ee4064750a89586ac413108d750947bdd16fb7e61549f2fa02c03fe63b958d2e2c6b9b81&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CETV-2,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225813/index.m3u8
 CETV-2,http://n1.gzbody.com:85/rtp/239.77.1.69:5146
+CETV-2,https://mg.chinacert.cftest5.cn/mg/923287211.m3u8?token=18547ccefc0d6c85a95b1013b10110f0c447f994bb22cb2209a68b8ffd4d14773b0460d87536aca7f7406f5a631c8e0229e62e6ee5c0d89047c01152f9a22c7f064e5f3b142125fb066d3d8ff7&tm=1757535222&sign=a89a1a83859852d6a3354eeba5ffe529

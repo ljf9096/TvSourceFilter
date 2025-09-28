@@ -1,5 +1,4 @@
-CCTV-5,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5&t=1757403106&token=9eb8577ccc56d647f718179cf931263f
-CCTV-5,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5&t=1757401893&token=c8cddacea4ee0ae398ea073ad2800d7e
+CCTV-5,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5&t=1759030213&token=b9da5982322fcf9cc0f8503dd7002f5c
 CCTV-5,http://gfr.x3322.net:9901/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://gfr.x3322.net:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://k.061899.xyz/m.php?id=cctv5&key=txiptv&playlive=1&authid=0
@@ -922,3 +921,4 @@ CCTV-5,http://free.cnlive.club/channel/47c9f401/index.m3u8?q=1758934122703
 CCTV-5,http://free.cnlive.club/channel/n5d959a6c/index.m3u8?q=1758934122703
 CCTV-5,http://124.90.44.40:6060/010/2/00000001000000060000000000000788/1000.m3u8?virtualDomain=010.live_hls.zte.com
 CCTV-5,http://106.53.99.30/tv/api.php?id=cctv5
+CCTV-5,http://180.213.170.24:8188/rtp/239.5.1.102:5000

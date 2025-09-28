@@ -1,5 +1,4 @@
-东南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&t=1757403106&token=623e35a12136dbee21f317e7d5a0ee73
-东南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&t=1757401893&token=6c8f376f39c0e67cb106df2b22fbed6a
+东南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&t=1759030213&token=ffe1f0c184d539201c17c60b3e297587
 东南卫视,http://gfr.x3322.net:9901/tsfile/live/1099_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://k.061899.xyz/m.php?id=dnws&key=txiptv&playlive=1&authid=0
 东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8?key=txiptv&playlive=1&authid=0
@@ -681,5 +680,5 @@
 东南卫视,https://mgtv.ottiptv.cc/mg/849116810.m3u8?userid=5559462299&sign=f8b4734dc5f30620c5adf5380cd640eaa998abf7281d76ad2258fd364f2a4b638f21b46c30b8fddb0a747fd98886a12f27a97905fddb576b3ce181a5ba4a1b258458c0c23ce53a459b6a212c928db9dc71&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 东南卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000588/1000.m3u8?virtualDomain=010.live_hls.zte.com
 东南卫视,http://221.10.226.195:5000/rtp/239.0.0.62:5140
-东南卫视,http://183.220.20.17:4321/rtp/239.11.0.41:5140
 东南卫视,http://111.127.156.228:51234/rtp/239.29.0.103:5000
+东南卫视,http://117.174.25.254:8188/rtp/239.0.0.62:5140
