@@ -23,4 +23,5 @@
 甘肃卫视,http://tpc.x3322.net:9901/tsfile/live/0141_1.m3u8
 甘肃卫视,https://stream1.freetv.fun/gan-su-wei-shi-20.ctv
 甘肃卫视,https://stream1.freetv.fun/gan-su-wei-shi-13.ctv
+甘肃卫视,http://112.123.243.37:50085/tsfile/live/0123_1.m3u8
 甘肃卫视,http://8.138.7.223/tv/hot.php?id=46

@@ -55,5 +55,6 @@
 浙江卫视,http://8.138.7.223/tv/hot.php?id=29
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-30.ctv
 浙江卫视,http://t.061899.xyz/tl/tl.php?id=zjws
+浙江卫视,http://112.123.243.37:50085/tsfile/live/0019_1.m3u8
 浙江卫视,http://106.53.99.30/tv/hot.php?id=zjws
 浙江卫视,https://stream1.freetv.fun/cfe6c386aeda1787f606df629248faf407b2351852e3ea6994357836a1643f5c.ctv

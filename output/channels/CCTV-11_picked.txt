@@ -43,5 +43,5 @@ CCTV-11,http://gfr.x3322.net:9901/tsfile/live/1010_1.m3u8
 CCTV-11,http://8.138.7.223/tv/hot.php?id=11
 CCTV-11,https://stream1.freetv.fun/cctv11-15.ctv
 CCTV-11,https://stream1.freetv.fun/cctv11-25.ctv
-CCTV-11,http://dmggg.tyzb.fun:26355/migu/667987558.m3u8?migutoken=22d29ee28adfece1ca0af1ef21ad55ff2f2d184276ff094691af949ea5c58f29e9c04676de2701e3d0a1f8cd87e31dab6346a861995b2a6b2c47efce5e81abb21107b5599733a991a173282700
 CCTV-11,http://112.123.243.37:50085/tsfile/live/0012_1.m3u8
+CCTV-11,http://dmggg.tyzb.fun:26355/migu/667987558.m3u8?migutoken=22d29ee28adfece1ca0af1ef21ad55ff2f2d184276ff094691af949ea5c58f29e9c04676de2701e3d0a1f8cd87e31dab6346a861995b2a6b2c47efce5e81abb21107b5599733a991a173282700
