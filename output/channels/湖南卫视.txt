@@ -859,3 +859,4 @@
 湖南卫视,http://iptv.4666888.xyz/iptv2A.php?id=湖南卫视
 湖南卫视,https://live.catvod.com/catvod_com.php?id=hunan_twn&token=d4a71ccb9ca7d7829f1a199d3bfc30371b6561633ad91b215bf8b7ce39e1e888%3A1759020477%3ANjQuMjM2LjEzMy4xOTg%3D
 湖南卫视,http://180.213.170.24:8188/rtp/239.5.1.16:5000
+湖南卫视,http://183.220.20.17:4321/rtp/239.11.0.119:5140

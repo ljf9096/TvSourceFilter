@@ -447,6 +447,6 @@
 陕西卫视,http://iptv.4666888.xyz/iptv2A.php?id=陕西卫视
 陕西卫视,http://1.197.251.71:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,https://mgtv.ottiptv.cc/mg/738910838.m3u8?userid=5559462299&sign=6e702ec3eb434d1b292d92dd9e262f13acf0c1949d4e8ac1be7e793832594623123e0e9d27fcd7a2bd04b2199c5e69bb63494e2fb82a732bf1ec14dc87b08efaf2fb48a24b86a272b046fc8a8acadd4751&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+陕西卫视,http://183.220.20.17:4321/rtp/239.11.0.54:5140
 陕西卫视,http://117.174.25.254:8188/rtp/239.0.0.53:5140
 陕西卫视,http://171.213.218.135:8800/udp/239.93.0.143:5140
-陕西卫视,http://106.120.13.137:4022/rtp/225.1.8.154:8140

@@ -835,3 +835,4 @@
 北京卫视,https://live.catvod.com/catvod_com.php?id=beijing&token=eab8bfe35558fa364949c2252c6439cde111631226878fe24d2336ed927c8d9a%3A1759020477%3ANjQuMjM2LjEzMy4xOTg%3D
 北京卫视,http://112.123.243.37:50085/tsfile/live/0127_1.m3u8
 北京卫视,http://180.213.170.24:8188/rtp/239.5.1.89:5000
+北京卫视,http://111.127.156.228:51234/rtp/239.29.0.108:5000

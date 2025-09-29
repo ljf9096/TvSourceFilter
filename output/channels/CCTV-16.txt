@@ -412,7 +412,6 @@ CCTV-16,http://114.254.39.224:8888/rtp/239.3.1.184:8001
 CCTV-16,http://111.162.205.166:8686/udp/225.1.2.237:5002
 CCTV-16,http://iptv.4666888.xyz/iptv2A.php?id=cctv16
 CCTV-16,http://free.cnlive.club/channel/c15fcc8/index.m3u8?q=1759021831852
-CCTV-16,http://180.213.170.24:8188/rtp/239.5.1.146:5000
 CCTV-16,http://nas.201606.xyz:4022/rtp/239.10.0.187:5140
+CCTV-16,http://180.213.170.24:8188/rtp/239.5.1.146:5000
 CCTV-16,http://111.127.156.228:51234/rtp/239.29.1.146:5000
-CCTV-16,http://cloud.sunrisecom.cn:8888/rtp/239.45.0.12:5140

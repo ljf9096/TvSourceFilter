@@ -609,4 +609,3 @@
 云南卫视,http://iptv.4666888.xyz/iptv2A.php?id=云南卫视
 云南卫视,https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1759015246&key=556db7d7283015596018b811b9853dba
 云南卫视,http://221.10.226.195:5000/rtp/239.0.0.74:5140
-云南卫视,http://183.220.20.17:4321/rtp/239.11.0.52:5140

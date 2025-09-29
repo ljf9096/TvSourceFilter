@@ -889,5 +889,5 @@
 广东卫视,http://iptv.4666888.xyz/iptv2A.php?id=广东卫视
 广东卫视,https://live.catvod.com/catvod_com.php?id=guangdongweishi_twn&token=7e9e1eaa80a8925416ed690712e15fc30ab9869e767e32c4ebb5ade01d0767a3%3A1759020477%3ANjQuMjM2LjEzMy4xOTg%3D
 广东卫视,https://mgtv.ottiptv.cc/mg/608831231.m3u8?userid=5559462299&sign=26344488cb8be51b705199b33dac8336c8aed2d8df566f83024e0055a47afd57ae69c1e910b1b8743050b7d12c344492f2ff89712e72c5a5b8aebf1fa728c6420397cf4000c0c4ffe6b79e968e52a0465e&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+广东卫视,http://180.213.170.24:8188/rtp/239.5.1.18:5000
 广东卫视,http://221.10.226.195:5000/rtp/239.0.0.70:5140
-广东卫视,http://111.127.156.228:51234/rtp/239.29.0.123:5000
