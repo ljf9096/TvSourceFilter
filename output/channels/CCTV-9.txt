@@ -860,4 +860,3 @@ CCTV-9,http://wangdong.store:10086/udp/233.50.201.121:5140
 CCTV-9,http://180.76.145.203:656/zb.php?id=cctv9
 CCTV-9,http://106.53.99.30/tv/api.php?id=cctv9
 CCTV-9,http://180.213.170.24:8188/rtp/239.5.1.9:5000
-CCTV-9,http://113.104.184.111:7088/udp/239.77.0.135:5146

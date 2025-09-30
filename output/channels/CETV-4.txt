@@ -159,3 +159,4 @@ CETV-4,https://mgtv.ottiptv.cc/mg/923287339.m3u8?userid=5559462299&sign=a15b5828
 CETV-4,http://wangdong.store:10086/udp/233.50.200.162:5140
 CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 CETV-4,http://n1.gzbody.com:85/rtp/239.253.43.114:5146
+CETV-4,https://mg.chinacert.cftest5.cn/mg/923287339.m3u8?token=6fe60b27401a51a8744d52c6f0034f0142598a705146334d4d207905c50639b6aeaa24e85e8074d7c5fe033d5fb06a6d9dace196ad38a465234542d1a9cf25841974409e8af8da819626af9d55&tm=1757535222&sign=e5a16164103c3690529308093951cf1a

@@ -955,3 +955,4 @@ CCTV-5,http://wangdong.store:10086/udp/233.50.200.108:5140
 CCTV-5,http://wangdong.store:10086/udp/233.50.201.197:5140
 CCTV-5,http://wangdong.store:10086/udp/233.50.201.17:5140
 CCTV-5,http://106.53.99.30/tv/api.php?id=cctv5
+CCTV-5,http://221.10.226.195:5000/rtp/239.0.0.14:5140

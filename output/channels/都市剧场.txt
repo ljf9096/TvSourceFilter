@@ -131,5 +131,3 @@
 都市剧场,http://180.165.29.76:4022/rtp/239.45.3.136:5140
 都市剧场,http://wangdong.store:10086/udp/233.50.200.11:5140
 都市剧场,http://wangdong.store:10086/udp/233.50.201.190:5140
-都市剧场,http://171.213.154.31:9100/udp/239.93.42.30:5140
-都市剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226231/1/index.m3u8?fmt=ts2hls

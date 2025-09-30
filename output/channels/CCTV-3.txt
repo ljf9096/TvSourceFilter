@@ -855,3 +855,4 @@ CCTV-3,http://wangdong.store:10086/udp/233.50.201.16:5140
 CCTV-3,http://180.76.145.203:656/zb.php?id=cctv3
 CCTV-3,http://106.53.99.30/tv/api.php?id=cctv3
 CCTV-3,http://221.10.226.195:5000/rtp/239.0.0.12:5140
+CCTV-3,http://144.255.44.48:7788/udp/239.21.2.45:5002

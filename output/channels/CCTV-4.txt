@@ -1086,3 +1086,4 @@ CCTV-4,http://106.53.99.30/tv/api.php?id=cctv4
 CCTV-4,http://106.53.99.30/tv/hot.php?id=cctv4m
 CCTV-4,http://106.53.99.30/tv/hot.php?id=cctv4o
 CCTV-4,https://60.191.56.186:8888/hls/4/index.m3u8
+CCTV-4,http://221.10.226.195:5000/rtp/239.0.0.184:5140
