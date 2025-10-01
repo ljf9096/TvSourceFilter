@@ -847,4 +847,3 @@
 北京卫视,http://106.53.99.30/tv/hot.php?id=bjws
 北京卫视,https://live.catvod.com/catvod_com.php?id=beijing&token=bb34e0b1bd3c660b65284e29169837f57479f2a211945287c441720c87bef5e1%3A1759192993%3ANDAuNzYuMTE3LjIyOQ%3D%3D
 北京卫视,http://180.213.170.24:8188/rtp/239.5.1.89:5000
-北京卫视,http://144.255.44.48:7788/udp/239.21.1.88:5002

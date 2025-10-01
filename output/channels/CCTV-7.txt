@@ -894,4 +894,3 @@ CCTV-7,http://free.cnlive.club/channel/n7ba2911b/index.m3u8?q=1759194083230
 CCTV-7,https://mgtv.ottiptv.cc/mg/673168121.m3u8?userid=5559462299&sign=384374ff39a4058571078bbdaf58c12848f34d3d3cd12c1e868e10c4dcae4d1ba6e8f4dbae60a0c68e57090f396ae1037445fcbf92a42e8ec4c28abc827e07b521f3e0388eb2e9ead0b56ce5d23f3b3b1c&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-7,http://180.76.145.203:656/zb.php?id=cctv7
 CCTV-7,http://106.53.99.30/tv/api.php?id=cctv7
-CCTV-7,http://221.10.226.195:5000/rtp/239.0.0.16:5140

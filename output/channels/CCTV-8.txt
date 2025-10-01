@@ -865,4 +865,3 @@ CCTV-8,http://free.cnlive.club/channel/n4dd18c29/index.m3u8?q=1759194083230
 CCTV-8,http://180.76.145.203:656/zb.php?id=cctv8
 CCTV-8,http://106.53.99.30/tv/api.php?id=cctv8
 CCTV-8,https://60.191.56.186:8888/hls/8/index.m3u8
-CCTV-8,http://180.213.170.24:8188/rtp/239.5.1.104:5000

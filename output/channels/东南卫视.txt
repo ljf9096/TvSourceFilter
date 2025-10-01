@@ -712,5 +712,5 @@
 东南卫视,http://106.53.99.30/tv/hot.php?id=dnws
 东南卫视,https://live.catvod.com/catvod_com.php?id=fujian&token=23624db876a954edf9a97c36a3cc9ba05a21ffe9fcae742265096eaa4ecc220f%3A1759192993%3ANDAuNzYuMTE3LjIyOQ%3D%3D
 东南卫视,https://mgtv.ottiptv.cc/mg/849116810.m3u8?userid=5559462299&sign=d652f25cbaec596208347bd39055a6dcc86843117573026ec180759cd5cf3be7dc475f9765503e4a697999b3c979f9c9a2c4c5d0b6d576d8875aab1632f70d5dbe08ed134b061509cc30d51579de2f7e9d&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+东南卫视,http://183.220.20.17:4321/rtp/239.11.0.41:5140
 东南卫视,http://221.10.226.195:5000/rtp/239.0.0.62:5140
-东南卫视,http://144.255.44.48:7788/udp/239.21.1.113:5002

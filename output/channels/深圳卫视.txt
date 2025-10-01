@@ -772,4 +772,3 @@
 深圳卫视,https://live.catvod.com/catvod_com.php?id=shenzhen&token=85769d9bef2012adabd24eee9e27e1cd5b002a30e3fa71e0cf37792e81407ff0%3A1759192993%3ANDAuNzYuMTE3LjIyOQ%3D%3D
 深圳卫视,https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1759188119&key=90f8aa3f5483a16c9dbb0f915945f3dc
 深圳卫视,http://180.213.170.24:8188/rtp/239.5.1.19:5000
-深圳卫视,http://221.10.226.195:5000/rtp/239.0.0.71:5140

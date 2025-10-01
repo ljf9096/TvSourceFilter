@@ -773,7 +773,6 @@ CCTV-15,https://live.catvod.com/catvod_com.php?id=cctv15&token=02769447802d79c30
 CCTV-15,http://free.cnlive.club/channel/n4fe0755e/index.m3u8?q=1759194083230
 CCTV-15,http://180.76.145.203:656/zb.php?id=cctv15
 CCTV-15,http://106.53.99.30/tv/api.php?id=cctv15
-CCTV-15,http://221.10.226.195:5000/rtp/239.0.0.188:5140
 CCTV-15,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv15_2/index.m3u8
 CCTV-15,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031109/1.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=3
 CCTV-15,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226648/1.m3u8

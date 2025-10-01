@@ -870,4 +870,3 @@
 湖南卫视,http://106.53.99.30/tv/hot.php?id=hunws
 湖南卫视,https://live.catvod.com/catvod_com.php?id=hunan_twn&token=6e0798d9c24a8a701ca6785ce944c1a547ba02e1ba56f348321358fea6faa001%3A1759192993%3ANDAuNzYuMTE3LjIyOQ%3D%3D
 湖南卫视,http://180.213.170.24:8188/rtp/239.5.1.16:5000
-湖南卫视,http://221.10.226.195:5000/rtp/239.0.0.68:5140
