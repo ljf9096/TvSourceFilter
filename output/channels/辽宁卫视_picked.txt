@@ -36,5 +36,5 @@
 辽宁卫视,http://tpc.x3322.net:9901/tsfile/live/0121_1.m3u8
 辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-93.ctv
 辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-86.ctv
-辽宁卫视,https://6663.luyazo.com/livetv/hldn/GjKY8MqIR/GjKY8MqIR_live.m3u8
 辽宁卫视,http://112.123.243.37:50085/tsfile/live/0126_1.m3u8
+辽宁卫视,https://6663.luyazo.com/livetv/hldn/GjKY8MqIR/GjKY8MqIR_live.m3u8
