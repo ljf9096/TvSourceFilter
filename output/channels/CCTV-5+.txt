@@ -611,7 +611,7 @@ CCTV-5+,https://live.catvod.com/catvod_com.php?id=cctv5plus&token=3328413d547fa5
 CCTV-5+,http://free.cnlive.club/channel/n374503fe/index.m3u8?q=1759280861099
 CCTV-5+,http://free.cnlive.club/channel/n4fd60eb5/index.m3u8?q=1759280861099
 CCTV-5+,https://mgtv.ottiptv.cc/mg/641886773.m3u8?userid=5559462299&sign=8e870882b084d2a392894f7e443852554aa3487cced35735cc4ff0ca799665e8e423def7f90cb4ab0616929abd9d08cbccd72d3345294ae002437774f2a39b4d12246454a996044a2595ccb0b8689ff076&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
-CCTV-5+,http://183.220.20.17:4321/rtp/239.11.0.241:5140
+CCTV-5+,http://117.174.25.254:8188/rtp/239.0.0.22:5140
 CCTV-5+,http://111.127.156.228:51234/rtp/239.29.1.10:5001
 CCTV-5+,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018504/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3
 CCTV-5+,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226711/1.m3u8

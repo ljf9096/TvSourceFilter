@@ -769,3 +769,4 @@ CCTV-11,http://1.180.2.93:9901/tsfile/live/0011_1.m3u8
 CCTV-11,http://118.81.194.174:9003/hls/12/index.m3u8
 CCTV-11,https://live.catvod.com/catvod_com.php?id=cctv11&token=5921a0631287414d5542c01ca4e10e31256503714c66de00f52696e54970b129%3A1759279758%3AMTMyLjE5Ni44My4zOA%3D%3D
 CCTV-11,http://free.cnlive.club/channel/n4fe8b4d4/index.m3u8?q=1759280861099
+CCTV-11,http://221.10.226.195:5000/rtp/239.0.0.187:5140

@@ -731,3 +731,4 @@
 河南卫视,https://mgtv.ottiptv.cc/mg/790187291.m3u8?userid=5559462299&sign=268b09e82c41bf65c17cf993a3a9d33c52bdfbcfbf1e98384e9aef48d778a4ed443b9a2729254aa58345ec9ddfdc26aef5d66130b3478c6eb00ee5d44ca0d74c50e812475e83a712b0e6a1ece7df59bf8f&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 河南卫视,https://live.lalifeier.eu.org/hntv/hnws.m3u8?t=1759274496&key=a69bc582916036b8b04e39341ed5a31c
 河南卫视,http://gfr.x3322.net:9901/tsfile/live/1049_1.m3u8
+河南卫视,http://221.10.226.195:5000/rtp/239.0.0.182:5140

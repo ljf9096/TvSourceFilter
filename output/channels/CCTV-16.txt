@@ -424,7 +424,6 @@ CCTV-16,http://112.66.98.4:4022/rtp/239.253.64.251:5140
 CCTV-16,http://111.162.205.166:8686/udp/225.1.2.237:5002
 CCTV-16,http://free.cnlive.club/channel/c15fcc8/index.m3u8?q=1759280861099
 CCTV-16,http://gfr.x3322.net:9901/tsfile/live/1081_1.m3u8
-CCTV-16,http://nas.201606.xyz:4022/rtp/239.10.0.187:5140
 CCTV-16,http://180.213.170.24:8188/rtp/239.5.1.146:5000
-CCTV-16,http://iptv.4666888.xyz/iptv2A.php?id=cctv16&
+CCTV-16,http://nas.201606.xyz:4022/rtp/239.10.0.187:5140
 CCTV-16,http://111.127.156.228:51234/rtp/239.29.1.146:5000

@@ -116,6 +116,5 @@
 上海新闻综合,http://139.129.231.228:50060/rtp/239.21.1.193:5002
 上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?userid=5559462299&sign=b8b028011ec78228794ea8e301e509fdd08de3c99558b0602210f4e5b8001d6f68ee810f398456ac437b83cdac1286b89663ab87cd2fb75790bb9e68409f3d85d91bd6ddc0cf15996dd845c78225fc6614&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 上海新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1759274496&key=0b6108516d32db55eb7a0da8331f7348
-上海新闻综合,http://223.167.230.34:4022/rtp/239.45.3.209:5140
 上海新闻综合,http://yc.myds.me:35455/itv/5000000011000031110.m3u8?cdn=bestzb
 上海新闻综合,http://nas.suntao.online:35455/itv/5000000011000031110.m3u8?cdn=bestzb

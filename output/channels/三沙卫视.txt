@@ -234,5 +234,3 @@
 三沙卫视,http://218.86.184.84:8188/rtp/238.255.2.203:5999
 三沙卫视,http://missyao.com:35455/bptv/10000100000000050000000003887452.m3u8
 三沙卫视,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887452.m3u8
-三沙卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227404/index.m3u8
-三沙卫视,http://lml1971.cn:35455/gptv/G_SANSHA-HQ.m3u8
