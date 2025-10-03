@@ -910,4 +910,3 @@
 浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1759277126-b8acf969bad9d28e36eee1bce8287e82-0-a1f673fd3dab32f393a2ae2e617e8efa
 浙江卫视,https://stream1.freetv.fun/cfe6c386aeda1787f606df629248faf407b2351852e3ea6994357836a1643f5c.ctv
 浙江卫视,http://180.213.170.24:8188/rtp/239.5.1.14:5000
-浙江卫视,http://111.127.156.228:51234/rtp/239.29.0.96:5000
