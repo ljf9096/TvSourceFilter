@@ -718,7 +718,8 @@ CCTV-15,http://59.44.102.18:8888/newlive/live/hls/17/live.m3u8
 CCTV-15,http://video.qd.sdu.edu.cn/liverespath/59c02d176e7c3b05a62a9bb42be1ca2a92df2e1c/index.m3u8
 CCTV-15,http://180.76.145.203:656/zb.php?id=cctv15
 CCTV-15,http://106.53.99.30/tv/api.php?id=cctv15
-CCTV-15,http://180.213.170.24:8188/rtp/239.5.1.139:5000
+CCTV-15,http://221.10.226.195:5000/rtp/239.0.0.188:5140
+CCTV-15,http://111.127.156.228:51234/rtp/239.29.0.206:5000
 CCTV-15,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv15_2/index.m3u8
 CCTV-15,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031109/1.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=3
 CCTV-15,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226648/1.m3u8

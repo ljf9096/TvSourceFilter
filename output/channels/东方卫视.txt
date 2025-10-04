@@ -774,4 +774,6 @@
 东方卫视,https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1759447258&key=71abbfc2e83ce0a41e93ba27c64a6f22
 东方卫视,http://8.138.7.223/tv/shtv.php?id=dfws
 东方卫视,http://222.169.85.8:9901/tsfile/live/0018_1.m3u8?key=txiptv
-东方卫视,http://180.213.170.24:8188/rtp/239.5.1.81:5000
+东方卫视,http://www.hkyc.site:1991/udp/239.253.64.201:5140
+东方卫视,http://183.220.20.17:4321/rtp/239.11.0.68:5140
+东方卫视,http://111.127.156.228:51234/rtp/239.29.0.97:5000

@@ -787,5 +787,4 @@
 湖南卫视,http://rustdesk.szsun.xyz:8088/udp/239.77.1.5:5146
 湖南卫视,http://218.86.185.126:8188/rtp/238.255.2.93:5999
 湖南卫视,https://live.catvod.com/catvod_com.php?id=hunan_twn&token=7d852da1d784c283c9647d54e2e21da5c3c951101a0b21d666654ab4b6e46ce8%3A1759452129%3AMTcyLjIxNS4yMTcuNzE%3D
-湖南卫视,http://180.213.170.24:8188/rtp/239.5.1.16:5000
 湖南卫视,http://www.hkyc.site:1991/udp/239.253.64.114:5140

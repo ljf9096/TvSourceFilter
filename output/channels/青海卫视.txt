@@ -522,5 +522,3 @@
 青海卫视,http://218.86.185.126:8188/rtp/238.255.2.51:5999
 青海卫视,https://mgtv.ottiptv.cc/mg/947472506.m3u8?userid=5559462299&sign=cd882542a888a35de14141caf1cf960951c717d7cbd2f82f2e477afbcdb4e27191fe039109836cba187bd03b3cb6b9e178613d33d854e268506100b7b5c3fa1d40d18b6296a1d3dc2c1e3aec832b6b13f6&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 青海卫视,http://tpc.x3322.net:9901/tsfile/live/0140_1.m3u8
-青海卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/qhwsH264_2000.m3u8
-青海卫视,http://nas.suntao.online:35455/itv/1000000002000013359.m3u8?cdn=ystenlive

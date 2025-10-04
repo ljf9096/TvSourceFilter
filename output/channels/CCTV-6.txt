@@ -822,6 +822,4 @@ CCTV-6,http://free.cnlive.club/channel/63f18811/index.m3u8?q=1759452314493
 CCTV-6,http://59.44.102.18:8888/newlive/live/hls/8/live.m3u8
 CCTV-6,http://video.qd.sdu.edu.cn/liverespath/f2f39ee2105c85c32df375728a51b5d89d3afab4/index.m3u8
 CCTV-6,http://180.76.145.203:656/zb.php?id=cctv6
-CCTV-6,http://180.213.170.24:8188/rtp/239.5.1.103:5000
 CCTV-6,http://www.hkyc.site:1991/udp/239.253.64.246:5140
-CCTV-6,http://36.24.79.120:4022/rtp/233.50.201.198:5140

@@ -754,5 +754,5 @@ CCTV-13,http://61.138.54.155:2233/hls/20/index.m3u8
 CCTV-13,http://video.qd.sdu.edu.cn/liverespath/8a2f3cd1ae4091c8d073cd239518f24cd4560d8e/index.m3u8
 CCTV-13,http://dmggg.tyzb.fun:26355/migu/608807423.m3u8?migutoken=d7b6cc3eac046465fe236c2965e3946243ace92809ec4ffa835acbf19f85a23758cc09035119e8dbb5866d0b84d66ffcb757e160fc002572802f546bad72ac31d4554c3c0e5167b0817a685258
 CCTV-13,http://180.76.145.203:656/zb.php?id=cctv13
-CCTV-13,http://180.213.170.24:8188/rtp/239.5.1.138:5000
 CCTV-13,http://www.hkyc.site:1991/udp/239.253.64.59:5140
+CCTV-13,http://36.24.79.120:4022/rtp/233.50.201.246:5140

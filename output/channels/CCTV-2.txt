@@ -870,3 +870,4 @@ CCTV-2,http://video.qd.sdu.edu.cn/liverespath/6b13fe5368d391761312a985ace065c0ec
 CCTV-2,https://mgtv.ottiptv.cc/mg/631780532.m3u8?userid=5559462299&sign=3a8243cc01d62850fadbad9526d932ef1f9f89a483d9f41d60f4519b8e10f71f15459a24b356e6162ad29110c876f6c1376c2b89b2f892e2feba568a345682dc0cbfe7f9e140c523ff6bb1c2ac78ac9b5f&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-2,http://180.76.145.203:656/zb.php?id=cctv2
 CCTV-2,https://60.191.56.186:8888/hls/2/index.m3u8
+CCTV-2,http://www.hkyc.site:1991/udp/239.253.64.195:5140

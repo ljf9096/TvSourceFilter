@@ -750,5 +750,4 @@ CCTV-14,http://video.qd.sdu.edu.cn/liverespath/0e0973e58d4835f4b8725481644629300
 CCTV-14,http://dmggg.tyzb.fun:26355/migu/624878440.m3u8?migutoken=44d919b039e3d372a460fba303a52295689bfe48526cd04c60ec0c576d0b5e500fd140959d1c355c309ef5ab64e4327bd9e0409881255ad83142e677f3db4d67b1ddf8b90d26c75d1b7214898a
 CCTV-14,http://180.76.145.203:656/zb.php?id=cctv14
 CCTV-14,http://106.53.99.30/tv/api.php?id=cctv14
-CCTV-14,http://180.213.170.24:8188/rtp/239.5.1.12:5000
 CCTV-14,http://www.hkyc.site:1991/udp/239.253.64.115:5140

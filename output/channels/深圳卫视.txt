@@ -708,5 +708,7 @@
 深圳卫视,https://live.catvod.com/catvod_com.php?id=shenzhen&token=f08d82a0f3e26409cb7c6c253e17477d0766ae48fa112b1497e30711d3b87ada%3A1759452129%3AMTcyLjIxNS4yMTcuNzE%3D
 深圳卫视,https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1759447258&key=09a979f44925f665eb00859ebad6e21f
 深圳卫视,http://222.169.85.8:9901/tsfile/live/0126_1.m3u8?key=txiptv
-深圳卫视,http://180.213.170.24:8188/rtp/239.5.1.19:5000
 深圳卫视,http://www.hkyc.site:1991/udp/239.253.64.203:5140
+深圳卫视,http://183.220.20.17:4321/rtp/239.11.0.71:5140
+深圳卫视,http://221.10.226.195:5000/rtp/239.0.0.71:5140
+深圳卫视,http://111.127.156.228:51234/rtp/239.29.0.105:5000

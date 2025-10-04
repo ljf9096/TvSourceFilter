@@ -687,7 +687,6 @@
 重庆卫视,http://rustdesk.szsun.xyz:8088/udp/239.77.1.162:5146
 重庆卫视,http://218.86.185.126:8188/rtp/238.255.2.78:5999
 重庆卫视,http://p2.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202510030634/app_2/_definst_/ls_2.stream/chunklist.m3u8
-重庆卫视,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/cqwsH265_4000.m3u8
-重庆卫视,http://180.213.170.24:8188/rtp/239.5.1.47:5000
 重庆卫视,http://www.hkyc.site:1991/udp/239.253.64.55:5140
 重庆卫视,http://221.10.226.195:5000/rtp/239.0.0.72:5140
+重庆卫视,http://111.127.156.228:51234/rtp/239.29.0.99:5000

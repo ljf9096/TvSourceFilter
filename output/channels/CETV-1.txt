@@ -135,9 +135,6 @@ CETV-1,http://180.165.19.210:4022/rtp/239.45.1.125:5140
 CETV-1,http://120.55.49.231:3095/rtp/233.50.201.75:5140
 CETV-1,https://mgtv.ottiptv.cc/mg/923287154.m3u8?userid=5559462299&sign=734b47784be4c3edbf3e9d1c5f5db04255f18e63d10cc53de483d206ade33640f975c5125b0e704fba35aa1bdde7e59d43528ea4088e4be1587b7dd97ae969a8303cb9a1884f41b7a962e0c1fc592845e4&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CETV-1,http://116.21.205.101:8188/udp/239.77.1.222:5146
-CETV-1,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.57:8152
 CETV-1,http://222.218.122.56:8188/udp/239.81.0.92:4056
 CETV-1,http://218.8.87.96:4000/rtp/229.58.190.57:5000
-CETV-1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225792/index.m3u8
-CETV-1,http://iptv.huuc.edu.cn/hls/cetv1.m3u8
-CETV-1,http://n1.gzbody.com:85/rtp/239.77.1.222:5146
+CETV-1,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.57:8152

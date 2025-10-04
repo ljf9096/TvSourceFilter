@@ -701,5 +701,5 @@ CCTV-11,https://live.catvod.com/catvod_com.php?id=cctv11&token=96af2dd0590a55e52
 CCTV-11,http://free.cnlive.club/channel/n4fe8b4d4/index.m3u8?q=1759452314493
 CCTV-11,http://video.qd.sdu.edu.cn/liverespath/3d0aa0f1604f13f0ae90c2dc0590ca22a1bcaaa2/index.m3u8
 CCTV-11,http://59.44.102.18:8888/newlive/live/hls/13/live.m3u8
-CCTV-11,http://180.213.170.24:8188/rtp/239.5.1.137:5000
-CCTV-11,http://www.hkyc.site:1991/udp/239.253.64.70:5140
+CCTV-11,http://183.220.20.17:4321/rtp/239.11.0.22:5140
+CCTV-11,http://111.127.156.228:51234/rtp/239.29.0.205:5000
