@@ -31,6 +31,5 @@
 吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-gao-qing-5.ctv
 吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-23.ctv
 吉林卫视,http://8.138.7.223/tv/hot.php?id=25
-吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-gao-qing-4.ctv
 吉林卫视,http://106.53.99.30/tv/20250803.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86
 吉林卫视,http://www.hkyc.site:1991/udp/239.253.64.57:5140

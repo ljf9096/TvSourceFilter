@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025/10/04-17:12,http://8.138.7.223/tv/shtv.php?id=xwzh
+2025/10/05-05:13,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1759030213&token=45398a27ef4db7c70f26a532c733ca22
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -50,13 +50,12 @@ CCTV-1,https://stream1.freetv.fun/cctv1-21.ctv
 CCTV-1,https://stream1.freetv.fun/cctv1-6.ctv
 CCTV-1,https://stream1.freetv.fun/cctv1-30.ctv
 CCTV-1,http://8.138.7.223/tv/hot.php?id=1
-CCTV-1,https://stream1.freetv.fun/cctv1-73.ctv
-CCTV-1,http://113.15.109.216:59901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://112.123.243.37:50085/tsfile/live/0001_1.m3u8
 CCTV-1,http://118.81.76.194:9003/hls/1/index.m3u8
 CCTV-1,http://180.76.145.203:656/zb.php?id=cctv1
 CCTV-1,http://106.53.99.30/tv/api.php?id=cctv1
 CCTV-1,http://hbhyjq.ufyct.com:1088/hls/9/index.m3u8
+CCTV-1,http://113.15.109.216:59901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV2&t=1759030213&token=787823ccb7894ea5718506fcdeae9f53
 CCTV-2,http://k.061899.xyz/m.php?id=cctv2&key=txiptv&playlive=1&authid=0
 CCTV-2,http://gfr.x3322.net:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -104,8 +103,6 @@ CCTV-2,http://8.138.7.223/tv/cctv2.php
 CCTV-2,http://t.061899.xyz/tl/dq.php?id=cctv2
 CCTV-2,http://go.bkpcp.top/mg/cctv2
 CCTV-2,http://8.138.7.223/tv/hot.php?id=2
-CCTV-2,https://stream1.freetv.fun/cctv2-27.ctv
-CCTV-2,https://stream1.freetv.fun/cctv2-50.ctv
 CCTV-2,http://t.061899.xyz/tl/tl.php?id=cctv2
 CCTV-2,http://t.061899.xyz/tl/tl.php?id=cctv2            t.061899.xyz/tl/tl.php?id=CCTV6
 CCTV-2,http://106.53.99.30/tv/api.php?id=cctv2
@@ -160,7 +157,6 @@ CCTV-3,https://stream1.freetv.fun/cctv3-zong-yi-15.ctv
 CCTV-3,https://stream1.freetv.fun/cctv3-16.ctv
 CCTV-3,https://stream1.freetv.fun/cctv3-zong-yi-5.ctv
 CCTV-3,http://8.138.7.223/tv/hot.php?id=3
-CCTV-3,https://stream1.freetv.fun/cctv3-41.ctv
 CCTV-3,http://180.76.145.203:656/zb.php?id=cctv3
 CCTV-3,http://106.53.99.30/tv/api.php?id=cctv3
 CCTV-3,http://218.17.33.178:53290/tsfile/live/1003_1.m3u8?key=txiptv
@@ -206,8 +202,6 @@ CCTV-4,https://stream1.freetv.fun/cctv4k-2.ctv
 CCTV-4,https://stream1.freetv.fun/cctv4-26.ctv
 CCTV-4,https://stream1.freetv.fun/cctv4-guo-ji-9.ctv
 CCTV-4,http://8.138.7.223/tv/hot.php?id=4
-CCTV-4,https://stream1.freetv.fun/cctv4-50.ctv
-CCTV-4,https://stream1.freetv.fun/cctv4-guo-ji-3.ctv
 CCTV-4,http://180.76.145.203:656/zb.php?id=cctv4
 CCTV-4,http://106.53.99.30/tv/api.php?id=cctv4
 CCTV-4,http://106.53.99.30/tv/hot.php?id=cctv4m
@@ -300,7 +294,6 @@ CCTV-5+,https://stream1.freetv.fun/cctv5-plus-38.ctv
 CCTV-5+,https://stream1.freetv.fun/cctv5-plus-41.ctv
 CCTV-5+,http://gfr.x3322.net:9901/tsfile/live/1083_1.m3u8
 CCTV-5+,https://stream1.freetv.fun/cctv5-plus-33.ctv
-CCTV-5+,https://stream1.freetv.fun/cctv5-plus-54.ctv
 CCTV-5+,http://www.hkyc.site:1991/udp/239.253.64.100:5140
 CCTV-6,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV6&t=1759030213&token=a9ff016007b2e8f27d7ac44a8bd1e4ba
 CCTV-6,http://gfr.x3322.net:9901/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -355,8 +348,6 @@ CCTV-6,https://stream1.freetv.fun/cctv6-26.ctv
 CCTV-6,https://stream1.freetv.fun/cctv6-58.ctv
 CCTV-6,http://8.138.7.223/tv/hot.php?id=6
 CCTV-6,http://8.138.7.223/tv/1905.php?id=LIVE3YPYZ30E7V1R0
-CCTV-6,https://stream1.freetv.fun/cctv6-39.ctv
-CCTV-6,https://stream1.freetv.fun/cctv6-54.ctv
 CCTV-6,http://k.061899.xyz/m.php?id=cctv6
 CCTV-6,http://t.061899.xyz/tl/tl.php?id=cctv6
 CCTV-6,http://112.123.243.37:50085/tsfile/live/0007_1.m3u8
@@ -518,6 +509,7 @@ CCTV-9,https://stream1.freetv.fun/cctv-9-25.ctv
 CCTV-9,https://stream1.freetv.fun/cctv9-71.ctv
 CCTV-9,http://8.138.7.223/tv/hot.php?id=9
 CCTV-9,http://dmggg.tyzb.fun:26355/migu/673168140.m3u8?migutoken=53ec1b76673b5ae0173b78ca2f09fa41891400edc9f7c1b7e2812c8234995f334f40605337c6eb28d368cb1d12d999ad2f31ba48540a7be8fc48feef37f35071f8ead6a57f20044893a47b1d13
+CCTV-9,https://zby.130519.xyz/PLTV/11/224/3221226944/index.m3u8
 CCTV-9,http://180.76.145.203:656/zb.php?id=cctv9
 CCTV-9,http://106.53.99.30/tv/api.php?id=cctv9
 CCTV-9,http://www.hkyc.site:1991/udp/239.253.64.76:5140
@@ -569,7 +561,6 @@ CCTV-10,http://gfr.x3322.net:9901/tsfile/live/1009_1.m3u8
 CCTV-10,https://stream1.freetv.fun/cctv10-75.ctv
 CCTV-10,https://stream1.freetv.fun/cctv10-80.ctv
 CCTV-10,http://8.138.7.223/tv/hot.php?id=10
-CCTV-10,https://stream1.freetv.fun/cctv10-27.ctv
 CCTV-10,http://180.76.145.203:656/zb.php?id=cctv10
 CCTV-10,http://106.53.99.30/tv/api.php?id=cctv10
 CCTV-10,http://www.hkyc.site:1991/udp/239.253.64.87:5140
@@ -762,7 +753,6 @@ CCTV-15,http://gfr.x3322.net:9901/tsfile/live/1014_1.m3u8
 CCTV-15,https://stream1.freetv.fun/cctv15-89.ctv
 CCTV-15,https://stream1.freetv.fun/cctv15-yin-le-1.ctv
 CCTV-15,http://8.138.7.223/tv/hot.php?id=15
-CCTV-15,https://stream1.freetv.fun/cctv15-26.ctv
 CCTV-15,http://gfr.x3322.net:9901/tsfile/live/1080_1.m3u8
 CCTV-15,http://dmggg.tyzb.fun:26355/migu/673168223.m3u8?migutoken=cb4bfbcc5677d19b02268ee486017cf57b8856a0659eef385d10e2af542e607f1963f672278ad5f22761105862b9123efefbce650013764f86ff15269649961511b622cb0e3f520d192380725a
 CCTV-15,http://180.76.145.203:656/zb.php?id=cctv15
@@ -816,7 +806,7 @@ CCTV-17,http://gfr.x3322.net:9901/tsfile/live/1015_1.m3u8
 CCTV-17,https://stream1.freetv.fun/cctv-17-14.ctv
 CCTV-17,https://stream1.freetv.fun/cctv17-46.ctv
 CCTV-17,http://8.138.7.223/tv/hot.php?id=17
-CCTV-17,https://stream1.freetv.fun/cctv17-8.ctv
+CCTV-17,https://zby.130519.xyz/PLTV/11/224/3221226318/index.m3u8
 CCTV-17,http://180.76.145.203:656/zb.php?id=cctv17
 CCTV-17,http://106.53.99.30/tv/api.php?id=cctv17
 CCTV-17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv
@@ -876,7 +866,6 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-72.ctv
 广东卫视,http://k.061899.xyz/m.php?id=gdws
 广东卫视,http://8.138.7.223/tv/hot.php?id=37
-广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-gao-qing-2.ctv
 广东卫视,http://t.061899.xyz/tl/tl.php?id=gdws
 广东卫视,http://106.53.99.30/tv/api.php?id=gdws
 广东卫视,http://106.53.99.30/tv/hot.php?id=gdws
@@ -938,7 +927,6 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-44.ctv
 浙江卫视,http://t.061899.xyz/tl/dq.php?id=zjws
 浙江卫视,http://8.138.7.223/tv/hot.php?id=29
-浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-68.ctv
 浙江卫视,http://t.061899.xyz/tl/tl.php?id=zjws
 浙江卫视,http://gfr.x3322.net:9901/tsfile/live/1030_1.m3u8
 浙江卫视,http://112.123.243.37:50085/tsfile/live/0019_1.m3u8
@@ -988,9 +976,8 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 湖南卫视,http://t.061899.xyz/tl/dq.php?id=hunws
 湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-48.ctv
 湖南卫视,http://106.53.99.30/tv/hot.php?id=hunws
-湖南卫视,http://8.138.7.223/tv/hot.php?id=36
-湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-96.ctv
 湖南卫视,http://t.061899.xyz/tl/tl.php?id=hunws
+湖南卫视,http://8.138.7.223/tv/hot.php?id=36
 湖南卫视,http://106.53.99.30/tv/20250803.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
 湖南卫视,http://www.hkyc.site:1991/udp/239.253.64.114:5140
 北京卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&t=1759030213&token=5f80d0e06c90693a31c70797393542a7
@@ -1032,8 +1019,8 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-9.ctv
 北京卫视,http://t.061899.xyz/tl/dq.php?id=bjws
 北京卫视,http://go.bkpcp.top/mg/bjws
+北京卫视,http://106.53.99.30/tv/api.php?id=bjws4k
 北京卫视,http://8.138.7.223/tv/hot.php?id=19
-北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-67.ctv
 北京卫视,http://k.061899.xyz/m.php?id=bjws
 北京卫视,http://t.061899.xyz/tl/tl.php?id=bjws
 北京卫视,http://112.123.243.37:50085/tsfile/live/0127_1.m3u8
@@ -1118,7 +1105,6 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 黑龙江卫视,https://stream1.freetv.fun/hei-long-jiang-wei-shi-51.ctv
 黑龙江卫视,https://stream1.freetv.fun/hei-long-jiang-wei-shi-gao-qing-8.ctv
 黑龙江卫视,http://8.138.7.223/tv/hot.php?id=26
-黑龙江卫视,https://stream1.freetv.fun/hei-long-jiang-wei-shi-21.ctv
 黑龙江卫视,https://6663.luyazo.com/livetv/hldn/43Jf8GqIg/43Jf8GqIg_live.m3u8
 黑龙江卫视,http://106.53.99.30/tv/20250803.php?id=%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86
 黑龙江卫视,http://106.53.99.30/tv/hot.php?id=hljws
@@ -1162,7 +1148,6 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 安徽卫视,https://stream1.freetv.fun/9092d03a036d336f18ad05e71c70c77eed87f4e6ac0a199f58cf220893ad68f3.ctv
 安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-56.ctv
 安徽卫视,http://8.138.7.223/tv/hot.php?id=30
-安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-gao-qing-4.ctv
 安徽卫视,http://k.061899.xyz/m.php?id=ahws
 安徽卫视,http://t.061899.xyz/tl/tl.php?id=ahws
 安徽卫视,http://go.bkpcp.top/mg/ahws
@@ -1210,6 +1195,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-3.ctv
 重庆卫视,http://8.138.7.223/tv/hot.php?id=40
 重庆卫视,http://t.061899.xyz/tl/tl.php?id=cqws
+重庆卫视,http://106.53.99.30/tv/20250803.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86
 重庆卫视,http://www.hkyc.site:1991/udp/239.253.64.55:5140
 东方卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&t=1759030213&token=48510faa72fcfc1d96a7777867be5d07
 东方卫视,http://gfr.x3322.net:9901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1356,7 +1342,6 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-52.ctv
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-32.ctv
 广西卫视,http://8.138.7.223/tv/hot.php?id=38
-广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-gao-qing-2.ctv
 广西卫视,http://t.061899.xyz/tl/tl.php?id=gxws
 广西卫视,http://106.53.99.30/tv/20250803.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86
 贵州卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86&t=1757403106&token=434c620615781b1bb1881bf9c258fe3e
@@ -1401,9 +1386,6 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 贵州卫视,https://stream1.freetv.fun/gui-zhou-wei-shi-59.ctv
 贵州卫视,https://stream1.freetv.fun/gui-zhou-wei-shi-103.ctv
 贵州卫视,http://8.138.7.223/tv/hot.php?id=42
-贵州卫视,https://stream1.freetv.fun/gui-zhou-wei-shi-18.ctv
-贵州卫视,https://stream1.freetv.fun/gui-zhou-wei-shi-74.ctv
-贵州卫视,https://stream1.freetv.fun/gui-zhou-wei-shi-78.ctv
 贵州卫视,http://t.061899.xyz/tl/tl.php?id=gzws
 贵州卫视,http://106.53.99.30/tv/20250803.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86
 贵州卫视,http://106.53.99.30/tv/hot.php?id=gzws
@@ -1557,7 +1539,6 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-gao-qing-5.ctv
 吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-23.ctv
 吉林卫视,http://8.138.7.223/tv/hot.php?id=25
-吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-gao-qing-4.ctv
 吉林卫视,http://106.53.99.30/tv/20250803.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86
 吉林卫视,http://www.hkyc.site:1991/udp/239.253.64.57:5140
 江苏卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&t=1759030213&token=ab04198b23210b25c5d09d253bda4be6
@@ -1601,8 +1582,8 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 江苏卫视,http://t.061899.xyz/tl/dq.php?id=jsws
 江苏卫视,http://go.bkpcp.top/mg/jsws
 江苏卫视,http://8.138.7.223/tv/hot.php?id=28
-江苏卫视,http://112.123.243.37:50085/tsfile/live/0017_1.m3u8
 江苏卫视,http://t.061899.xyz/tl/tl.php?id=jsws
+江苏卫视,http://112.123.243.37:50085/tsfile/live/0017_1.m3u8
 江苏卫视,http://106.53.99.30/tv/20250803.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86
 江苏卫视,http://106.53.99.30/tv/hot.php?id=jsws
 江苏卫视,http://www.hkyc.site:1991/udp/239.253.64.202:5140
@@ -1639,7 +1620,6 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 江西卫视,https://stream1.freetv.fun/jiang-xi-wei-shi-38.ctv
 江西卫视,http://113.15.109.216:59901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://8.138.7.223/tv/hot.php?id=32
-江西卫视,https://stream1.freetv.fun/jiang-xi-wei-shi-gao-qing-6.ctv
 江西卫视,http://106.53.99.30/tv/20250803.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86
 江西卫视,http://222.169.85.8:9901/tsfile/live/0138_1.m3u8?key=txiptv
 江西卫视,http://www.hkyc.site:1991/udp/239.253.64.56:5140
@@ -1682,7 +1662,6 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 辽宁卫视,http://go.bkpcp.top/mg/lnws
 辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-51.ctv
 辽宁卫视,http://k.061899.xyz/m.php?id=lnws
-辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-93.ctv
 辽宁卫视,http://t.061899.xyz/tl/tl.php?id=lnws
 辽宁卫视,http://cc06.tv12.xyz/70.m3u8
 辽宁卫视,http://106.53.99.30/tv/20250803.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86
@@ -1718,6 +1697,7 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 内蒙古卫视,http://t.061899.xyz/tl/dq.php?id=nmgws
 内蒙古卫视,http://8.138.7.223/tv/hot.php?id=23
 内蒙古卫视,http://go.bkpcp.top/mg/nmgws
+内蒙古卫视,http://106.53.99.30/tv/20250803.php?id=%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
 内蒙古卫视,http://106.53.99.30/tv/hot.php?id=nmgws
 宁夏卫视,http://gfr.x3322.net:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,http://222.169.85.8:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1778,7 +1758,6 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 青海卫视,http://t.061899.xyz/tl/dq.php?id=qhws
 青海卫视,http://go.bkpcp.top/mg/qhws
 青海卫视,http://8.138.7.223/tv/hot.php?id=47
-青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-178.ctv
 青海卫视,http://k.061899.xyz/m.php?id=qhws
 青海卫视,http://t.061899.xyz/tl/tl.php?id=qhws
 青海卫视,http://106.53.99.30/tv/20250803.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86
@@ -1983,10 +1962,10 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-7.ctv
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-gao-qing-5.ctv
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-90.ctv
-深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-43.ctv
 深圳卫视,http://k.061899.xyz/m.php?id=szws
 深圳卫视,http://t.061899.xyz/tl/tl.php?id=szws
 深圳卫视,http://112.123.243.37:50085/tsfile/live/1000_1.m3u8
+深圳卫视,http://106.53.99.30/tv/20250803.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
 深圳卫视,http://106.53.99.30/tv/hot.php?id=szws
 深圳卫视,http://222.169.85.8:9901/tsfile/live/0126_1.m3u8?key=txiptv
 深圳卫视,http://www.hkyc.site:1991/udp/239.253.64.203:5140
@@ -2042,9 +2021,9 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 天津卫视,https://stream1.freetv.fun/tian-jin-wei-shi-63.ctv
 天津卫视,https://stream1.freetv.fun/tian-jin-wei-shi-93.ctv
 天津卫视,https://stream1.freetv.fun/tian-jin-wei-shi-87.ctv
+天津卫视,http://k.061899.xyz/m.php?id=tjws
 天津卫视,http://8.138.7.223/tv/hot.php?id=20
 天津卫视,https://stream1.freetv.fun/tian-jin-wei-shi-gao-qing-2.ctv
-天津卫视,http://k.061899.xyz/m.php?id=tjws
 天津卫视,http://106.53.99.30/tv/20250803.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86
 天津卫视,http://www.hkyc.site:1991/udp/239.253.64.198:5140
 西藏卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&t=1759030213&token=937bc15b838df21e872da2cc8afc057a
@@ -2075,8 +2054,6 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 西藏卫视,http://t.061899.xyz/tl/dq.php?id=xzws
 西藏卫视,http://go.bkpcp.top/mg/xzws
 西藏卫视,http://8.138.7.223/tv/hot.php?id=44
-西藏卫视,https://stream1.freetv.fun/xi-cang-wei-shi-38.ctv
-西藏卫视,https://stream1.freetv.fun/xi-cang-wei-shi-6.ctv
 西藏卫视,http://k.061899.xyz/m.php?id=xzws
 西藏卫视,http://t.061899.xyz/tl/tl.php?id=xzws
 西藏卫视,http://106.53.99.30/tv/api.php?id=xzws
@@ -2432,7 +2409,6 @@ CCTV-5+,https://stream1.freetv.fun/cctv5-plus-38.ctv
 CCTV-5+,https://stream1.freetv.fun/cctv5-plus-41.ctv
 CCTV-5+,http://gfr.x3322.net:9901/tsfile/live/1083_1.m3u8
 CCTV-5+,https://stream1.freetv.fun/cctv5-plus-33.ctv
-CCTV-5+,https://stream1.freetv.fun/cctv5-plus-54.ctv
 CCTV-5+,http://www.hkyc.site:1991/udp/239.253.64.100:5140
 五星体育,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&t=1759030213&token=81860e4c54ca75eb100b8b0407d7221a
 五星体育,http://8.138.7.223/tv/shtv.php?id=wxty

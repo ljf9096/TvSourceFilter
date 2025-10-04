@@ -32,5 +32,4 @@ CCTV-5+,https://stream1.freetv.fun/cctv5-plus-38.ctv
 CCTV-5+,https://stream1.freetv.fun/cctv5-plus-41.ctv
 CCTV-5+,http://gfr.x3322.net:9901/tsfile/live/1083_1.m3u8
 CCTV-5+,https://stream1.freetv.fun/cctv5-plus-33.ctv
-CCTV-5+,https://stream1.freetv.fun/cctv5-plus-54.ctv
 CCTV-5+,http://www.hkyc.site:1991/udp/239.253.64.100:5140
