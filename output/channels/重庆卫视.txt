@@ -702,5 +702,3 @@
 重庆卫视,http://111.162.207.12:8686/rtp/225.1.1.155:5002
 重庆卫视,http://p2.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202510040612/app_2/_definst_/ls_2.stream/chunklist.m3u8
 重庆卫视,http://www.hkyc.site:1991/udp/239.253.64.55:5140
-重庆卫视,http://221.10.226.195:5000/rtp/239.0.0.72:5140
-重庆卫视,http://111.127.156.228:51234/rtp/239.29.0.99:5000

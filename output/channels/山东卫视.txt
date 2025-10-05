@@ -714,3 +714,4 @@
 山东卫视,http://123.129.70.178:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://222.169.85.8:9901/tsfile/live/0131_1.m3u8?key=txiptv
 山东卫视,http://www.hkyc.site:1991/udp/239.253.64.208:5140
+山东卫视,http://222.218.122.56:8188/udp/239.81.0.114:4056

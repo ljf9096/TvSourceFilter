@@ -688,3 +688,4 @@
 河南卫视,http://106.53.99.30/tv/hot.php?id=hnws
 河南卫视,https://mgtv.ottiptv.cc/mg/790187291.m3u8?userid=5559462299&sign=69636ea639dfa8f8c63579a9cf6d66c1bd84863a3373a344c39b068d1f2d7bbabbb3fcfde87eecc71a00c47a63a87c60ef5d6672a8e4844ab40d50ccbe1f82f6afbd0390636c9baff5d9fddae8786aaeea&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 河南卫视,https://live.lalifeier.eu.org/hntv/hnws.m3u8?t=1759533650&key=84e82e4e803f1cbe4a6253bd7551bf32
+河南卫视,http://36.24.79.120:4022/rtp/233.50.201.144:5140

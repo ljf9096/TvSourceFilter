@@ -801,6 +801,5 @@
 江苏卫视,https://live.catvod.com/catvod_com.php?id=jiangsu_twn&token=e59def53fd9acb94dc0a583c5f19e5012ef9c04201b7de3331f82c6de15aaf76%3A1759538403%3ANTIuMTY1LjI1MS4xNjQ%3D
 江苏卫视,https://mgtv.ottiptv.cc/mg/623899368.m3u8?userid=5559462299&sign=42f908fee2e7c746806f686f8c1c3cb249e1d9165e33b00171467a217b7295f44a9af490b07a641e47162a9de7a7aba497a42c8a09141d8e32f4a34b8ff678f05cd4d4dbb707b5b73ac3eeb035ff0fec13&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 江苏卫视,https://live.lalifeier.eu.org/jstv/jsws.m3u8?t=1759533650&key=e23cc3c1c4f2bf43d88bd29f8b59a5ef
-江苏卫视,http://www.hkyc.site:1991/udp/239.253.64.202:5140
 江苏卫视,http://36.24.79.120:4022/rtp/233.50.201.106:5140
-江苏卫视,http://221.10.226.195:5000/rtp/239.0.0.60:5140
+江苏卫视,http://www.hkyc.site:1991/udp/239.253.64.202:5140

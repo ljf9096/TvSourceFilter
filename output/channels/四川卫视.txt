@@ -675,4 +675,3 @@
 四川卫视,http://106.53.99.30/tv/hot.php?id=scws
 四川卫视,https://live.catvod.com/catvod_com.php?id=sichuan_twn&token=4c6cbb07084bae677d90c5b9ffc21a4ecd7c216e9e361db3a58c0fa545bbcef3%3A1759538403%3ANTIuMTY1LjI1MS4xNjQ%3D
 四川卫视,http://111.127.156.228:51234/rtp/239.29.0.100:5000
-四川卫视,http://36.24.79.120:4022/rtp/233.50.201.139:5140
