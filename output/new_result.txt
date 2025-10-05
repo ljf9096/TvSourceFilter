@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025/10/05-17:13,http://8.138.7.223/tv/shtv.php?id=xwzh
+2025/10/06-05:20,http://8.138.7.223/tv/shtv.php?id=xwzh
 📺央视频道,#genre#
 CCTV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1759030213&token=45398a27ef4db7c70f26a532c733ca22
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
@@ -29,7 +29,6 @@ CCTV-1,http://61.156.228.12:8154/tsfile/live/0001_1.m3u8
 CCTV-1,https://60.191.56.186:8888/hls/1/index.m3u8
 CCTV-1,https://stream1.freetv.fun/5d284520daa692f05f56035b16d3664f0e1d00c595102fbb480bdd9365d80e12.ctv
 CCTV-1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
-CCTV-1,http://123.149.238.49:9003/hls/1/index.m3u8
 CCTV-1,http://218.17.33.178:53290/tsfile/live/1001_1.m3u8?key=txiptv
 CCTV-1,http://218.17.33.178:53290/tsfile/live/1001_1.m3u8
 CCTV-1,http://112.132.10.54:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -50,12 +49,13 @@ CCTV-1,https://stream1.freetv.fun/cctv1-21.ctv
 CCTV-1,https://stream1.freetv.fun/cctv1-6.ctv
 CCTV-1,https://stream1.freetv.fun/cctv1-30.ctv
 CCTV-1,http://8.138.7.223/tv/hot.php?id=1
+CCTV-1,http://113.15.109.216:59901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://112.123.243.37:50085/tsfile/live/0001_1.m3u8
 CCTV-1,http://118.81.76.194:9003/hls/1/index.m3u8
+CCTV-1,http://123.149.238.49:9003/hls/1/index.m3u8
 CCTV-1,http://180.76.145.203:656/zb.php?id=cctv1
 CCTV-1,http://106.53.99.30/tv/api.php?id=cctv1
 CCTV-1,http://hbhyjq.ufyct.com:1088/hls/9/index.m3u8
-CCTV-1,http://113.15.109.216:59901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV2&t=1759030213&token=787823ccb7894ea5718506fcdeae9f53
 CCTV-2,http://k.061899.xyz/m.php?id=cctv2&key=txiptv&playlive=1&authid=0
 CCTV-2,http://gfr.x3322.net:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -256,8 +256,8 @@ CCTV-5,https://stream1.freetv.fun/cctv5-ti-yu-14.ctv
 CCTV-5,https://stream1.freetv.fun/cctv5-71.ctv
 CCTV-5,https://stream1.freetv.fun/cctv5-56.ctv
 CCTV-5,http://8.138.7.223/tv/hot.php?id=5
-CCTV-5,http://8.138.7.223/tv/hot.php?id=18
 CCTV-5,http://106.53.99.30/tv/api.php?id=cctv5
+CCTV-5,http://8.138.7.223/tv/hot.php?id=18
 CCTV-5,http://www.hkyc.site:1991/udp/239.253.64.245:5140
 CCTV-5+,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5%2B&t=1759030213&token=e4178e32f2997860b3b234cdaf33571a
 CCTV-5+,http://gfr.x3322.net:9901/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -453,12 +453,12 @@ CCTV-8,https://stream1.freetv.fun/cctv-8-18.ctv
 CCTV-8,https://stream1.freetv.fun/cctv8-dian-shi-ju-8.ctv
 CCTV-8,https://stream1.freetv.fun/cctv8-44.ctv
 CCTV-8,https://stream1.freetv.fun/cctv8-73.ctv
-CCTV-8,http://8.138.7.223/tv/hot.php?id=8
 CCTV-8,http://dmggg.tyzb.fun:26355/migu/624878356.m3u8?migutoken=5f320bc4bc2fa03c1be249244fe099bda31e2c5e2e629bb430dd4781dc84b9fb035da05c9e1e6ca0b4c1572bb0c410375fe591c44ec3a0c13281a619c038de722d3c36d45698d9907b49a0db17
 CCTV-8,http://180.76.145.203:656/zb.php?id=cctv8
 CCTV-8,http://106.53.99.30/tv/api.php?id=cctv8
 CCTV-8,https://60.191.56.186:8888/hls/8/index.m3u8
 CCTV-8,http://222.169.85.8:9901/tsfile/live/0008_1.m3u8?key=txiptv
+CCTV-8,http://8.138.7.223/tv/hot.php?id=8
 CCTV-8,http://www.hkyc.site:1991/udp/239.253.64.247:5140
 CCTV-9,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV9&t=1759030213&token=4724f938d7383aaa55662551441ea93f
 CCTV-9,http://gfr.x3322.net:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -977,8 +977,8 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 湖南卫视,https://stream1.freetv.fun/hu-nan-wei-shi-48.ctv
 湖南卫视,http://106.53.99.30/tv/hot.php?id=hunws
 湖南卫视,http://t.061899.xyz/tl/tl.php?id=hunws
-湖南卫视,http://8.138.7.223/tv/hot.php?id=36
 湖南卫视,http://106.53.99.30/tv/20250803.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
+湖南卫视,http://8.138.7.223/tv/hot.php?id=36
 湖南卫视,http://www.hkyc.site:1991/udp/239.253.64.114:5140
 北京卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&t=1759030213&token=5f80d0e06c90693a31c70797393542a7
 北京卫视,http://gfr.x3322.net:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2022,9 +2022,8 @@ CETV-4,https://stream1.freetv.fun/53aa7137c3c952ba6c2be529c8fd7b506505f2d0665505
 天津卫视,https://stream1.freetv.fun/tian-jin-wei-shi-93.ctv
 天津卫视,https://stream1.freetv.fun/tian-jin-wei-shi-87.ctv
 天津卫视,http://k.061899.xyz/m.php?id=tjws
-天津卫视,http://8.138.7.223/tv/hot.php?id=20
-天津卫视,https://stream1.freetv.fun/tian-jin-wei-shi-gao-qing-2.ctv
 天津卫视,http://106.53.99.30/tv/20250803.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86
+天津卫视,http://8.138.7.223/tv/hot.php?id=20
 天津卫视,http://www.hkyc.site:1991/udp/239.253.64.198:5140
 西藏卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&t=1759030213&token=937bc15b838df21e872da2cc8afc057a
 西藏卫视,http://gfr.x3322.net:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2372,8 +2371,8 @@ CCTV-5,https://stream1.freetv.fun/cctv5-ti-yu-14.ctv
 CCTV-5,https://stream1.freetv.fun/cctv5-71.ctv
 CCTV-5,https://stream1.freetv.fun/cctv5-56.ctv
 CCTV-5,http://8.138.7.223/tv/hot.php?id=5
-CCTV-5,http://8.138.7.223/tv/hot.php?id=18
 CCTV-5,http://106.53.99.30/tv/api.php?id=cctv5
+CCTV-5,http://8.138.7.223/tv/hot.php?id=18
 CCTV-5,http://www.hkyc.site:1991/udp/239.253.64.245:5140
 CCTV-5+,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5%2B&t=1759030213&token=e4178e32f2997860b3b234cdaf33571a
 CCTV-5+,http://gfr.x3322.net:9901/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0

@@ -71,6 +71,7 @@
 东方影视,http://180.165.27.52:8686/udp/239.45.3.237:5140
 东方影视,http://[2409:8087:5e08:25::16]:6610/000000001000/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
 东方影视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225744/index.m3u8
+东方影视,http://58.37.188.83:4022/udp/239.45.3.237:5140
 东方影视,http://39.134.136.198:6410/000000001000/5000000010000032212/index.m3u8?channel-id=bestzb
 东方影视,http://cloud.sunrisecom.wang:8888/rtp/239.45.3.245:5140
 东方影视,https://stream1.freetv.fun/dong-fang-ying-shi-4.m3u8
