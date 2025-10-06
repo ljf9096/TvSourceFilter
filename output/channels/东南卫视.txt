@@ -676,6 +676,5 @@
 东南卫视,http://180.165.19.210:4022/rtp/239.45.1.121:5140
 东南卫视,https://live.catvod.com/catvod_com.php?id=fujian&token=39917d57a8df6763f3835703a5c8c9fae69644f2c3ce63cd174f048d03f165ff%3A1759625220%3ANjQuMjM2LjE3Ni4yMjU%3D
 东南卫视,https://mgtv.ottiptv.cc/mg/849116810.m3u8?userid=5559462299&sign=7d8f35ee8b941bc42016c399ad30aa0516be31ab9181cd8f55fb0bb2c5def09d8fec08d1b2129d2dadd31b08ed82def2bc4d3ea9968533278ec31a945ede088fd447b88c9cb91e8befa0fb1dae6d7bf8f4&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
-东南卫视,http://221.10.226.195:5000/rtp/239.0.0.62:5140
-东南卫视,http://183.220.20.17:4321/rtp/239.11.0.41:5140
 东南卫视,http://117.174.25.254:8188/rtp/239.0.0.62:5140
+东南卫视,http://111.127.156.228:51234/rtp/239.29.0.103:5000

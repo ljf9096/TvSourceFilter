@@ -800,4 +800,5 @@
 北京卫视,http://59.172.70.103:4022/rtp/239.254.96.141:8920
 北京卫视,http://106.53.99.30/tv/hot.php?id=bjws
 北京卫视,https://live.catvod.com/catvod_com.php?id=beijing&token=b8321b27611d3e6ae7d38f30b92c3f6893bbf83f4df1d530a17c08d8510d26b4%3A1759625220%3ANjQuMjM2LjE3Ni4yMjU%3D
-北京卫视,http://www.hkyc.site:1991/udp/239.253.64.204:5140
+北京卫视,http://222.218.122.56:8188/udp/239.81.0.109:4056
+北京卫视,http://111.127.156.228:51234/rtp/239.29.0.108:5000

@@ -727,4 +727,4 @@ CCTV-11,http://zzssw01.55555.io:9901/tsfile/live/0011_1.m3u8
 CCTV-11,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0011_1.m3u8
 CCTV-11,https://live.catvod.com/catvod_com.php?id=cctv11&token=954eefe716e95ed3cca592b84cb5e6a845a9384bbf89645e22a29c3449188423%3A1759625220%3ANjQuMjM2LjE3Ni4yMjU%3D
 CCTV-11,http://www.hkyc.site:1991/udp/239.253.64.70:5140
-CCTV-11,http://183.220.20.17:4321/rtp/239.11.0.22:5140
+CCTV-11,http://111.127.156.228:51234/rtp/239.29.0.205:5000

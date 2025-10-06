@@ -427,4 +427,3 @@
 山西卫视,http://218.86.187.97:8188/rtp/238.255.2.71:5999
 山西卫视,https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1759620100&key=49504c2d39a383cce30a8fc35ef83a02
 山西卫视,http://101.66.195.41:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
-山西卫视,http://183.162.205.235:4022/udp/238.1.78.95:6632

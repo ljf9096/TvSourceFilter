@@ -168,4 +168,3 @@
 哈哈炫动,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226010/index.m3u8
 哈哈炫动,http://yc.myds.me:35455/itv/5000000011000031123.m3u8?cdn=bestzb
 哈哈炫动,http://nas.suntao.online:35455/itv/5000000011000031123.m3u8?cdn=bestzb
-哈哈炫动,http://n1.gzbody.com:85/rtp/239.77.1.139:5146

@@ -914,4 +914,3 @@ CCTV-5,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0005_1.m3u8
 CCTV-5,https://live.catvod.com/catvod_com.php?id=cctv5&token=3c8cf9362ca249a628360fbafe6dd3748b48742e1b785377fb45d2c8e86e12de%3A1759625220%3ANjQuMjM2LjE3Ni4yMjU%3D
 CCTV-5,http://106.53.99.30/tv/api.php?id=cctv5
 CCTV-5,http://8.138.7.223/tv/hot.php?id=18
-CCTV-5,http://www.hkyc.site:1991/udp/239.253.64.245:5140
