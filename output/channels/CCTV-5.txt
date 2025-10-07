@@ -931,3 +931,4 @@ CCTV-5,http://180.165.19.210:4022/rtp/239.45.1.69:5140
 CCTV-5,https://live.catvod.com/catvod_com.php?id=cctv5&token=dbc00b24c7203eea6bfebca92948586cb2788f9c7e181f71b63b1fc852ef8b02%3A1759711409%3AMTcyLjIxNS4yMTguMTg%3D
 CCTV-5,http://106.53.99.30/tv/api.php?id=cctv5
 CCTV-5,http://8.138.7.223/tv/hot.php?id=18
+CCTV-5,http://www.hkyc.site:1991/udp/239.253.64.245:5140

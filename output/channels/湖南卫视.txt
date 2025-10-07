@@ -840,3 +840,5 @@
 湖南卫视,http://genglei.8866.org:9901/tsfile/live/1043_1.m3u8
 湖南卫视,https://live.catvod.com/catvod_com.php?id=hunan_twn&token=936319341e51dc87ec8292c072dc64c75eb85fac8e6da37641596d4fc7596364%3A1759711409%3AMTcyLjIxNS4yMTguMTg%3D
 湖南卫视,http://8.138.7.223/tv/hot.php?id=36
+湖南卫视,http://www.hkyc.site:1991/udp/239.253.64.114:5140
+湖南卫视,http://221.10.226.195:5000/rtp/239.0.0.68:5140

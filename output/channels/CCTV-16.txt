@@ -409,4 +409,4 @@ CCTV-16,http://www.hkyc.site:1991/udp/239.253.64.126:5140
 CCTV-16,http://nas.201606.xyz:4022/rtp/239.10.0.187:5140
 CCTV-16,http://www.hkyc.site:1991/udp/239.253.64.251:5140
 CCTV-16,http://111.127.156.228:51234/rtp/239.29.1.146:5000
-CCTV-16,http://cloud.sunrisecom.cn:8888/rtp/239.45.0.12:5140
+CCTV-16,http://36.24.79.120:4022/rtp/233.50.200.112:5140

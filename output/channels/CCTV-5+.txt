@@ -580,7 +580,7 @@ CCTV-5+,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0016_1.m3u8
 CCTV-5+,https://live.catvod.com/catvod_com.php?id=cctv5plus&token=2035f808d8ba49120813997bbe7b12d1238713d377f7bb071846e7960a658ec1%3A1759711409%3AMTcyLjIxNS4yMTguMTg%3D
 CCTV-5+,https://mgtv.ottiptv.cc/mg/641886773.m3u8?userid=5559462299&sign=a36c57ce3304d36bac3018faebf3a06cc6dd5a5e72724f0730b8f048951ae7c2f7c0641394c7fca33b08d10d630a0cc275033fb40e8690f5dbaafd86abbbd222673ba5337c48b4e5caa9574d3d698540ca&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-5+,http://www.hkyc.site:1991/udp/239.253.64.100:5140
-CCTV-5+,http://36.24.79.120:4022/rtp/233.50.201.220:5140
+CCTV-5+,http://111.127.156.228:51234/rtp/239.29.1.10:5001
 CCTV-5+,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018504/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3
 CCTV-5+,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226711/1.m3u8
 CCTV-5+,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226199/1.m3u8
