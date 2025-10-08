@@ -118,12 +118,12 @@
 第一财经,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.161:1025
 第一财经,http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=dycj&zy.m3u8
 第一财经,http://t.061899.xyz/tl/dq.php?id=dycj
-第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1759864889&key=68678288cf0bb39fc6d0dd11b906ed8a
+第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1759951187&key=db87f8d2007982892db25a6a3edd10d3
 第一财经,http://i.iill.top:12838/sh/dycj
 第一财经,http://125.119.132.217:8188/rtp/233.50.200.125:5140
 第一财经,http://116.232.150.101:6000/tsfile/live/0001_49.m3u8?key=txiptv&playlive=1&authid=0
 第一财经,http://106.53.99.30/tv/hot.php?id=dycj
-第一财经,https://mgtv.ottiptv.cc/mg/608780988.m3u8?userid=5559462299&sign=0c92a3d565457f555c75ee2587e1e4da1e9cdc1dee89314e024891ec23cdb54d5da838d4b820c76a633e9e9f4dbd358e5cd3d65931541bcd9d6992093948c8e62dbd16efef04b666ae40517c4e898d27e1&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+第一财经,https://mgtv.ottiptv.cc/mg/608780988.m3u8?userid=5559462299&sign=c2c7d4586a93fcac2ec3921d28eb3fcdadd90660897aaec158add12d75ac2eaba21eafbc74215fd3fc920659e80dfa015671b65cc585fda69e931e0f162b9049edbc00a33c6bcdabca6f5b9496a656d269&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 第一财经,http://vapi.91kds.cc/live1/bstv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=dycjhd
 第一财经,http://z.b.bkpcp.top/m.php?id=dycj
 第一财经,http://192.168.0.5:35455/itv/5000000010000027146.m3u8?cdn=bestzb
@@ -131,8 +131,8 @@
 第一财经,http://www.kaniptv.cn/aa/shkdf.php?id=21
 第一财经,http://139.196.214.238/rtp/239.45.3.211:5140
 第一财经,https://migu.11cn.dpdns.org/-25
-第一财经,https://mgtv.ottiptv.cc/mg/608780988.m3u8?userid=5559462299&sign=c2c7d4586a93fcac2ec3921d28eb3fcdadd90660897aaec158add12d75ac2eaba21eafbc74215fd3fc920659e80dfa015671b65cc585fda69e931e0f162b9049edbc00a33c6bcdabca6f5b9496a656d269&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
-第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1759792891&key=48ae3087c466d40af9e5d75176f3df85
+第一财经,https://mgtv.ottiptv.cc/mg/608780988.m3u8?userid=5559462299&sign=bf72fafa9421706d3b2ad8523b10161bb5b109dc9b762f86ec2cb30a58d6cf9c69caea16958de80721a9e4056d8b2c873480d25ca2ac81416a8fcd593f5e23de36c78ee0206b1b987f1fb0ba5b7a7f3e8d&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1759879297&key=8178639684329880b768bd4569f11eee
 第一财经,https://stream1.freetv.fun/2f27b601604d0daf4f134d21b1f06cd8853f0f6eecdfe11994621aff0564d791.ctv
 第一财经,http://220.190.54.26:8188/udp/233.50.200.125:5140
 第一财经,http://36.24.79.120:4022/rtp/233.50.200.125:5140

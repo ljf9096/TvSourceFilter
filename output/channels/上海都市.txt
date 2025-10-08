@@ -85,9 +85,9 @@
 上海都市,http://www.rogerxlj.top:9998/rtp/239.45.3.236:5140
 上海都市,http://aklim.f3322.net:18885/rtp/239.45.3.236:5140
 上海都市,http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=ds&zy.m3u8
-上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1759864889&key=ed57ac3fe4815a8bf7a7ee61fbff96f2
+上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1759951187&key=c47679b78ef8ed04eeb6a309a373b9c0
 上海都市,http://116.232.150.101:6000/tsfile/live/0001_18.m3u8?key=txiptv&playlive=1&authid=0
 上海都市,http://vapi.91kds.cc/live1/bstv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=shylhd
 上海都市,http://192.168.0.5:35455/itv/5000000010000018926.m3u8?cdn=bestzb
-上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1759792891&key=649ecb3b690c67cded394536a71ca8fc
+上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1759879297&key=e1cf8ef41b27cffa27954fdd61b59e94
 上海都市,http://nas.suntao.online:35455/itv/5000000010000018926.m3u8?cdn=bestzb
