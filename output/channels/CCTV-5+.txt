@@ -585,9 +585,9 @@ CCTV-5+,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0016_1.m3u8
 CCTV-5+,http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV5p
 CCTV-5+,https://live.catvod.com/catvod_com.php?id=cctv5plus&token=6f3e4a700e01d059fa37bcadca27e22cf45e7d68d89c1c627278c594adcef83b%3A1759797680%3AMTcyLjE3Ny4yMDkuMjA5
 CCTV-5+,https://mgtv.ottiptv.cc/mg/641886773.m3u8?userid=5559462299&sign=e0757cbf8897fe71d8bc0f347109607570a63460a8ef70b1b1ea3aaf50f12c92ee1f3442ace17fe2916945be28df8de27081b109d4204662aa3bc0f0ef36f1d92270eba1f9a8d1780e3c511457a6053753&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
-CCTV-5+,http://www.hkyc.site:1991/udp/239.253.64.100:5140
 CCTV-5+,http://115.211.246.55:8001/rtp/233.50.201.220:5140
-CCTV-5+,http://111.127.156.228:51234/rtp/239.29.1.10:5001
+CCTV-5+,http://www.hkyc.site:1991/udp/239.253.64.100:5140
+CCTV-5+,http://36.24.79.120:4022/rtp/233.50.201.220:5140
 CCTV-5+,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018504/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3
 CCTV-5+,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226711/1.m3u8
 CCTV-5+,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226199/1.m3u8

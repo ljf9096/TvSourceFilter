@@ -864,4 +864,5 @@ CCTV-6,http://111.162.206.18:8686/udp/225.1.1.195:5002
 CCTV-6,http://180.165.19.210:4022/rtp/239.45.1.70:5140
 CCTV-6,https://live.catvod.com/catvod_com.php?id=cctv6&token=8ae89546e6858b68021ab2863f33c36e95fea0a57afe2846a910185c685724f2%3A1759797680%3AMTcyLjE3Ny4yMDkuMjA5
 CCTV-6,http://180.76.145.203:656/zb.php?id=cctv6
+CCTV-6,http://115.211.246.55:8001/rtp/233.50.201.198:5140
 CCTV-6,http://www.hkyc.site:1991/udp/239.253.64.246:5140

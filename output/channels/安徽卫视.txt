@@ -780,4 +780,4 @@
 安徽卫视,https://live.lalifeier.eu.org/ahtv/ahws.m3u8?t=1759792891&key=de3f5f02da5dabfe74ad3fbc6afd9e37
 安徽卫视,http://222.169.85.8:9901/tsfile/live/0130_1.m3u8?key=txiptv
 安徽卫视,http://www.hkyc.site:1991/udp/239.253.64.129:5140
-安徽卫视,http://221.10.226.195:5000/rtp/239.0.0.65:5140
+安徽卫视,http://222.218.122.56:8188/udp/239.81.0.211:4056

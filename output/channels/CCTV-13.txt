@@ -797,3 +797,4 @@ CCTV-13,http://180.165.19.210:4022/rtp/239.45.1.198:5140
 CCTV-13,https://live.catvod.com/catvod_com.php?id=cctv13&token=b2e5b623f56ffb8f866ead31b29b15fd49e8735f62222a3bfa31559fec9cd89e%3A1759797680%3AMTcyLjE3Ny4yMDkuMjA5
 CCTV-13,http://dmggg.tyzb.fun:26355/migu/608807423.m3u8?migutoken=d7b6cc3eac046465fe236c2965e3946243ace92809ec4ffa835acbf19f85a23758cc09035119e8dbb5866d0b84d66ffcb757e160fc002572802f546bad72ac31d4554c3c0e5167b0817a685258
 CCTV-13,http://180.76.145.203:656/zb.php?id=cctv13
+CCTV-13,http://www.hkyc.site:1991/udp/239.253.64.59:5140

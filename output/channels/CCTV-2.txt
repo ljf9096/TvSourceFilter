@@ -909,4 +909,3 @@ CCTV-2,https://live.catvod.com/catvod_com.php?id=cctv2&token=f9083d5a25ef98e5cfc
 CCTV-2,https://mgtv.ottiptv.cc/mg/631780532.m3u8?userid=5559462299&sign=93b928bbcba7dd3c12cf05270c1acdda9b0d14148206de1d80715b8b7346e123d1482afedcfc1251dae14c0b1410365cc7610e4c865bb09003cf8c106594913196fe614e8b03fb85ebf99c1b501e9ca932&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-2,http://180.76.145.203:656/zb.php?id=cctv2
 CCTV-2,https://60.191.56.186:8888/hls/2/index.m3u8
-CCTV-2,http://www.hkyc.site:1991/udp/239.253.64.195:5140

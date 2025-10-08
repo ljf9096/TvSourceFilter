@@ -43,4 +43,3 @@
 贵州卫视,http://t.061899.xyz/tl/tl.php?id=gzws
 贵州卫视,http://106.53.99.30/tv/20250803.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86
 贵州卫视,http://106.53.99.30/tv/hot.php?id=gzws
-贵州卫视,http://www.hkyc.site:1991/udp/239.253.64.197:5140

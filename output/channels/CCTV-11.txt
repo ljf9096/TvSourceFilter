@@ -742,4 +742,4 @@ CCTV-11,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0011_1.m3u8
 CCTV-11,http://180.165.19.210:4022/rtp/239.45.1.196:5140
 CCTV-11,https://live.catvod.com/catvod_com.php?id=cctv11&token=4cf6053d01f44a92a64b832be4818fd28a05b790ba5ccddda28a36dcdfee8d7e%3A1759797680%3AMTcyLjE3Ny4yMDkuMjA5
 CCTV-11,http://www.hkyc.site:1991/udp/239.253.64.70:5140
-CCTV-11,http://221.10.226.195:5000/rtp/239.0.0.187:5140
+CCTV-11,http://111.127.156.228:51234/rtp/239.29.0.205:5000

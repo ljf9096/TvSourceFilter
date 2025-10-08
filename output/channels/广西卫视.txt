@@ -624,7 +624,5 @@
 广西卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY%3D&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9neHdzLm0zdTg%3D
 广西卫视,https://live.catvod.com/catvod_com.php?id=guangxi&token=579d77c627809f2c07ba3b336c576f052673492f1bee7bab9573f3ca4799691a%3A1759797680%3AMTcyLjE3Ny4yMDkuMjA5
 广西卫视,https://stream1.freetv.fun/3899ee96bfc51a8e53baa9d48c86b9b9a52907112fffcb33e94df2c05cc02d3c.m3u8
-广西卫视,http://221.10.226.195:5000/rtp/239.0.0.185:5140
-广西卫视,http://183.220.20.17:4321/rtp/239.11.0.48:5140
 广西卫视,http://117.174.25.254:8188/rtp/239.0.0.185:5140
 广西卫视,http://117.95.105.208:9999/rtp/239.49.8.10:8000

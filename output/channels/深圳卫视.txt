@@ -760,4 +760,3 @@
 深圳卫视,https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1759792891&key=df6c924729d7fbaf1de83c9e9b628221
 深圳卫视,http://222.169.85.8:9901/tsfile/live/0126_1.m3u8?key=txiptv
 深圳卫视,http://www.hkyc.site:1991/udp/239.253.64.203:5140
-深圳卫视,http://221.10.226.195:5000/rtp/239.0.0.71:5140
