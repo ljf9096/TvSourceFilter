@@ -850,5 +850,3 @@ CCTV-9,http://49.77.104.103:8554/rtp/239.49.8.53:9814
 CCTV-9,https://live.catvod.com/catvod_com.php?id=cctv9hd&token=4730583e84303d9096c1a55c3a995a0395a9539ba4f847177d8551c393599952%3A1759884138%3ANDAuNjUuNTguMTM2
 CCTV-9,http://180.76.145.203:656/zb.php?id=cctv9
 CCTV-9,http://106.53.99.30/tv/api.php?id=cctv9
-CCTV-9,http://www.hkyc.site:1991/udp/239.253.64.76:5140
-CCTV-9,http://183.220.20.17:4321/rtp/239.11.0.111:5140

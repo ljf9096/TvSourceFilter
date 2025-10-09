@@ -212,10 +212,7 @@ CHC动作电影,http://202.168.168.50:5000/tsfile/live/1065_1.m3u8?key=txiptv&pl
 CHC动作电影,http://111.162.206.18:8686/udp/225.1.1.215:5002
 CHC动作电影,https://mgtv.ottiptv.cc/mg/644368714.m3u8?userid=5559462299&sign=e308ca2b7c448a880b783679f0132c8c9cd674990db2099058431b1c564aa4c9b9fd733af12f7df361c28cfeb3dc3cafa978218a9b74bcf46f05ba4a556d688e0bb0bc75eb1a3506a29fbda89e7b0bc045&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CHC动作电影,http://8.138.7.223/tv/hot.php?id=66
-CHC动作电影,http://117.174.25.254:8188/rtp/239.0.0.24:5140
 CHC动作电影,http://221.10.226.195:5000/rtp/239.0.0.24:5140
+CHC动作电影,http://117.174.25.254:8188/rtp/239.0.0.24:5140
 CHC动作电影,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226034/1.m3u8
 CHC动作电影,http://iptv.huuc.edu.cn/hls/chcatv.m3u8
-CHC动作电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225661/index.m3u8
-CHC动作电影,http://tv.scjyhd.com:4022/udp/239.11.0.142:5140
-CHC动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8

@@ -464,8 +464,7 @@
 陕西卫视,http://stream.snrtv.com/sxbc-star-dqHY47.m3u8
 陕西卫视,http://101.66.199.25:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
 陕西卫视,http://101.66.199.126:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
-陕西卫视,http://117.174.25.254:8188/rtp/239.0.0.53:5140
 陕西卫视,http://183.220.20.17:4321/rtp/239.11.0.54:5140
+陕西卫视,http://117.174.25.254:8188/rtp/239.0.0.53:5140
 陕西卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226707/1.m3u8
 陕西卫视,http://missyao.com:35455/bptv/10000100000000050000000003887404.m3u8
-陕西卫视,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887404.m3u8

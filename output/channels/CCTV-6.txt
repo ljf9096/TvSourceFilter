@@ -863,5 +863,4 @@ CCTV-6,http://180.165.19.210:4022/rtp/239.45.1.70:5140
 CCTV-6,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY%3D&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHY2Lm0zdTg%3D
 CCTV-6,https://live.catvod.com/catvod_com.php?id=cctv6&token=9c660e3f9bfb91e779f07e376f74f3c535143466f70a72303787fbd616bd20c0%3A1759884138%3ANDAuNjUuNTguMTM2
 CCTV-6,http://180.76.145.203:656/zb.php?id=cctv6
-CCTV-6,http://115.211.246.55:8001/rtp/233.50.201.198:5140
 CCTV-6,http://www.hkyc.site:1991/udp/239.253.64.246:5140

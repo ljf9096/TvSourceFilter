@@ -113,6 +113,7 @@
 东方卫视,http://112.122.32.151:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
 东方卫视,http://112.123.217.208:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://112.123.243.37:50085/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
+东方卫视,http://112.27.235.94:8000/hls/28/index.m3u8
 东方卫视,http://112.46.85.60:8009/hls/31/index.m3u8
 东方卫视,http://112.6.165.112:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://113.101.119.27:808/hls/508/index.m3u8
@@ -192,6 +193,7 @@
 东方卫视,http://123.154.153.23:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
 东方卫视,http://123.159.34.9:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://123.159.34.9:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://123.160.234.239:9901/tsfile/live/0107_1.m3u8
 东方卫视,http://123.162.97.13:8888/hls/27/index.m3u8
 东方卫视,http://123.52.19.202:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://123.54.174.231:808/hls/62/index.m3u8
@@ -203,6 +205,8 @@
 东方卫视,http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225503/index.m3u8
 东方卫视,http://125.42.149.192:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://125.42.150.152:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://125.43.252.243:9901/tsfile/live/0107_2.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://125.43.255.84:9901/tsfile/live/0107_2.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://125.82.168.238:8888/rtp/235.254.198.33:1408
 东方卫视,http://125.82.168.238:8888/rtp/235.254.198.73:1568
 东方卫视,http://125.82.171.210:8888/rtp/235.254.198.33:1408
@@ -226,8 +230,11 @@
 东方卫视,http://171.120.111.8:9003/hls/23/index.m3u8
 东方卫视,http://171.13.114.44:808/hls/62/index.m3u8
 东方卫视,http://171.14.92.77:808/hls/62/index.m3u8
+东方卫视,http://171.15.157.71:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://171.213.196.134:8088/udp/239.93.0.123:5140
 东方卫视,http://171.213.196.134:8088/udp/239.93.1.44:5140
+东方卫视,http://171.38.79.147:8181/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://171.8.189.234:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://175.22.226.131:888/hls/35/index.m3u8
 东方卫视,http://180.117.149.221:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://180.119.183.89:8800/rtp/239.49.1.32:6000
@@ -235,6 +242,7 @@
 东方卫视,http://180.165.132.50:5003/dfws.m3u8?token=7375646f484b0da30cd3b1925793ddc32895d8c0&z=1f48
 东方卫视,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
 东方卫视,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/zqpd8m/8000000/mnf.m3u8
+东方卫视,http://182.114.215.95:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://182.120.140.75:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://182.122.74.33:8089/hls/34/index.m3u8
 东方卫视,http://182.123.141.251:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -249,9 +257,11 @@
 东方卫视,http://183.185.105.197:8082/rtp/226.0.2.34:8184
 东方卫视,http://183.185.129.160:8085/rtp/226.0.2.175:9312
 东方卫视,http://183.185.129.160:8085/rtp/226.0.2.34:8184
+东方卫视,http://183.185.254.246:9999/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://183.186.89.104:8899/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://183.3.134.56:9901/tsfile/live/0107_1.m3u8
 东方卫视,http://183.66.15.146:60901/tsfile/live/0107_1.m3u8
+东方卫视,http://183.66.15.146:60901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://183.94.1.118:8801/tsfile/live/0107_1.m3u8
 东方卫视,http://1b6467f415.iok.la:9931/tsfile/live/1061_1.m3u8
 东方卫视,http://202.100.46.58:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -299,6 +309,7 @@
 东方卫视,http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8
 东方卫视,http://36.32.99.215:5003/dfws.m3u8
 东方卫视,http://36.40.237.20:9999/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
+东方卫视,http://39.135.135.28/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 东方卫视,http://39.164.160.249:9901/tsfile/live/0107_1.m3u8
 东方卫视,http://39.164.180.36:19901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
 东方卫视,http://39.165.44.179:9901/tsfile/live/0107_1.m3u8
@@ -322,6 +333,7 @@
 东方卫视,http://58.220.219.14:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://58.221.214.82:9901/tsfile/live/0107_1.m3u8
 东方卫视,http://58.221.214.82:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://58.46.28.144:9999/tsfile/live/0107_1.m3u8
 东方卫视,http://58.57.21.166:9901/tsfile/live/0107_1.m3u8
 东方卫视,http://58.57.21.166:9901/tsfile/live/0107_1.m3u8?key=txiptv
 东方卫视,http://58.57.40.22:9901/tsfile/live/1030_1.m3u8
@@ -472,6 +484,9 @@
 东方卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/5000000010000032246/index.m3u8?channel-id=bestzb&Contentid=5000000010000032246&livemode=1&stbId=3
 东方卫视,http://[2409:8087:5e08:25::16]:6610/000000001000/1000000001000005866/index.m3u8?channel-id=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=3
 东方卫视,http://api.kkitv.itv888.cn:8080/hls/p269fvbehye/index.m3u8
+东方卫视,http://36.136.13.250:18181/tsfile/live/0107_1.m3u8
+东方卫视,http://36.136.13.230:18181/tsfile/live/0107_1.m3u8
+东方卫视,http://36.136.13.248:18181/tsfile/live/0107_1.m3u8
 东方卫视,http://39.134.136.198:6410/000000001000/5000000011000265007/index.m3u8?channel-id=bestzb
 东方卫视,http://39.134.136.198:6410/000000001000/5000000004000014098/index.m3u8?channel-id=bestzb
 东方卫视,http://36.129.204.120:65501/1025.m3u8
@@ -517,7 +532,6 @@
 东方卫视,https://epg.pw/stream/96fb4677915219a69c151563855a231f0b7d6e7392e403e66e40af920843cb68.m3u8
 东方卫视,https://epg.pw/stream/0d7e424973d9b480a4900c37d93c49f47f514ba52394992af17fc1d0360e5dc7.m3u8
 东方卫视,http://183.249.78.44:10800/newlive/live/hls/21/live.m3u8
-东方卫视,http://112.27.235.94:8000/hls/28/index.m3u8
 东方卫视,http://kkk.888.3116598.xyz/api.php?n=tttt&id=ZykvNW&tk=FgM0vQMejxvG
 东方卫视,http://122.234.156.233:55555/rtp/233.50.201.125:5140
 东方卫视,http://150.158.112.123/php/dl.php?id=东方卫视
@@ -572,8 +586,6 @@
 东方卫视,http://114.100.195.34:4022/rtp/238.1.78.163:7176
 东方卫视,http://117.86.51.74:8888/rtp/239.49.8.140:6000
 东方卫视,http://122.189.103.226:8010/rtp/228.0.0.62:6108
-东方卫视,http://36.136.13.248:18181/tsfile/live/0107_1.m3u8
-东方卫视,http://36.136.13.250:18181/tsfile/live/0107_1.m3u8
 东方卫视,http://115.171.216.75:4000/udp/225.1.8.45:8032
 东方卫视,http://114.107.45.199:8188/rtp/238.1.78.163:7176
 东方卫视,http://218.86.185.47:4022/rtp/238.255.2.98:5999
@@ -599,7 +611,6 @@
 东方卫视,http://171.213.238.254:8188/udp/239.93.0.123:5140
 东方卫视,HLS\\n
 东方卫视,http://106.59.2.64:55555/udp/239.200.200.8:8032
-东方卫视,http://36.136.13.230:18181/tsfile/live/0107_1.m3u8
 东方卫视,http://106.59.2.228:55555/udp/239.200.200.8:8032
 东方卫视,http://60.16.0.216:5757/hls/23/index.m3u8
 东方卫视,http://124.128.73.58:9901/tsfile/live/0107_2.m3u8?key=txiptv

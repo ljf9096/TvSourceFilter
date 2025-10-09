@@ -595,3 +595,4 @@ CCTV-17,https://mgtv.ottiptv.cc/mg/673168256.m3u8?userid=5559462299&sign=461c815
 CCTV-17,http://180.76.145.203:656/zb.php?id=cctv17
 CCTV-17,http://106.53.99.30/tv/api.php?id=cctv17
 CCTV-17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv
+CCTV-17,http://183.220.20.17:4321/rtp/239.11.0.107:5140

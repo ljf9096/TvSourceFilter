@@ -581,9 +581,10 @@ CCTV-5+,https://live.catvod.com/catvod_com.php?id=cctv5plus&token=933f37dc60d25f
 CCTV-5+,http://108.181.20.181:42885/CCTV-5+.m3u8
 CCTV-5+,http://108.181.20.181:43971/CCTV-5+.m3u8
 CCTV-5+,https://mgtv.ottiptv.cc/mg/641886773.m3u8?userid=5559462299&sign=83a8ddd04e89cb1484cc7c565d79750ce04ecb30b72767315d898f15041f3c44c44c1ab4841ac90730a65db043b91486cd4696007d8fd2136f14b8c8f5990fd945cae034b94bb0e48ccb13177a2bd75e41&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
-CCTV-5+,http://115.211.246.55:8001/rtp/233.50.201.220:5140
 CCTV-5+,http://www.hkyc.site:1991/udp/239.253.64.100:5140
-CCTV-5+,http://36.24.79.120:4022/rtp/233.50.201.220:5140
+CCTV-5+,http://115.211.246.55:8001/rtp/233.50.201.220:5140
+CCTV-5+,http://111.127.156.228:51234/rtp/239.29.1.10:5001
+CCTV-5+,http://183.220.20.17:4321/rtp/239.11.0.241:5140
 CCTV-5+,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018504/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3
 CCTV-5+,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226711/1.m3u8
 CCTV-5+,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226199/1.m3u8
