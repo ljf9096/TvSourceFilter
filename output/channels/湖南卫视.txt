@@ -840,3 +840,4 @@
 湖南卫视,https://live.catvod.com/catvod_com.php?id=hunan_twn&token=4c44ab193a6d4425b9602b9c7d1d7d08f17bb7ee3fd194541837ace93073de6e%3A1759884138%3ANDAuNjUuNTguMTM2
 湖南卫视,http://8.138.7.223/tv/hot.php?id=36
 湖南卫视,http://www.hkyc.site:1991/udp/239.253.64.114:5140
+湖南卫视,http://111.127.156.228:51234/rtp/239.29.0.90:5000

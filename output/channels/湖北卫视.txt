@@ -808,3 +808,6 @@
 湖北卫视,https://live.catvod.com/catvod_com.php?id=hubei&token=ce48a1202798ed4d0702e14fba97a5fc3ff952654cef2b0f6ab55af5eb7d45be%3A1759884138%3ANDAuNjUuNTguMTM2
 湖北卫视,https://mgtv.ottiptv.cc/mg/947472496.m3u8?userid=5559462299&sign=89d34d965cac39c4eaae871eda1e1abc8f07d31eefd96320d7b22b63808763040ba483eaed91499dc5597c05fe5d6428bfaa0a45a5cade44f790417ec267586f60b545c8725f964e55af91f3b395cbfbdc&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 湖北卫视,https://stream1.freetv.fun/f159656e972aa17ba9ff4e974713a0f92b152108582d298455b0bed215d2427b.m3u8
+湖北卫视,http://www.hkyc.site:1991/udp/239.253.64.207:5140
+湖北卫视,http://221.10.226.195:5000/rtp/239.0.0.67:5140
+湖北卫视,http://111.127.156.228:51234/rtp/239.29.0.107:5000

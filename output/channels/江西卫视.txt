@@ -778,3 +778,4 @@
 江西卫视,https://stream1.freetv.fun/bc4d49bde015fc24aafb924423536d9ec2f09ad3d55313e4a482ba85ae48b175.ctv
 江西卫视,http://222.169.85.8:9901/tsfile/live/0138_1.m3u8?key=txiptv
 江西卫视,http://www.hkyc.site:1991/udp/239.253.64.56:5140
+江西卫视,http://36.24.79.120:4022/rtp/233.50.201.145:5140

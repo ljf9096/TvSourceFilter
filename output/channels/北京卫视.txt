@@ -830,4 +830,4 @@
 北京卫视,https://live.catvod.com/catvod_com.php?id=beijing&token=c62f3c3357f33e729b24c27f8a2dce3db480e8f402237ccd66165ff89f74a09a%3A1759884138%3ANDAuNjUuNTguMTM2
 北京卫视,https://stream1.freetv.fun/217f4f75f9a74bf1809629bcbb3fa197c1ba1b4ba529514de80cde5171e972a0.ctv
 北京卫视,http://www.hkyc.site:1991/udp/239.253.64.204:5140
-北京卫视,http://222.218.122.56:8188/udp/239.81.0.109:4056
+北京卫视,http://36.24.79.120:4022/rtp/233.50.201.107:5140

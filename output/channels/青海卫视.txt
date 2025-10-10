@@ -548,3 +548,5 @@
 青海卫视,http://106.53.99.30/tv/hot.php?id=qhws
 青海卫视,https://mgtv.ottiptv.cc/mg/947472506.m3u8?userid=5559462299&sign=9030279e482a0f8761f69f8e717e87dd288dba854b0e4de0fe4528329d120cf438077c91080e937fae4ca61ba6b9f395fa3d175883158e723a9af88417f8341d01a0fe7ca0ab37ea0430c12df28be25446&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 青海卫视,http://tpc.x3322.net:9901/tsfile/live/0140_1.m3u8
+青海卫视,http://nas.suntao.online:35455/itv/1000000002000013359.m3u8?cdn=ystenlive
+青海卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227189/index.m3u8

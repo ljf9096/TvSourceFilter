@@ -878,4 +878,5 @@
 广东卫视,https://live.catvod.com/catvod_com.php?id=guangdongweishi_twn&token=a8b4a2177a651908bc64bdf6c8cb4743a31c4194ab7d7ed595137e546d5eb25a%3A1759884138%3ANDAuNjUuNTguMTM2
 广东卫视,https://mgtv.ottiptv.cc/mg/608831231.m3u8?userid=5559462299&sign=88832cbb3eb889e8de9ea53f7c6aa590566f44af52a37046b9b00808ef20acdfdb0787c67bd8bb4d417884c9be977c8cc7512baaa50b3aa6c39a97e6dfb11c5d40f10822e41e422b201f473403402cdf67&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 广东卫视,http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv
-广东卫视,http://221.10.226.195:5000/rtp/239.0.0.70:5140
+广东卫视,http://111.127.156.228:51234/rtp/239.29.0.123:5000
+广东卫视,http://117.95.105.208:9999/rtp/239.49.8.13:9422
