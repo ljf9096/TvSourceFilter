@@ -434,9 +434,3 @@
 陕西卫视,http://gfr.x3322.net:9901/tsfile/live/1042_1.m3u8
 陕西卫视,http://183.220.20.17:4321/rtp/239.11.0.54:5140
 陕西卫视,http://117.174.25.254:8188/rtp/239.0.0.53:5140
-陕西卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226707/1.m3u8
-陕西卫视,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887404.m3u8
-陕西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227216/index.m3u8
-陕西卫视,http://lml1971.cn:35455/gptv/G_SHANXI-HQ.m3u8
-陕西卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225807/1.m3u8
-陕西卫视,http://ott.mobaibox.com/PLTV/3/224/3221227583/index.m3u8

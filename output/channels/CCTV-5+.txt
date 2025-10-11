@@ -570,8 +570,6 @@ CCTV-5+,http://8.138.7.223/tv/cctv.php?id=CCTV54d61bd11c9a343b782b3381a3c3f6540H
 CCTV-5+,http://www.hkyc.site:1991/udp/239.253.64.100:5140
 CCTV-5+,http://36.24.79.120:4022/rtp/233.50.201.220:5140
 CCTV-5+,http://111.127.156.228:51234/rtp/239.29.1.10:5001
-CCTV-5+,http://183.220.20.17:4321/rtp/239.11.0.241:5140
-CCTV-5+,http://123.113.70.190:2321/rtp/239.3.1.130:8004
 CCTV-5+,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018504/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3
 CCTV-5+,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226711/1.m3u8
 CCTV-5+,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226199/1.m3u8

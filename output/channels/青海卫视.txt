@@ -535,5 +535,3 @@
 青海卫视,http://tpc.x3322.net:9901/tsfile/live/0140_1.m3u8
 青海卫视,http://gfr.x3322.net:9901/tsfile/live/1045_1.m3u8
 青海卫视,http://106.53.99.30/tv/20250803.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86
-青海卫视,http://nas.suntao.online:35455/itv/1000000002000013359.m3u8?cdn=ystenlive
-青海卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227189/index.m3u8

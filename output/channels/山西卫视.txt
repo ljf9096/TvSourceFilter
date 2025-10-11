@@ -413,6 +413,3 @@
 山西卫视,https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1760052118&key=0778ce02ae1980939c4f5b63d564a860
 山西卫视,http://101.66.199.130:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://gfr.x3322.net:9901/tsfile/live/1037_1.m3u8
-山西卫视,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887413.m3u8
-山西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227191/index.m3u8
-山西卫视,https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8

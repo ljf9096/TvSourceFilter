@@ -806,4 +806,3 @@ CCTV-9,http://106.53.99.30/tv/api.php?id=cctv9
 CCTV-9,http://gfr.x3322.net:9901/tsfile/live/1008_1.m3u8
 CCTV-9,http://gfr.x3322.net:9901/tsfile/live/1074_1.m3u8
 CCTV-9,http://www.hkyc.site:1991/udp/239.253.64.76:5140
-CCTV-9,http://111.127.156.228:51234/rtp/239.29.0.118:5000

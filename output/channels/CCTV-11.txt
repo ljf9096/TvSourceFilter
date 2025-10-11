@@ -704,4 +704,3 @@ CCTV-11,https://live.catvod.com/catvod_com.php?id=cctv11&token=be49435a18bf4fba2
 CCTV-11,http://gfr.x3322.net:9901/tsfile/live/1010_1.m3u8
 CCTV-11,http://gfr.x3322.net:9901/tsfile/live/1076_1.m3u8
 CCTV-11,http://www.hkyc.site:1991/udp/239.253.64.70:5140
-CCTV-11,http://lfdxn.jydjd.top:2903/udp/225.1.101.100:7523
