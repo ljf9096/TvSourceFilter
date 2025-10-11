@@ -84,10 +84,10 @@
 上海都市,http://www.rogerxlj.top:9998/rtp/239.45.3.236:5140
 上海都市,http://karika.myds.me:4022/rtp/239.45.3.243:5140
 上海都市,http://op.aklim.dpdns.org:18885/rtp/239.45.3.236:5140
-上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1760124013&key=ed67362a42c1ff893519a68abed5dd2c
+上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1760210345&key=80bddff9dedbe583235f64d2a4807531
 上海都市,https://stream1.freetv.fun/shang-hai-du-shi-13.m3u8
 上海都市,http://vapi.91kds.cc/live1/bstv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=shylhd
 上海都市,http://192.168.0.5:35455/itv/5000000010000018926.m3u8?cdn=bestzb
-上海都市,http://iptv.cqshushu.com/iptv807.php?id=6163743d706c617926746f6b656e3d3566643766623832613262316366396533313362646433633730653565663035267469643d6974762669643d323034&token=9ab167e0a62c8c5630291569c5d09fab
-上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1760052118&key=3add889c8ae674acc19c00ae97fbbc49
+上海都市,http://iptv.cqshushu.com/iptv807.php?id=6163743d706c617926746f6b656e3d3366323766653465623264663433656438346332626136636136663362343261267469643d6974762669643d323034&token=9ab167e0a62c8c5630291569c5d09fab
+上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1760138454&key=807332d8f979088d10eb76116c39b3d1
 上海都市,http://nas.suntao.online:35455/itv/5000000010000018926.m3u8?cdn=bestzb

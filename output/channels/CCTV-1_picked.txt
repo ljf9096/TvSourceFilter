@@ -47,6 +47,9 @@ CCTV-1,https://stream1.freetv.fun/cctv1-6.ctv
 CCTV-1,https://stream1.freetv.fun/cctv1-21.ctv
 CCTV-1,https://stream1.freetv.fun/cctv1-73.ctv
 CCTV-1,http://8.138.7.223/tv/hot.php?id=1
+CCTV-1,http://www.hkyc.site:1991/udp/239.253.64.120:5140
+CCTV-1,https://stream1.freetv.fun/cctv-1-17.ctv
+CCTV-1,http://113.15.109.216:59901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,https://stream1.freetv.fun/cctv1-zong-he-10.ctv
 CCTV-1,http://118.81.76.194:9003/hls/1/index.m3u8
 CCTV-1,http://123.149.238.49:9003/hls/1/index.m3u8
@@ -55,4 +58,3 @@ CCTV-1,http://106.53.99.30/tv/api.php?id=cctv1
 CCTV-1,http://hbhyjq.ufyct.com:1088/hls/9/index.m3u8
 CCTV-1,http://gfr.x3322.net:9901/tsfile/live/1000_1.m3u8
 CCTV-1,http://gfr.x3322.net:9901/tsfile/live/1066_1.m3u8
-CCTV-1,http://113.15.109.216:59901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0

@@ -34,8 +34,8 @@
 河北卫视,http://t.061899.xyz/tl/tl.php?id=hbws
 河北卫视,http://t.061899.xyz/tl/dq.php?id=hbws
 河北卫视,http://8.138.7.223/tv/hot.php?id=21
+河北卫视,http://www.hkyc.site:1991/udp/239.253.64.210:5140
 河北卫视,http://k.061899.xyz/m.php?id=hbws
 河北卫视,http://106.53.99.30/tv/hot.php?id=hbws
 河北卫视,http://gfr.x3322.net:9901/tsfile/live/1034_1.m3u8
 河北卫视,http://106.53.99.30/tv/20250803.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86
-河北卫视,http://www.hkyc.site:1991/udp/239.253.64.210:5140

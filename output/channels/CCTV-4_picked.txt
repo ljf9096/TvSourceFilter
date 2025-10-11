@@ -37,6 +37,8 @@ CCTV-4,https://stream1.freetv.fun/cctv4k-2.ctv
 CCTV-4,https://stream1.freetv.fun/cctv4-55.ctv
 CCTV-4,https://stream1.freetv.fun/cctv4-guo-ji-3.ctv
 CCTV-4,http://8.138.7.223/tv/hot.php?id=4
+CCTV-4,http://www.hkyc.site:1991/udp/239.253.64.196:5140
+CCTV-4,https://stream1.freetv.fun/cctv-4-4.ctv
 CCTV-4,https://stream1.freetv.fun/cctv4-46.ctv
 CCTV-4,https://stream1.freetv.fun/cctv4-zhong-wen-guo-ji-1.ctv
 CCTV-4,http://180.76.145.203:656/zb.php?id=cctv4

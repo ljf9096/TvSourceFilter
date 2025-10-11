@@ -97,6 +97,8 @@
 东方影视,http://op.aklim.dpdns.org:18885/rtp/239.45.3.237:5140
 东方影视,http://t.061899.xyz/tl/dq.php?id=dfys
 东方影视,https://stream1.freetv.fun/dong-fang-ying-shi-14.m3u8
+东方影视,http://116.232.150.101:6000/tsfile/live/0001_19.m3u8?key=txiptv&playlive=1&authid=0
+东方影视,https://17.130519.xyz/PLTV/11/224/3221225744/index.m3u8
 东方影视,http://139.196.151.191:2051/rtp/239.45.3.237:5140
 东方影视,http://180.165.30.149:4022/rtp/239.45.3.237:5140
 东方影视,http://223.167.245.215:8001/rtp/239.45.3.237:5140
