@@ -26,6 +26,7 @@ gslbmgsplive.miguvideo.com
 8.138.7.223/tv/fjtv1.php
 8.138.7.223/tv/gdmzyd.php
 8.138.7.223/tv/mgitv.php
+8.138.7.223/tv/shtv.php
 #特殊源
 tvbus://
 #电台台
@@ -203,6 +204,7 @@ em.21dtv.com
 hitmusic.hu
 #特殊字符
 公众号
+
 
 
 
