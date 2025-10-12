@@ -34,4 +34,7 @@
 贵州卫视,http://8.138.7.223/tv/hot.php?id=42
 贵州卫视,http://www.hkyc.site:1991/udp/239.253.64.197:5140
 贵州卫视,https://stream1.freetv.fun/gui-zhou-wei-shi-74.ctv
+贵州卫视,https://stream1.freetv.fun/gui-zhou-wei-shi-43.ctv
+贵州卫视,https://stream1.freetv.fun/gui-zhou-wei-shi-22.ctv
+贵州卫视,https://stream1.freetv.fun/902bf1b0febec739ab71abb790e136417a9c7686e81cfa97705dfe0ae0afda28.ctv
 贵州卫视,http://106.53.99.30/tv/20250803.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86

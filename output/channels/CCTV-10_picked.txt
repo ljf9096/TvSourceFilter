@@ -16,11 +16,10 @@ CCTV-10,http://222.169.85.8:9901/tsfile/live/0010_1.m3u8
 CCTV-10,http://60.29.124.66:6080/hls/21/index.m3u8
 CCTV-10,http://61.156.228.12:8154/tsfile/live/0010_1.m3u8
 CCTV-10,https://60.191.56.186:8888/hls/10/index.m3u8
-CCTV-10,http://api.kkitv.itv888.cn:8080/hls/wd86wxjxn8/index.m3u8
-CCTV-10,http://hbhyjq.ufyct.com:1088/hls/18/index.m3u8
 CCTV-10,http://221.226.51.220:50081/newlive/live/hls/10/live.m3u8
 CCTV-10,http://218.17.33.178:53290/tsfile/live/1010_1.m3u8?key=txiptv
 CCTV-10,http://218.17.33.178:53290/tsfile/live/1010_1.m3u8
+CCTV-10,http://api.kkitv.itv888.cn:8080/hls/wd86wxjxn8/index.m3u8
 CCTV-10,http://113.15.109.216:59901/tsfile/live/0010_1.m3u8
 CCTV-10,http://113.15.109.216:59901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,http://112.132.10.54:9901/tsfile/live/0010_1.m3u8

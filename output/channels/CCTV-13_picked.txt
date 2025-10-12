@@ -21,7 +21,6 @@ CCTV-13,https://60.191.56.186:8888/hls/13/index.m3u8
 CCTV-13,https://stream1.freetv.fun/3de70449cde3176a3ee598bc26020f02bd97aa698aaf148c0a9acd4a11e56d7e.ctv
 CCTV-13,https://stream1.freetv.fun/5e0c514e6ba3d091c01c511c50880499f6584b993ae7c5de863424917928ece8.ctv
 CCTV-13,http://api.kkitv.itv888.cn:8080/hls/9sxg4yjgot/index.m3u8
-CCTV-13,http://hbhyjq.ufyct.com:1088/hls/21/index.m3u8
 CCTV-13,http://218.17.33.178:53290/tsfile/live/1013_1.m3u8
 CCTV-13,http://221.226.51.220:50081/newlive/live/hls/13/live.m3u8
 CCTV-13,http://218.17.33.178:53290/tsfile/live/1013_1.m3u8?key=txiptv

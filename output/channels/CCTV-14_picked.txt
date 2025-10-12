@@ -16,7 +16,6 @@ CCTV-14,http://222.169.85.8:9901/tsfile/live/0014_1.m3u8?key=txiptv
 CCTV-14,http://60.29.124.66:6080/hls/25/index.m3u8
 CCTV-14,http://61.156.228.12:8154/tsfile/live/0014_1.m3u8
 CCTV-14,http://api.kkitv.itv888.cn:8080/hls/dyfpqk8fpzi/index.m3u8
-CCTV-14,http://hbhyjq.ufyct.com:1088/hls/22/index.m3u8
 CCTV-14,http://221.226.51.220:50081/newlive/live/hls/14/live.m3u8
 CCTV-14,http://218.17.33.178:53290/tsfile/live/1014_1.m3u8
 CCTV-14,http://113.15.109.216:59901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -37,6 +36,7 @@ CCTV-14,https://stream1.freetv.fun/cctv14-66.ctv
 CCTV-14,https://stream1.freetv.fun/cctv14-59.ctv
 CCTV-14,http://8.138.7.223/tv/hot.php?id=14
 CCTV-14,http://www.hkyc.site:1991/udp/239.253.64.115:5140
+CCTV-14,https://stream1.freetv.fun/cctv-14-6.ctv
 CCTV-14,https://stream1.freetv.fun/cctv14-shao-er-9.ctv
 CCTV-14,https://stream1.freetv.fun/cctv14-shao-er-5.ctv
 CCTV-14,http://dmggg.tyzb.fun:26355/migu/624878440.m3u8?migutoken=44d919b039e3d372a460fba303a52295689bfe48526cd04c60ec0c576d0b5e500fd140959d1c355c309ef5ab64e4327bd9e0409881255ad83142e677f3db4d67b1ddf8b90d26c75d1b7214898a
