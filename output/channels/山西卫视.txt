@@ -1,4 +1,3 @@
-山西卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1759030213&token=aa1a07c9116c0266533a473167556ea0
 山西卫视,http://gfr.x3322.net:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://60.174.40.117:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://36.32.174.67:60080/newlive/live/hls/43/live.m3u8?key=txiptv&playlive=1&authid=0

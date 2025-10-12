@@ -1,4 +1,3 @@
-CCTV-15,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV15&t=1759030213&token=e41e45d7b9bf7282d1a34329aab6aa3a
 CCTV-15,http://gfr.x3322.net:9901/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-15,http://gfr.x3322.net:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-15,http://k.061899.xyz/m.php?id=cctv15&key=txiptv&playlive=1&authid=0

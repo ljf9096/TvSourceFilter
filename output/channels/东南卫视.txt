@@ -1,4 +1,3 @@
-东南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&t=1759030213&token=ffe1f0c184d539201c17c60b3e297587
 东南卫视,http://gfr.x3322.net:9901/tsfile/live/1099_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://k.061899.xyz/m.php?id=dnws&key=txiptv&playlive=1&authid=0
 东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8?key=txiptv&playlive=1&authid=0
@@ -674,5 +673,4 @@
 东南卫视,https://live.catvod.com/catvod_com.php?id=fujian&token=0bf2aff0b9c8b7b17efcd03f259823afb49ad35c8424982a2d764d64c8780994%3A1760143224%3AMjAuNTUuMTUuMTAx
 东南卫视,https://mgtv.ottiptv.cc/mg/849116810.m3u8?userid=5559462299&sign=0d4cb579d5de4bf7d10de0b28ad57d94ac47d7e291a6bb411bd1884b2e275b4f19daaa45ee21344017db682edee2ec562e49b97213c84f2a86e479a4d818b495420f2c73aeb9b40ee9e9a8b9c591b2b129&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 东南卫视,http://106.53.99.30/tv/20250803.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86
-东南卫视,http://183.220.20.17:4321/rtp/239.11.0.41:5140
 东南卫视,http://111.127.156.228:51234/rtp/239.29.0.103:5000

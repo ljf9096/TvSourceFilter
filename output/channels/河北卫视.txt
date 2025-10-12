@@ -1,4 +1,3 @@
-河北卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&t=1759030213&token=0d19629f0d64aff61e38d29ae9efe4d4
 河北卫视,http://gfr.x3322.net:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://gfr.x3322.net:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://k.061899.xyz/m.php?id=hbws&key=txiptv&playlive=1&authid=0
@@ -665,6 +664,3 @@
 河北卫视,https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1760138454&key=0a10e2911953e01bcb3953caa541b2d3
 河北卫视,http://gfr.x3322.net:9901/tsfile/live/1034_1.m3u8
 河北卫视,http://106.53.99.30/tv/20250803.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86
-河北卫视,http://183.220.20.17:4321/rtp/239.11.0.31:5140
-河北卫视,http://111.127.156.228:51234/rtp/239.29.0.124:5000
-河北卫视,http://221.10.226.195:5000/rtp/239.0.0.55:5140

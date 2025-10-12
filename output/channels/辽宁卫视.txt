@@ -1,4 +1,3 @@
-辽宁卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&t=1759030213&token=8d3022587417909170785a035f106b3d
 辽宁卫视,http://k.061899.xyz/m.php?id=ynws&key=txiptv&playlive=1&authid=0
 辽宁卫视,http://gfr.x3322.net:9901/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8?key=txiptv&playlive=1&authid=0

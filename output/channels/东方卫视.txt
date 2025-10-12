@@ -1,4 +1,3 @@
-东方卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&t=1759030213&token=48510faa72fcfc1d96a7777867be5d07
 东方卫视,http://gfr.x3322.net:9901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://gfr.x3322.net:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://k.061899.xyz/m.php?id=dfws&key=txiptv&playlive=1&authid=0
@@ -809,3 +808,4 @@
 东方卫视,http://gfr.x3322.net:9901/tsfile/live/1028_1.m3u8
 东方卫视,http://222.169.85.8:9901/tsfile/live/0018_1.m3u8?key=txiptv
 东方卫视,http://106.53.99.30/tv/20250803.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86
+东方卫视,http://lfdxn.jydjd.top:2903/udp/225.1.101.145:7523

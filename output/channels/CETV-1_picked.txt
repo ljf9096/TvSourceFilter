@@ -1,4 +1,2 @@
-CETV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CETV-1&t=1759030213&token=d1e1ae43f4a5391c1eafc04280fc8294
-CETV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CETV1&t=1759030213&token=66e08c53773ad22164dd04f355dfa2e7
 CETV-1,http://gfr.x3322.net:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV-1,https://cc06.tv12.xyz/23.m3u8

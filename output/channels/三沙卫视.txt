@@ -1,4 +1,3 @@
-三沙卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&t=1759030213&token=6615d3d39176abf63af2032db123cbe8
 三沙卫视,http://gfr.x3322.net:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 三沙卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eb2dn60YQRxhB5rAyOnrv0g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_hnHaWpTsMQwR98VJGduo%2CEND
 三沙卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001185/index.m3u8
@@ -222,5 +221,5 @@
 三沙卫视,https://iptv.catvod.com/catvod.php?id=ssws&token=7375646f72294a7c47e971fd92074239759541d3
 三沙卫视,https://www.nettvpro.xyz/hls/hainan.php?id=ssws
 三沙卫视,https://iptv.catvod.com/catvod.php?id=ssws&token=7375646f7a37c2c05bb3633f175af2fcd7423773
-三沙卫视,http://117.95.105.208:9999/rtp/239.49.0.167:8000
 三沙卫视,http://58.214.144.12:8888/rtp/239.49.0.167:8000
+三沙卫视,http://117.95.105.208:9999/rtp/239.49.0.167:8000

@@ -1,4 +1,3 @@
-CCTV-8,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV8&t=1759030213&token=f606a94d0dae661920bbc53895008bdc
 CCTV-8,http://gfr.x3322.net:9901/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,http://gfr.x3322.net:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,http://k.061899.xyz/m.php?id=cctv8&key=txiptv&playlive=1&authid=0
@@ -825,4 +824,3 @@ CCTV-8,https://60.191.56.186:8888/hls/8/index.m3u8
 CCTV-8,http://gfr.x3322.net:9901/tsfile/live/1073_1.m3u8
 CCTV-8,http://222.169.85.8:9901/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV-8,http://8.138.7.223/tv/hot.php?id=8
-CCTV-8,http://36.24.79.120:4022/rtp/233.50.201.199:5140

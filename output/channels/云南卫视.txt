@@ -1,4 +1,3 @@
-云南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&t=1759030213&token=7a0dc293e94536afb92e38ca05e8bbdf
 云南卫视,http://gfr.x3322.net:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://60.174.40.117:85/tsfile/live/0119_1.m3u8?key=txiptv
 云南卫视,http://112.27.235.94:8000/hls/40/index.m3u8?key=txiptv&playlive=1&authid=0
@@ -579,6 +578,4 @@
 云南卫视,https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1760138454&key=0481fcb90e5a2419e2ee058f58e48d13
 云南卫视,http://gfr.x3322.net:9901/tsfile/live/1047_1.m3u8
 云南卫视,http://106.53.99.30/tv/20250803.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86
-云南卫视,http://221.10.226.195:5000/rtp/239.0.0.74:5140
 云南卫视,http://lfdxn.jydjd.top:2903/udp/225.1.101.204:7523
-云南卫视,http://36.24.79.120:4022/rtp/233.50.200.115:5140
