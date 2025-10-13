@@ -203,8 +203,5 @@ CHC家庭影院,https://iptv.catvod.com/catvod.php?id=chcjt&token=7375646f312d51
 CHC家庭影院,http://111.162.204.87:8686/udp/225.1.1.213:5002
 CHC家庭影院,http://183.162.205.235:4022/udp/238.1.78.14:4016
 CHC家庭影院,https://mgtv.ottiptv.cc/mg/644368373.m3u8?userid=5559462299&sign=f958dc761a95c48a49081e2a824904ba043799119cf744bea0999a61901435625af7757f568237bb48cbffda0ec14c4495ae2623f6b4cbbeff2fc30e4f747afdc8d72148fa8961361edec06c5f65d9641a&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
-CHC家庭影院,http://8.138.7.223/tv/hot.php?id=67
 CHC家庭影院,http://202.168.168.50:5000/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,http://221.10.226.195:5000/rtp/239.0.0.23:5140
-CHC家庭影院,http://iptv.huuc.edu.cn/hls/chctv.m3u8
-CHC家庭影院,https://mg.chinacert.cftest5.cn/mg/644368373.m3u8?token=adff73d728ea297eb688b6fa713e8f8796735dbfbd02cc07e301b128f389b5a16a926a9c92e67229fee298c24eacbc6042d558ba729e33c7d5422a7263c9b0025eaa248d535e0bae959ccf9daa&tm=1757535222&sign=8150b12b750fd241c638d9d6910865f7

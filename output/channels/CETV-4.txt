@@ -120,6 +120,6 @@ CETV-4,http://114.254.38.160:8888/rtp/239.3.1.56:4120
 CETV-4,http://120.55.49.231:3095/rtp/233.50.200.162:5140
 CETV-4,http://api.mytv666.top/api/qwt.php?t=少儿频道&id=CETV4
 CETV-4,https://mgtv.ottiptv.cc/mg/923287339.m3u8?userid=5559462299&sign=54fad34325775e3ad22eb945102ffaeb0574e34fc7618941e17389c04e1d1cd6c2ea87dedd1389b9048ea928e6c2cc55c955a1fe56e9afb0b02c80a6af76544c42a60f1a7d94dc5addbf92963f8bcff1ac&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAw_OvjRgJVjtlaOa0dcgzg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CETV-4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
 CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
-CETV-4,http://n1.gzbody.com:85/rtp/239.253.43.114:5146
-CETV-4,https://mg.chinacert.cftest5.cn/mg/923287339.m3u8?token=6fe60b27401a51a8744d52c6f0034f0142598a705146334d4d207905c50639b6aeaa24e85e8074d7c5fe033d5fb06a6d9dace196ad38a465234542d1a9cf25841974409e8af8da819626af9d55&tm=1757535222&sign=e5a16164103c3690529308093951cf1a

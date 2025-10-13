@@ -710,3 +710,4 @@ CCTV-11,https://live.catvod.com/live.php?id=cctv11&token=e212cb6be205fe431618ee2
 CCTV-11,http://free.cnlive.club/channel/n4fe8b4d4/index.m3u8?q=1760231022630
 CCTV-11,http://gfr.x3322.net:9901/tsfile/live/1010_1.m3u8
 CCTV-11,http://gfr.x3322.net:9901/tsfile/live/1076_1.m3u8
+CCTV-11,http://117.95.105.208:9999/rtp/239.49.0.127:8000

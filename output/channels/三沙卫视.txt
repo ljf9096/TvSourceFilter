@@ -229,5 +229,5 @@
 三沙卫视,https://www.nettvpro.xyz/hls/hainan.php?id=ssws
 三沙卫视,https://iptv.catvod.com/catvod.php?id=ssws&token=7375646f312d51f94262b3a8ce29238121df7590
 三沙卫视,https://iptv.catvod.com/catvod.php?id=ssws&token=7375646f0ce31b49ee35e61464a6ad85c295c6f5
-三沙卫视,http://58.214.144.12:8888/rtp/239.49.0.167:8000
 三沙卫视,http://117.95.105.208:9999/rtp/239.49.0.167:8000
+三沙卫视,http://58.214.144.12:8888/rtp/239.49.0.167:8000

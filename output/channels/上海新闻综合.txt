@@ -103,6 +103,7 @@
 上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?userid=5559462299&sign=42646af2aca6351c3994c4c7a8e8cfb75da95a904f900ba421e0c4acaf61cfe20a21665ffd1385ba958abd1eb0fc44dc20e2771fa3742868c8d162f40b096e936320ee832d6803c19b1955cae25d0d542c&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 上海新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1760224894&key=f97b5cb205247f25e69aacd081c2de59
 上海新闻综合,https://stream1.freetv.fun/9585bd251ceb89ed89a45812f120781dac9ddc1ce6c46699a762801c7d48c728.m3u8
+上海新闻综合,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
 上海新闻综合,https://mg.chinacert.cftest5.cn/mg/651632657.m3u8?token=d2206c556ca4752d06c85b84ae2967fc22e974c655c311f7aba4ab0b4026e79f7d94661e2689ce5a2c16b6ec211015f057e7bd452b476fe7390d065bb4532a01d1caf47aa492a0170d2c1f9106&tm=1757535222&sign=537d27fc1e97f8915a822de1baf1422f
 上海新闻综合,http://yc.myds.me:35455/itv/5000000011000031110.m3u8?cdn=bestzb
 上海新闻综合,http://nas.suntao.online:35455/itv/5000000011000031110.m3u8?cdn=bestzb

@@ -83,6 +83,10 @@ CETV-2,http://180.165.28.197:4022/rtp/239.45.1.52:5140
 CETV-2,http://114.254.38.160:8888/rtp/239.3.1.54:4120
 CETV-2,http://api.mytv666.top/api/qwt.php?t=少儿频道&id=CETV2
 CETV-2,https://mgtv.ottiptv.cc/mg/923287211.m3u8?userid=5559462299&sign=fc9596dca5c7daff54ea73ca344ec142478a21f4b5b0a360acfcdadf22b7cf89509057b1c501f7d05d558b3ebfdebc22e0c8fa4793ee44d967790485259d770f0128ed55cfe9a5cdea2f32e74a3d2b17d9&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CETV-2,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000071/index.m3u8
+CETV-2,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
+CETV-2,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001226/index.m3u8
+CETV-2,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000005000266004/index.m3u8
 CETV-2,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225813/index.m3u8
 CETV-2,http://n1.gzbody.com:85/rtp/239.77.1.69:5146
 CETV-2,https://mg.chinacert.cftest5.cn/mg/923287211.m3u8?token=18547ccefc0d6c85a95b1013b10110f0c447f994bb22cb2209a68b8ffd4d14773b0460d87536aca7f7406f5a631c8e0229e62e6ee5c0d89047c01152f9a22c7f064e5f3b142125fb066d3d8ff7&tm=1757535222&sign=a89a1a83859852d6a3354eeba5ffe529

@@ -835,5 +835,4 @@
 湖南卫视,https://iptv.catvod.com/catvod.php?id=hunws&token=7375646f0ce31b49ee35e61464a6ad85c295c6f5
 湖南卫视,https://live.catvod.com/live.php?id=hunan_twn&token=d3b6ecee3055941f70f6ab8d4b960db4a49f8f34b2662f475eb3f07114a3ce12%3A1760230607%3AMTM1LjIzMi4yMDguMTc5
 湖南卫视,http://gfr.x3322.net:9901/tsfile/live/1027_1.m3u8
-湖南卫视,http://8.138.7.223/tv/hot.php?id=36
 湖南卫视,http://106.53.99.30/tv/20250803.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86

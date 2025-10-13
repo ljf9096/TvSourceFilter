@@ -95,4 +95,5 @@
 东方影视,https://17.130519.xyz/PLTV/11/224/3221225744/index.m3u8
 东方影视,http://139.196.151.191:2051/rtp/239.45.3.237:5140
 东方影视,http://180.165.30.149:4022/rtp/239.45.3.237:5140
+东方影视,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
 东方影视,http://unicom.lynnyang.cn:4022/rtp/239.45.3.237:5140

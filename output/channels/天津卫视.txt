@@ -733,6 +733,5 @@
 天津卫视,https://iptv.catvod.com/catvod.php?id=tjws&token=7375646f312d51f94262b3a8ce29238121df7590
 天津卫视,https://iptv.catvod.com/catvod.php?id=tjws&token=7375646f0ce31b49ee35e61464a6ad85c295c6f5
 天津卫视,http://gfr.x3322.net:9901/tsfile/live/1033_1.m3u8
-天津卫视,http://8.138.7.223/tv/hot.php?id=20
 天津卫视,http://106.53.99.30/tv/20250803.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86
-天津卫视,http://111.127.156.228:51234/rtp/239.29.0.98:5000
+天津卫视,http://221.10.226.195:5000/rtp/239.0.0.54:5140
