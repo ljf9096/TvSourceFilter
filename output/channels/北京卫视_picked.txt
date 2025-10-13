@@ -39,8 +39,6 @@
 北京卫视,http://106.53.99.30/tv/hot.php?id=bjws
 北京卫视,http://8.138.7.223/tv/hot.php?id=19
 北京卫视,http://www.hkyc.site:1991/udp/239.253.64.204:5140
-北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-14.ctv
-北京卫视,https://stream1.freetv.fun/bei-jing-wei-shi-78.ctv
 北京卫视,http://gfr.x3322.net:9901/tsfile/live/1032_1.m3u8
 北京卫视,http://222.169.85.8:9901/tsfile/live/0017_1.m3u8?key=txiptv
 北京卫视,http://106.53.99.30/tv/20250803.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86

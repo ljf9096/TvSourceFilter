@@ -115,9 +115,9 @@
 第一财经,http://aklim.f3322.net:18885/rtp/239.45.3.211:5140
 第一财经,http://106.53.99.30/tv/hot.php?id=dycj
 第一财经,http://t.061899.xyz/tl/dq.php?id=dycj
-第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1760296679&key=5a9a3ef48b6e13633d6d8719ef5b0987
+第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1760383159&key=196c2092388f0bdea0870e01d580446a
 第一财经,http://iptv.cqshushu.com/migu.php?pid=shdycj&token=9ab167e0a62c8c5630291569c5d09fab
-第一财经,http://iptv.cqshushu.com/iptv807.php?id=6163743d706c617926746f6b656e3d6263613161623733663431643565623332363132623037376562373065326333267469643d6974762669643d313938&token=9ab167e0a62c8c5630291569c5d09fab
+第一财经,http://iptv.cqshushu.com/iptv807.php?id=6163743d706c617926746f6b656e3d6534353533383662366435393131616635363063343239303565653163343630267469643d6974762669643d313938&token=9ab167e0a62c8c5630291569c5d09fab
 第一财经,http://i.iill.top:12838/sh/dycj
 第一财经,http://116.232.150.101:6000/tsfile/live/0001_49.m3u8?key=txiptv&playlive=1&authid=0
 第一财经,https://13.130519.xyz/PLTV/11/224/3221225737/index.m3u8
@@ -130,7 +130,7 @@
 第一财经,http://139.196.214.238/rtp/239.45.3.211:5140
 第一财经,https://migu.11cn.dpdns.org/-25
 第一财经,http://180.165.30.149:4022/rtp/239.45.3.211:5140
-第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1760224894&key=40fd1e824dee1a6f89f9a26e2366155c
+第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1760311370&key=0d1b5c2e8b168b30ad81e5a58db2e503
 第一财经,https://stream1.freetv.fun/533f951c259e0a0db9189aab022c535bca241b30dbf0d18aca82012de4e8c080.m3u8
 第一财经,http://36.24.79.120:4022/rtp/233.50.200.125:5140
 第一财经,http://220.190.54.26:8188/udp/233.50.200.125:5140

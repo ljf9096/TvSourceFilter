@@ -52,7 +52,6 @@
 浙江卫视,http://go.bkpcp.top/mg/zjws
 浙江卫视,http://8.138.7.223/tv/hot.php?id=29
 浙江卫视,http://www.hkyc.site:1991/udp/239.253.64.206:5140
-浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-97.ctv
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-77.ctv
 浙江卫视,http://k.061899.xyz/m.php?id=zjws
 浙江卫视,http://t.061899.xyz/tl/tl.php?id=zjws
