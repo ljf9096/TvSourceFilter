@@ -412,5 +412,3 @@
 西藏卫视,https://iptv.catvod.com/catvod.php?id=xzws&token=7375646f231181336b22c185148aa689110d1708
 西藏卫视,http://gfr.x3322.net:9901/tsfile/live/1046_1.m3u8
 西藏卫视,http://106.53.99.30/tv/20250803.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86
-西藏卫视,http://61.159.134.241:4022/rtp/238.255.2.202:5999
-西藏卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226710/1.m3u8

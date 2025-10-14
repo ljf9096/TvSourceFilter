@@ -743,6 +743,5 @@ CCTV-15,http://180.76.145.203:656/zb.php?id=cctv15
 CCTV-15,http://106.53.99.30/tv/api.php?id=cctv15
 CCTV-15,http://gfr.x3322.net:9901/tsfile/live/1014_1.m3u8
 CCTV-15,http://gfr.x3322.net:9901/tsfile/live/1080_1.m3u8
-CCTV-15,http://111.127.156.228:51234/rtp/239.29.0.206:5000
 CCTV-15,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv15_2/index.m3u8
-CCTV-15,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031109/1.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=3
+CCTV-15,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010094/1.m3u8

@@ -821,4 +821,3 @@ CCTV-3,http://hbhyjq.ufyct.com:1088/hls/11/index.m3u8
 CCTV-3,http://180.76.145.203:656/zb.php?id=cctv3
 CCTV-3,http://106.53.99.30/tv/api.php?id=cctv3
 CCTV-3,http://gfr.x3322.net:9901/tsfile/live/1068_1.m3u8
-CCTV-3,http://iptv.4666888.xyz/iptv2A.php?id=cctv3

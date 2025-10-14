@@ -696,5 +696,4 @@
 东南卫视,https://live.catvod.com/live.php?id=fujian&token=de46d59e13c6ef728573b1a44516ed4a4ea059a81eb951c3ef432c604836b705%3A1760317090%3AMTM1LjIzMi4yMDAuMTkz
 东南卫视,https://mgtv.ottiptv.cc/mg/849116810.m3u8?userid=5559462299&sign=2de8a7a848891c2009fb1222c23c16e3081bf77a7ea843d78cf9a70455ff9fdc1dde6aeafb2d38dd067bad6cfbe8e5c635a1c2def6073851522ee02e3f5913dbd89b70ece727beced258920b216bbfdfbe&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 东南卫视,http://106.53.99.30/tv/20250803.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86
-东南卫视,http://111.127.156.228:51234/rtp/239.29.0.103:5000
 东南卫视,http://36.24.79.120:4022/rtp/233.50.201.146:5140

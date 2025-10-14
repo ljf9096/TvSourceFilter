@@ -450,7 +450,6 @@
 陕西卫视,https://mgtv.ottiptv.cc/mg/738910838.m3u8?userid=5559462299&sign=432f082dfabbfdba2673f84b6a7d8104c085e87f9f2c151f23affb43ddfa9d0fdb3d1a72c96e8df9c0dbd4b32b3450035e8dbee7889d897f8bf0005ea9bbccca4642dd59bd5b240eda1642413da57f3c1b&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 陕西卫视,http://101.66.198.86:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
 陕西卫视,http://gfr.x3322.net:9901/tsfile/live/1042_1.m3u8
-陕西卫视,http://175.8.182.129:7878/udp/239.76.254.76:9000
-陕西卫视,http://117.174.25.254:8188/rtp/239.0.0.53:5140
 陕西卫视,http://183.220.20.17:4321/rtp/239.11.0.54:5140
+陕西卫视,http://117.174.25.254:8188/rtp/239.0.0.53:5140
 陕西卫视,http://171.213.154.235:8188/udp/239.93.0.143:5140

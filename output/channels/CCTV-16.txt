@@ -402,7 +402,5 @@ CCTV-16,https://live.catvod.com/live.php?id=cctv16&token=713e6a0dd04e0c506d5583e
 CCTV-16,http://free.cnlive.club/channel/c15fcc8/index.m3u8?q=1760317360025
 CCTV-16,http://gfr.x3322.net:9901/tsfile/live/1081_1.m3u8
 CCTV-16,http://nas.201606.xyz:4022/rtp/239.10.0.187:5140
-CCTV-16,http://cloud.sunrisecom.cn:8888/rtp/239.45.0.12:5140
 CCTV-16,http://111.127.156.228:51234/rtp/239.29.1.146:5000
 CCTV-16,http://36.24.79.120:4022/rtp/233.50.200.112:5140
-CCTV-16,http://117.95.105.208:9999/rtp/239.49.8.31:8000
