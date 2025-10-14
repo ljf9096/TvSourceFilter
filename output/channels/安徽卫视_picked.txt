@@ -32,10 +32,10 @@
 安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-30.ctv
 安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-68.ctv
 安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-7.ctv
-安徽卫视,http://8.138.7.223/tv/hot.php?id=30
-安徽卫视,http://www.hkyc.site:1991/udp/239.253.64.129:5140
-安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-17.ctv
-安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-gao-qing-4.ctv
 安徽卫视,http://gfr.x3322.net:9901/tsfile/live/1035_1.m3u8
 安徽卫视,http://222.169.85.8:9901/tsfile/live/0130_1.m3u8?key=txiptv
+安徽卫视,http://www.hkyc.site:1991/udp/239.253.64.129:5140
+安徽卫视,http://8.138.7.223/tv/hot.php?id=30
+安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-17.ctv
+安徽卫视,https://stream1.freetv.fun/an-hui-wei-shi-gao-qing-4.ctv
 安徽卫视,http://106.53.99.30/tv/20250803.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86
