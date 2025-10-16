@@ -36,10 +36,10 @@ CCTV-15,https://stream1.freetv.fun/cctv15-75.ctv
 CCTV-15,https://stream1.freetv.fun/cctv15-26.ctv
 CCTV-15,https://stream1.freetv.fun/cctv15-89.ctv
 CCTV-15,https://stream1.freetv.fun/cctv15-yin-le-1.ctv
+CCTV-15,http://www.hkyc.site:1991/udp/239.253.64.72:5140
 CCTV-15,http://gfr.x3322.net:9901/tsfile/live/1014_1.m3u8
 CCTV-15,http://gfr.x3322.net:9901/tsfile/live/1080_1.m3u8
 CCTV-15,http://180.76.145.203:656/zb.php?id=cctv15
-CCTV-15,http://www.hkyc.site:1991/udp/239.253.64.72:5140
 CCTV-15,http://8.138.7.223/tv/hot.php?id=15
 CCTV-15,http://dmggg.tyzb.fun:26355/migu/673168223.m3u8?migutoken=cb4bfbcc5677d19b02268ee486017cf57b8856a0659eef385d10e2af542e607f1963f672278ad5f22761105862b9123efefbce650013764f86ff15269649961511b622cb0e3f520d192380725a
 CCTV-15,https://stream1.freetv.fun/cctv15-yin-le-17.ctv

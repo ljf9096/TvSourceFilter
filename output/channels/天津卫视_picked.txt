@@ -35,10 +35,11 @@
 天津卫视,https://stream1.freetv.fun/tian-jin-wei-shi-17.ctv
 天津卫视,https://stream1.freetv.fun/tian-jin-wei-shi-39.ctv
 天津卫视,http://113.15.109.216:59901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://gfr.x3322.net:9901/tsfile/live/1033_1.m3u8
 天津卫视,http://www.hkyc.site:1991/udp/239.253.64.198:5140
+天津卫视,http://gfr.x3322.net:9901/tsfile/live/1033_1.m3u8
 天津卫视,https://stream1.freetv.fun/tian-jin-wei-shi-gao-qing-2.ctv
 天津卫视,https://stream1.freetv.fun/tian-jin-wei-shi-75.ctv
 天津卫视,https://stream1.freetv.fun/tian-jin-wei-shi-80.ctv
 天津卫视,https://stream1.freetv.fun/tian-jin-wei-shi-41.ctv
 天津卫视,https://stream1.freetv.fun/tian-jin-wei-shi-98.ctv
+天津卫视,https://stream1.freetv.fun/c38103fa730bdc04dcfb532eda5212f459715542248468a180c58faf27e07c68.ctv

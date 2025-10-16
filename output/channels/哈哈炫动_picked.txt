@@ -3,3 +3,4 @@
 哈哈炫动,http://60.29.124.66:6080/hls/62/index.m3u8
 哈哈炫动,https://stream1.freetv.fun/ha-ha-xuan-dong-18.ctv
 哈哈炫动,https://stream1.freetv.fun/ha-ha-xuan-dong-7.ctv
+哈哈炫动,https://stream1.freetv.fun/ha-ha-xuan-dong-24.ctv

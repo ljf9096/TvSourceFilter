@@ -30,3 +30,4 @@
 云南卫视,http://go.bkpcp.top/mg/ynws
 云南卫视,http://8.138.7.223/tv/hot.php?id=43
 云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-6.ctv
+云南卫视,https://stream1.freetv.fun/yun-nan-wei-shi-21.ctv

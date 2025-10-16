@@ -25,8 +25,8 @@ CCTV-5+,http://221.2.148.205:8154/tsfile/live/0016_1.m3u8
 CCTV-5+,https://stream1.freetv.fun/cctv5-plus-33.ctv
 CCTV-5+,https://stream1.freetv.fun/cctv5-plus-41.ctv
 CCTV-5+,https://stream1.freetv.fun/cctv5-plus-54.ctv
-CCTV-5+,http://gfr.x3322.net:9901/tsfile/live/1083_1.m3u8
 CCTV-5+,http://www.hkyc.site:1991/udp/239.253.64.100:5140
+CCTV-5+,http://gfr.x3322.net:9901/tsfile/live/1083_1.m3u8
 CCTV-5+,https://stream1.freetv.fun/cctv5-plus-35.ctv
 CCTV-5+,https://stream1.freetv.fun/cctv5-plus-38.ctv
 CCTV-5+,http://113.15.109.216:59901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0

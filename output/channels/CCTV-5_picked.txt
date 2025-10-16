@@ -41,9 +41,9 @@ CCTV-5,https://stream1.freetv.fun/cctv5-50.ctv
 CCTV-5,https://stream1.freetv.fun/cctv5-ti-yu-14.ctv
 CCTV-5,https://stream1.freetv.fun/cctv5-56.ctv
 CCTV-5,https://stream1.freetv.fun/cctv5-29.ctv
+CCTV-5,http://www.hkyc.site:1991/udp/239.253.64.245:5140
 CCTV-5,http://gfr.x3322.net:9901/tsfile/live/1070_1.m3u8
 CCTV-5,http://hbhyjq.ufyct.com:1088/hls/13/index.m3u8
-CCTV-5,http://www.hkyc.site:1991/udp/239.253.64.245:5140
 CCTV-5,http://8.138.7.223/tv/hot.php?id=5
 CCTV-5,https://stream1.freetv.fun/cctv-5-1.ctv
 CCTV-5,https://stream1.freetv.fun/cctv5-ti-yu-5.ctv

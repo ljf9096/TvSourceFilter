@@ -29,9 +29,9 @@
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-43.ctv
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-gao-qing-5.ctv
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-72.ctv
+深圳卫视,http://www.hkyc.site:1991/udp/239.253.64.203:5140
 深圳卫视,http://k.061899.xyz/m.php?id=szws
 深圳卫视,http://222.169.85.8:9901/tsfile/live/0126_1.m3u8?key=txiptv
-深圳卫视,http://www.hkyc.site:1991/udp/239.253.64.203:5140
 深圳卫视,http://106.53.99.30/tv/hot.php?id=szws
 深圳卫视,http://t.061899.xyz/tl/dq.php?id=szws
 深圳卫视,http://go.bkpcp.top/mg/szws
@@ -45,3 +45,9 @@
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-27.ctv
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-76.ctv
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-64.ctv
+深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-34.ctv
+深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-70.ctv
+深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-2.ctv
+深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-41.ctv
+深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-49.ctv
+深圳卫视,https://stream1.freetv.fun/7d757fa493739ff207393df39f8f3802fb8ad230acf5ccb8917c0d3c6f37ef70.ctv

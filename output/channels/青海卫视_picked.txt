@@ -30,3 +30,4 @@
 青海卫视,https://6663.luyazo.com/livetv/hlnt/ub_gwG3Ig/ub_gwG3Ig_live.m3u8
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-264.ctv
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-363.ctv
+青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-158.ctv

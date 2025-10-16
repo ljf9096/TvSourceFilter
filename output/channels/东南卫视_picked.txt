@@ -24,9 +24,10 @@
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-19.ctv
 东南卫视,http://153.0.171.163:9901/tsfile/live/0137_1.m3u8
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-76.ctv
+东南卫视,http://www.hkyc.site:1991/udp/239.253.64.66:5140
 东南卫视,http://8.138.7.223/tv/hot.php?id=31
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-gao-qing-1.ctv
-东南卫视,http://www.hkyc.site:1991/udp/239.253.64.66:5140
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-4.ctv
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-83.ctv
 东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-15.ctv
+东南卫视,https://stream1.freetv.fun/dong-nan-wei-shi-54.ctv

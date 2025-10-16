@@ -34,15 +34,16 @@ CCTV-4,https://stream1.freetv.fun/cctv4-26.ctv
 CCTV-4,https://stream1.freetv.fun/cctv4k-2.ctv
 CCTV-4,https://stream1.freetv.fun/cctv4-55.ctv
 CCTV-4,https://stream1.freetv.fun/cctv4-guo-ji-3.ctv
+CCTV-4,http://www.hkyc.site:1991/udp/239.253.64.196:5140
 CCTV-4,http://gfr.x3322.net:9901/tsfile/live/1003_1.m3u8
 CCTV-4,http://gfr.x3322.net:9901/tsfile/live/1069_1.m3u8
 CCTV-4,http://hbhyjq.ufyct.com:1088/hls/12/index.m3u8
 CCTV-4,http://180.76.145.203:656/zb.php?id=cctv4
 CCTV-4,http://221.2.148.205:8154/tsfile/live/0004_1.m3u8
 CCTV-4,http://8.138.7.223/tv/hot.php?id=4
-CCTV-4,http://www.hkyc.site:1991/udp/239.253.64.196:5140
 CCTV-4,https://stream1.freetv.fun/cctv-4-4.ctv
 CCTV-4,https://stream1.freetv.fun/cctv4-46.ctv
 CCTV-4,https://stream1.freetv.fun/cctv4-zhong-wen-guo-ji-1.ctv
 CCTV-4,https://stream1.freetv.fun/cctv4-17.ctv
 CCTV-4,https://6663.luyazo.com/livetv/hlcc/8rd2RQ7Ng/8rd2RQ7Ng_live.m3u8?auth_key=1756266890-0-0-be8dd49928881ddcf74850eff9d207aa
+CCTV-4,https://stream1.freetv.fun/cctv4-4.ctv
