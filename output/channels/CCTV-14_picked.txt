@@ -34,12 +34,12 @@ CCTV-14,http://153.0.171.163:9901/tsfile/live/1013_1.m3u8
 CCTV-14,http://218.17.33.178:53290/tsfile/live/1014_1.m3u8?key=txiptv
 CCTV-14,https://stream1.freetv.fun/cctv14-66.ctv
 CCTV-14,https://stream1.freetv.fun/cctv14-59.ctv
-CCTV-14,http://180.76.145.203:656/zb.php?id=cctv14
 CCTV-14,http://gfr.x3322.net:9901/tsfile/live/1013_1.m3u8
 CCTV-14,http://gfr.x3322.net:9901/tsfile/live/1079_1.m3u8
+CCTV-14,http://180.76.145.203:656/zb.php?id=cctv14
 CCTV-14,http://www.hkyc.site:1991/udp/239.253.64.115:5140
 CCTV-14,http://8.138.7.223/tv/hot.php?id=14
 CCTV-14,https://stream1.freetv.fun/cctv-14-6.ctv
 CCTV-14,https://stream1.freetv.fun/cctv14-shao-er-9.ctv
 CCTV-14,https://stream1.freetv.fun/cctv14-shao-er-5.ctv
-CCTV-14,http://106.53.99.30/tv/api.php?id=cctv14
+CCTV-14,https://stream1.freetv.fun/cctv14-85.ctv

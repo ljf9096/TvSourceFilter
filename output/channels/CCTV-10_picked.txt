@@ -41,10 +41,11 @@ CCTV-10,https://stream1.freetv.fun/cctv10-80.ctv
 CCTV-10,https://stream1.freetv.fun/cctv-10-18.ctv
 CCTV-10,https://stream1.freetv.fun/cctv10-ke-jiao-16.ctv
 CCTV-10,https://stream1.freetv.fun/cctv10-ke-jiao-14.ctv
-CCTV-10,http://180.76.145.203:656/zb.php?id=cctv10
 CCTV-10,http://gfr.x3322.net:9901/tsfile/live/1009_1.m3u8
 CCTV-10,http://gfr.x3322.net:9901/tsfile/live/1075_1.m3u8
+CCTV-10,http://180.76.145.203:656/zb.php?id=cctv10
 CCTV-10,http://www.hkyc.site:1991/udp/239.253.64.87:5140
 CCTV-10,http://8.138.7.223/tv/hot.php?id=10
 CCTV-10,https://stream1.freetv.fun/cctv10-ke-jiao-10.ctv
-CCTV-10,http://106.53.99.30/tv/api.php?id=cctv10
+CCTV-10,https://stream1.freetv.fun/cctv10-35.ctv
+CCTV-10,https://6663.luyazo.com/livetv/hlcc/yx8oRw7NR/yx8oRw7NR_live.m3u8?auth_key=1756267057-0-0-7d83048d4522bffc2578880cda9b5f13
