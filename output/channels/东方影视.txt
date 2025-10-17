@@ -91,6 +91,10 @@
 东方影视,http://op.aklim.dpdns.org:18885/rtp/239.45.3.237:5140
 东方影视,http://8.138.7.223/api/00migu.php?id=49&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 东方影视,http://8.138.7.223/api/ipv6.php?id=62&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
+东方影视,http://shcxzx.shscxzx.cn:8899/239.45.3.237:5140
+东方影视,http://shcxzx.shscxzx.cn:8899/239.45.3.245:5140
+东方影视,http://cloud.sunrisecom.wang:8888/239.45.3.237:5140
+东方影视,http://cloud.sunrisecom.wang:8888/239.45.3.245:5140
 东方影视,http://t.061899.xyz/tl/dq.php?id=dfys
 东方影视,http://116.232.150.101:6000/tsfile/live/0001_19.m3u8?key=txiptv&playlive=1&authid=0
 东方影视,https://stream1.freetv.fun/dong-fang-ying-shi-14.m3u8
@@ -114,4 +118,10 @@
 东方影视,http://2099.tv12.xyz/1556_1760646211903.m3u8
 东方影视,http://2099.tv12.xyz/1642_1760646211903.m3u8
 东方影视,http://2099.tv12.xyz/1728_1760646211903.m3u8
+东方影视,http://2099.tv12.xyz/169_1760732872637.m3u8
+东方影视,http://2099.tv12.xyz/589_1760732872637.m3u8
+东方影视,http://2099.tv12.xyz/906_1760732872637.m3u8
+东方影视,http://2099.tv12.xyz/1552_1760732872637.m3u8
+东方影视,http://2099.tv12.xyz/1638_1760732872637.m3u8
+东方影视,http://2099.tv12.xyz/1724_1760732872637.m3u8
 东方影视,http://cx.shscxzx.cn:8899/rtp/239.45.3.245:5140

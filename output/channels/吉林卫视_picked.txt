@@ -32,3 +32,4 @@
 吉林卫视,https://epg.pw/stream/20ec706dec67b36d8bd933921ddc77d953bdbb5db85ceb51b4235469b7fa23b2.ctv
 吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-42.ctv
 吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-58.ctv
+吉林卫视,https://stream1.freetv.fun/ji-lin-wei-shi-9.ctv

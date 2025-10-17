@@ -51,3 +51,5 @@ CCTV-7,https://stream1.freetv.fun/cctv-7-16.ctv
 CCTV-7,http://t.061899.xyz/tl/tl.php?id=cctv7
 CCTV-7,https://stream1.freetv.fun/cctv7-59.ctv
 CCTV-7,https://stream1.freetv.fun/cctv7-30.ctv
+CCTV-7,https://stream1.freetv.fun/cctv7-57.ctv
+CCTV-7,https://stream1.freetv.fun/cctv7-guo-fang-jun-shi-1.ctv

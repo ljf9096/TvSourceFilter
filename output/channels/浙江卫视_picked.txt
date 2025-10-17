@@ -59,3 +59,5 @@
 浙江卫视,http://153.0.171.163:9901/tsfile/live/0124_1.m3u8
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-83.ctv
 浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-5.ctv
+浙江卫视,https://stream1.freetv.fun/zhe-jiang-wei-shi-27.ctv
+浙江卫视,https://stream1.freetv.fun/cfe6c386aeda1787f606df629248faf407b2351852e3ea6994357836a1643f5c.ctv

@@ -40,3 +40,4 @@ CCTV-11,http://8.138.7.223/tv/hot.php?id=11
 CCTV-11,https://stream1.freetv.fun/cctv11-xi-qu-11.ctv
 CCTV-11,https://stream1.freetv.fun/cctv-11-6.ctv
 CCTV-11,https://stream1.freetv.fun/cctv11-38.ctv
+CCTV-11,https://stream1.freetv.fun/cctv11-xi-qu-2.ctv

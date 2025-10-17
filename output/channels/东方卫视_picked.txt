@@ -52,3 +52,4 @@
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-74.ctv
 东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-76.ctv
 东方卫视,https://stream1.freetv.fun/35f0b3d3a48649b410d300e497342cebe53b3d2464bc1b00a63f5689ab073101.ctv
+东方卫视,https://stream1.freetv.fun/dong-fang-wei-shi-66.ctv

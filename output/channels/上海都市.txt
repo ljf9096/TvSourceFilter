@@ -86,6 +86,10 @@
 上海都市,http://8.138.7.223/api/18sh.php?id=ds&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 上海都市,http://8.138.7.223/api/18sh.php?id=18&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 上海都市,http://8.138.7.223/api/ipv6.php?id=55&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
+上海都市,http://shcxzx.shscxzx.cn:8899/239.45.3.236:5140
+上海都市,http://shcxzx.shscxzx.cn:8899/239.45.3.243:5140
+上海都市,http://cloud.sunrisecom.wang:8888/239.45.3.236:5140
+上海都市,http://cloud.sunrisecom.wang:8888/239.45.3.243:5140
 上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1760469610&key=466cc50b4b444c5d9bef36cf6b0c7db1
 上海都市,http://iptv.cqshushu.com/iptv807.php?id=6163743d706c617926746f6b656e3d6261363964303365633738353063616635343065303862616231653164656565267469643d6974762669643d323034&token=9ab167e0a62c8c5630291569c5d09fab
 上海都市,https://stream1.freetv.fun/shang-hai-du-shi-13.m3u8
@@ -104,4 +108,10 @@
 上海都市,http://2099.tv12.xyz/594_1760646211903.m3u8
 上海都市,http://2099.tv12.xyz/903_1760646211903.m3u8
 上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1760570526&key=db4c1f11569d20130b089a82e6743500
+上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1760728767&key=eed9b5a18322d11f2070e28fa50c5660
+上海都市,http://iptv.cqshushu.com/iptv807.php?id=6163743d706c617926746f6b656e3d6465373764386234306565313533353836393330633566366265666531323839267469643d6974762669643d323034&token=5c6ecc700ca5fc679b6f7eb0e5445c36
+上海都市,http://2099.tv12.xyz/170_1760732872637.m3u8
+上海都市,http://2099.tv12.xyz/590_1760732872637.m3u8
+上海都市,http://2099.tv12.xyz/899_1760732872637.m3u8
+上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1760656809&key=772074961950e86b222559d6991b9d7f
 上海都市,http://cx.shscxzx.cn:8899/rtp/239.45.3.243:5140
