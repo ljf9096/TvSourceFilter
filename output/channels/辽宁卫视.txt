@@ -885,3 +885,4 @@
 辽宁卫视,https://iptv.catvod.com/catvod.php?id=lnws&token=7375646f610ce7ba19d31c3c31ab841ea792c399
 辽宁卫视,https://iptv.catvod.com/catvod.php?id=lnws&token=7375646fac72fceb30530016a959332ddb449c92
 辽宁卫视,https://mgtv.ottiptv.cc/mg/630291707.m3u8?userid=5559462299&sign=4cf8fa6780a4e97bd12563b1e43491a5e4d972a2dc0bf614ad14e3e3075a3f9b09e0513f2ac70de75ebf08a7dccc66c2c14b62d57d8725d69268aa74c7d247bb3a8b378f0f5f4e15bc792fecb71763d84d&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+辽宁卫视,http://cx.shscxzx.cn:8899/rtp/239.45.1.123:5140

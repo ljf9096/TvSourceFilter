@@ -945,4 +945,3 @@
 江西卫视,https://iptv.catvod.com/catvod.php?id=jxws&token=7375646f610ce7ba19d31c3c31ab841ea792c399
 江西卫视,https://iptv.catvod.com/catvod.php?id=jxws&token=7375646fac72fceb30530016a959332ddb449c92
 江西卫视,https://mgtv.ottiptv.cc/mg/783847495.m3u8?userid=5559462299&sign=d4767c4fcf4fcad73362e05022cf097cf1111482eddc24301dc3797ca0335b2aa811618952c674e16cd972560c9491404cc86c220cf372e2fbc22b8e980e91429949890cea1c1439d4f73667b08ea9777b&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
-江西卫视,http://cx.shscxzx.cn:8899/rtp/239.45.1.122:5140

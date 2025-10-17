@@ -890,4 +890,3 @@
 四川卫视,https://live.catvod.com/live.php?id=sichuan_twn&token=f8907f4f920a5fb5cb55f7a453973fc7378c32f48c199fbc0166189c9dcafa33%3A1760575448%3ANC4yNDYuMTM0LjE4Mw%3D%3D
 四川卫视,https://iptv.catvod.com/catvod.php?id=scws&token=7375646fac72fceb30530016a959332ddb449c92
 四川卫视,https://live.catvod.com/live.php?id=sichuan_twn&token=915b28980f097398ff68f59342b0bf05f6ea45988941b0073aaa616b6f95d9e4%3A1760575611%3ANC4yNDYuMTM0LjE4Mw%3D%3D
-四川卫视,http://cx.shscxzx.cn:8899/rtp/239.45.1.23:5140

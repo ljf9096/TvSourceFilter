@@ -163,4 +163,3 @@ CETV-4,http://121.29.141.15:4022/rtp/239.253.92.200:6137
 CETV-4,http://112.66.101.119:4022/rtp/239.253.64.139:5140
 CETV-4,https://mgtv.ottiptv.cc/mg/923287339.m3u8?userid=5559462299&sign=12c53f03edc504957f9a7f20e15d1d7087fc148af67e2a0ba72ee72717ed2d52eca4acd58b5dbce1a49aafdca5918d83a065f77baf9dd7dbe3c8ba9e96fc6e6a736c4d72517e62824f723269fa9164caa5&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
-CETV-4,http://cx.shscxzx.cn:8899/rtp/239.45.1.243:5140

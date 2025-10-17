@@ -503,3 +503,4 @@ CCTV-16,https://live.catvod.com/live.php?id=cctv16&token=04ce3632da4b7ab1e0b1241
 CCTV-16,https://live.catvod.com/live.php?id=cctv16&token=6d1439f2a19ed3c0b726b379ff98f612f4a05947a126d4334456cc361c68a588%3A1760575448%3ANC4yNDYuMTM0LjE4Mw%3D%3D
 CCTV-16,https://iptv.catvod.com/catvod.php?id=cctv16&token=7375646fac72fceb30530016a959332ddb449c92
 CCTV-16,https://live.catvod.com/live.php?id=cctv16&token=aaf0cb4f3782cb394793d42c820404743021b7e209634aca447e3a81ac04fd24%3A1760575611%3ANC4yNDYuMTM0LjE4Mw%3D%3D
+CCTV-16,http://karika.myds.me:4022/rtp/239.45.0.12:5140

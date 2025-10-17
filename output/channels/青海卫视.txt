@@ -677,4 +677,3 @@
 青海卫视,https://iptv.catvod.com/catvod.php?id=qhws&token=7375646f610ce7ba19d31c3c31ab841ea792c399
 青海卫视,https://iptv.catvod.com/catvod.php?id=qhws&token=7375646fac72fceb30530016a959332ddb449c92
 青海卫视,https://mgtv.ottiptv.cc/mg/947472506.m3u8?userid=5559462299&sign=52404604bcfaa41d9c7c620f24d89eb4b81f1d023b5a2ba900e785da9206c1f1f1b58337bba097fb539669b598d038f6324503eb1fe92990a635a713bbeb677669d89c54f757f7ff82b7e0cc26ef039645&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
-青海卫视,http://cx.shscxzx.cn:8899/rtp/239.45.0.37:5140

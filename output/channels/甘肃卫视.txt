@@ -598,4 +598,3 @@
 甘肃卫视,https://iptv.catvod.com/catvod.php?id=gsws&token=7375646f1253a2c0cf09dd56007cf7d613c7c80c
 甘肃卫视,https://iptv.catvod.com/catvod.php?id=gsws&token=7375646f610ce7ba19d31c3c31ab841ea792c399
 甘肃卫视,https://iptv.catvod.com/catvod.php?id=gsws&token=7375646fac72fceb30530016a959332ddb449c92
-甘肃卫视,http://cx.shscxzx.cn:8899/rtp/239.45.0.15:5140

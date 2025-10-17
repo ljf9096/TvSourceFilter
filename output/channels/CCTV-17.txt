@@ -735,4 +735,3 @@ CCTV-17,https://live.catvod.com/live.php?id=cctv17&token=ac5f6d4e8f37166f7ead43b
 CCTV-17,https://iptv.catvod.com/catvod.php?id=cctv17&token=7375646fac72fceb30530016a959332ddb449c92
 CCTV-17,https://live.catvod.com/live.php?id=cctv17&token=0874908ca8b2fd9160030366794775ea930c9c8d5f1d38f3384a39c4b6f9f83f%3A1760575611%3ANC4yNDYuMTM0LjE4Mw%3D%3D
 CCTV-17,https://mgtv.ottiptv.cc/mg/673168256.m3u8?userid=5559462299&sign=9bd9316412a191a3170a96deb846058461a527de9414c2a28e30dc46cad2a8e6dfc5429b2fe379078f8c73b8f72135a6acf605ce90e7ca1baa5b9b08885d356fdc768baed38259c80bc5713e8a72d8f8f1&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
-CCTV-17,http://cx.shscxzx.cn:8899/rtp/239.45.3.251:5140
