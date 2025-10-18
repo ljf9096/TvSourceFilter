@@ -3,7 +3,7 @@
 #http://[2
 #失效
 stream.iptv-search.com/main.php
-stream.iptv-search.com/iptv_test
+#stream.iptv-search.com/iptv_test
 106.53.99.30/tv/20250717.php
 migu.188766.xyz/?
 3501776.xyz:35455/bptv
@@ -205,6 +205,7 @@ em.21dtv.com
 hitmusic.hu
 #特殊字符
 公众号
+
 
 
 
