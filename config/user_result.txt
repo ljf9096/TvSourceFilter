@@ -1,5 +1,5 @@
 📺央视频道,#genre#
-CCTV1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1759030213&token=45398a27ef4db7c70f26a532c733ca22
+CCTV1,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV1&t=1760585411&token=df1eaa2ae08936d8da14fe1274694f28
 CCTV1,http://k.061899.xyz/m.php?id=cctv1&key=txiptv&playlive=1&authid=0
 CCTV1,http://gfr.x3322.net:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://gfr.x3322.net:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -17,7 +17,7 @@ CCTV1,http://171.118.76.58:9003/hls/1/index.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://221.205.204.69:9003/hls/1/index.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://183.184.49.207:9003/hls/1/index.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://221.205.206.85:9003/hls/1/index.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV2&t=1759030213&token=787823ccb7894ea5718506fcdeae9f53
+CCTV2,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV2&t=1760585411&token=b62ec217c9ea32b3ba58ffee43c1e567
 CCTV2,http://k.061899.xyz/m.php?id=cctv2&key=txiptv&playlive=1&authid=0
 CCTV2,http://gfr.x3322.net:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://gfr.x3322.net:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -36,7 +36,7 @@ CCTV2,http://42.225.117.174:11199/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&
 CCTV2,http://116.9.204.242:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://36.32.174.67:60080/newlive/live/hls/2/live.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://221.226.51.220:50081/newlive/live/hls/2/live.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV3&t=1759030213&token=d4b5ab4c20dd434d8089cc8899b6b73e
+CCTV3,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV3&t=1760585411&token=d62685a3c74216fb529a697d66a6e0c9
 CCTV3,http://gfr.x3322.net:9901/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://gfr.x3322.net:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://k.061899.xyz/m.php?id=cctv3&key=txiptv&playlive=1&authid=0
@@ -52,7 +52,7 @@ CCTV3,http://60.29.124.66:6080/hls/14/index.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://223.241.247.214:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://106.111.244.182:60001/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV4&t=1759030213&token=b06dd52b07fa0f09de8acbd1b2ba49d3
+CCTV4,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV4&t=1760585411&token=30206ac2abdd37a1d4104f2bc86536db
 CCTV4,http://gfr.x3322.net:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://gfr.x3322.net:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://k.061899.xyz/m.php?id=cctv4&key=txiptv&playlive=1&authid=0
@@ -67,7 +67,7 @@ CCTV4,http://60.29.124.66:6080/hls/15/index.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://223.241.247.214:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://36.32.174.67:60080/newlive/live/hls/4/live.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://221.226.51.220:50081/newlive/live/hls/4/live.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5&t=1759030213&token=b9da5982322fcf9cc0f8503dd7002f5c
+CCTV5,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5&t=1760585411&token=11ca3f429dba1df4ad42fb1f50512dfa
 CCTV5,http://gfr.x3322.net:9901/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://gfr.x3322.net:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://k.061899.xyz/m.php?id=cctv5&key=txiptv&playlive=1&authid=0
@@ -82,7 +82,7 @@ CCTV5,http://183.223.157.33:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&a
 CCTV5,http://60.29.124.66:6080/hls/16/index.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://222.169.85.8:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://223.241.247.214:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5%2B&t=1759030213&token=e4178e32f2997860b3b234cdaf33571a
+CCTV5+,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV5%2B&t=1760585411&token=4555e6dbb64f42fbc0175bc8069bd14d
 CCTV5+,http://gfr.x3322.net:9901/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://k.061899.xyz/m.php?id=cctv5p&key=txiptv&playlive=1&authid=0
 CCTV5+,http://61.156.228.12:8154/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -95,7 +95,7 @@ CCTV5+,http://112.27.235.94:8000/hls/6/index.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://218.89.240.144:59901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass
-CCTV6,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV6&t=1759030213&token=a9ff016007b2e8f27d7ac44a8bd1e4ba
+CCTV6,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV6&t=1760585411&token=944b6327597e5ab6e14998beedd01e06
 CCTV6,http://gfr.x3322.net:9901/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://gfr.x3322.net:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://k.061899.xyz/m.php?id=cctv6&key=txiptv&playlive=1&authid=0
@@ -116,7 +116,7 @@ CCTV6,http://111.43.126.240:9003/hls/19/index.m3u8?key=txiptv&playlive=1&authid=
 CCTV6,http://106.111.244.182:60001/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://183.237.95.108:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV6,http://221.226.51.220:50081/newlive/live/hls/6/live.m3u8?key=txiptv&playlive=0&authid=0
-CCTV7,hhttps://stream.iptv-search.com/iptv_test/main.php?id=CCTV7&t=1759030213&token=f3b1df20683d3b0a98294a97fcabeca8
+CCTV7,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV7&t=1760585411&token=ef4566ffc523128175204c2939d3a5b8
 CCTV7,http://gfr.x3322.net:9901/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://gfr.x3322.net:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://k.061899.xyz/m.php?id=cctv7&key=txiptv&playlive=1&authid=0
@@ -134,7 +134,7 @@ CCTV7,http://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?tx
 CCTV7,http://106.111.244.182:60001/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://116.9.204.242:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://223.241.247.214:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV8&t=1759030213&token=f606a94d0dae661920bbc53895008bdc
+CCTV8,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV8&t=1760585411&token=68364a3ee862acfdd15da4c8d59bac6e
 CCTV8,http://gfr.x3322.net:9901/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://gfr.x3322.net:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://k.061899.xyz/m.php?id=cctv8&key=txiptv&playlive=1&authid=0
@@ -153,7 +153,7 @@ CCTV8,http://ak6668768.zicp.io:8807/live1008.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://106.111.244.182:60001/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://111.43.126.240:9003/hls/21/index.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://183.237.95.108:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV9,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV9&t=1759030213&token=4724f938d7383aaa55662551441ea93f
+CCTV9,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV9&t=1760585411&token=da9c8b1a8c75b3a27e5d2813c00dc7b2
 CCTV9,http://gfr.x3322.net:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://gfr.x3322.net:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://k.061899.xyz/m.php?id=cctv9&key=txiptv&playlive=1&authid=0
@@ -170,7 +170,7 @@ CCTV9,http://222.169.85.8:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&aut
 CCTV9,http://223.241.247.214:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://106.111.244.182:60001/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://42.225.117.174:11199/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV10&t=1759030213&token=27b8ce7aa9bfd9eef72b402cad5c9154
+CCTV10,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV10&t=1760585411&token=904dc116f371d163a15a0f3a5bfe48cc
 CCTV10,http://gfr.x3322.net:9901/tsfile/live/1075_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10,http://gfr.x3322.net:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10,http://k.061899.xyz/m.php?id=cctv10&key=txiptv&playlive=1&authid=0
@@ -187,7 +187,7 @@ CCTV10,http://223.241.247.214:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1
 CCTV10,http://113.57.93.165:9900/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10,http://106.111.244.182:60001/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10,http://42.225.117.174:11199/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV11&t=1759030213&token=ffbb2e562c7490b96c0b1f57bccacd14
+CCTV11,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV11&t=1760585411&token=821b5631124e90e68b543463dba4e16a
 CCTV11,http://gfr.x3322.net:9901/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://gfr.x3322.net:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://k.061899.xyz/m.php?id=cctv11&key=txiptv&playlive=1&authid=0
@@ -206,7 +206,7 @@ CCTV11,http://106.111.244.182:60001/tsfile/live/0011_1.m3u8?key=txiptv&playlive=
 CCTV11,http://42.225.117.174:11199/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://111.43.126.240:9003/hls/24/index.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://58.19.180.108:9981/stream/channelid/550290687?profile=pass
-CCTV12,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV12&t=1759030213&token=0954ef910f09f82fbe4d207bd61f07e3
+CCTV12,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV12&t=1760585411&token=59ec7ffad1e9e9e38e9afbc330fbea04
 CCTV12,http://gfr.x3322.net:9901/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://gfr.x3322.net:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://k.061899.xyz/m.php?id=cctv12&key=txiptv&playlive=1&authid=0
@@ -224,7 +224,7 @@ CCTV12,http://106.111.244.182:60001/tsfile/live/0012_1.m3u8?key=txiptv&playlive=
 CCTV12,http://42.225.117.174:11199/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://111.43.126.240:9003/hls/25/index.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://58.19.180.108:9981/stream/channelid/857624678?profile=pass
-CCTV13,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV13&t=1759030213&token=afa687f0d8d121ff17ccd7eeec71ca1b
+CCTV13,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV13&t=1760585411&token=cde87db33a1a9c36c65a2f73e3a9ff07
 CCTV13,http://gfr.x3322.net:9901/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://gfr.x3322.net:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://k.061899.xyz/m.php?id=cctv13&key=txiptv&playlive=1&authid=0
@@ -244,7 +244,7 @@ CCTV13,http://www.cdnstv.com:6398/hls/13/index.m3u8?key=txiptv&playlive=1&authid
 CCTV13,http://106.111.244.182:60001/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://111.43.126.240:9003/hls/26/index.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://j.x.bkpcp.top/jx/CCTV13HD
-CCTV14,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV14&t=1759030213&token=b1d8af0a7d509b0ab220947dbb5d903b
+CCTV14,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV14&t=1760585411&token=80bd93b5d36b1ec98fcd22d9f926ee09
 CCTV14,http://gfr.x3322.net:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://gfr.x3322.net:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://k.061899.xyz/m.php?id=cctv14&key=txiptv&playlive=1&authid=0
@@ -265,7 +265,7 @@ CCTV14,http://58.19.180.108:9981/stream/channelid/446310281?profile=pass
 CCTV14,http://111.227.196.164:9901/tsfile/live/faacts/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://183.237.95.108:9901/tsfile/live/1096_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV14,http://218.89.240.144:59901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV15&t=1759030213&token=e41e45d7b9bf7282d1a34329aab6aa3a
+CCTV15,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV15&t=1760585411&token=09554eaa18bb7938b0a35bcb56022466
 CCTV15,http://gfr.x3322.net:9901/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://gfr.x3322.net:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://k.061899.xyz/m.php?id=cctv15&key=txiptv&playlive=1&authid=0
@@ -283,11 +283,11 @@ CCTV15,http://106.111.244.182:60001/tsfile/live/0015_1.m3u8?key=txiptv&playlive=
 CCTV15,http://111.43.126.240:9003/hls/28/index.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://111.227.196.164:9901/tsfile/live/faacts/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://218.89.240.144:59901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV16,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV16&t=1759030213&token=b21e20317c4e3373bb81dd5b422a3e2f
+CCTV16,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV16&t=1760585411&token=eb2b75771d80d23c058e0a85107d1183
 CCTV16,http://gfr.x3322.net:9901/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://111.43.126.240:9003/hls/29/index.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://sh.lnott.top:880/dx201.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV17&t=1759030213&token=e70a8ced1d4d836100a7e311bf81301a
+CCTV17,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV17&t=1760585411&token=89eb1f4f348a08ea121906fb91d25934
 CCTV17,http://gfr.x3322.net:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://gfr.x3322.net:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://106.52.196.79:80/TV/mui.php?id=cctv17?key=txiptv&playlive=1&authid=0
@@ -297,15 +297,12 @@ CCTV17,http://sh.lnott.top:880/dx17.m3u8&key=txiptv&playlive=1&authid=0
 CCTV17,http://61.156.228.12:8154/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://111.43.126.240:9003/hls/30/index.m3u8?key=txiptv&playlive=1&authid=0
-CETV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CETV-1&t=1759030213&token=d1e1ae43f4a5391c1eafc04280fc8294
-CETV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CETV1&t=1759030213&token=66e08c53773ad22164dd04f355dfa2e7
+CETV-1,https://stream.iptv-search.com/iptv_test/main.php?id=CETV1&t=1760585411&token=1f2f035bfffefb73aa1c1977ee603b33
 CETV-1,http://gfr.x3322.net:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV-1,http://111.43.126.240:9003/hls/34/index.m3u8?key=txiptv&playlive=1&authid=0
-CETV-2,https://stream.iptv-search.com/iptv_test/main.php?id=CETV-2&t=1759030213&token=73aac5fb7942273c6cbf352ae8cb74db
-CETV-2,https://stream.iptv-search.com/iptv_test/main.php?id=CETV2&t=1759030213&token=97eee95189225c575392605e3e0e8aad
+CETV-2,https://stream.iptv-search.com/iptv_test/main.php?id=CETV2&t=1760585411&token=867d79d929d9a3d9216b293f4bd4c37b
 CETV-2,http://gfr.x3322.net:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
-CETV-4,https://stream.iptv-search.com/iptv_test/main.php?id=CETV-4&t=1759030213&token=8b30723c9103eb34f45d5396239a96f1
-CETV-4,https://stream.iptv-search.com/iptv_test/main.php?id=CETV4&t=1759030213&token=37329e97bec061c236c9bb12bc495adc
+CETV-4,https://stream.iptv-search.com/iptv_test/main.php?id=CETV4&t=1760585411&token=6ff5c5747e3adf8aba180a2ca54d2a0d
 CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
@@ -338,7 +335,7 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 兵器科技,http://sh.lnott.top:880/dx81.m3u8?key=txiptv&playlive=1&authid=0
 
 📡卫视频道,#genre#
-广东卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&t=1759030213&token=7beb8f7c2507c45c009a97380402ad86
+广东卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&t=1760585411&token=ddff613b7b5eb28d40acab9fe5a9840d
 广东卫视,http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://gfr.x3322.net:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://183.237.95.108:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -354,7 +351,7 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 香港卫视,https://yvxymm.tv12.xyz/175.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&t=1759030213&token=221a35b1fa8739b01fe725a4d20beb6a
+浙江卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&t=1760585411&token=8d146785241f7cc3cca773a2f7881fcd
 浙江卫视,http://8.138.7.223/tv/zjws.m3u8
 浙江卫视,http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://gfr.x3322.net:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -372,7 +369,7 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 浙江卫视,http://api.kkitv.itv888.cn:8080/hls/urjqjvyf41q/index.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://113.57.93.165:9900/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://111.43.126.240:9003/hls/40/index.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&t=1759030213&token=96b7704063f761434d22c5fa195dcf44
+湖南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&t=1760585411&token=63c0683563bf5cdb47b73722260627a5
 湖南卫视,http://gfr.x3322.net:9901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://112.27.235.94:8000/hls/31/index.m3u8?key=txiptv&playlive=1&authid=0
@@ -386,7 +383,7 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 湖南卫视,http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://ak6668768.zicp.io:8827/live1028.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://sh.lnott.top:880/dx31.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&t=1759030213&token=5f80d0e06c90693a31c70797393542a7
+北京卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&t=1760585411&token=0953757f2bb1f67c0f2f8f14e82677ee
 北京卫视,http://gfr.x3322.net:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://gfr.x3322.net:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8?key=txiptv&playlive=1&authid=0
@@ -402,7 +399,7 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 北京卫视,http://api.kkitv.itv888.cn:8080/hls/h5uud1z84gn/index.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://42.225.117.174:11199/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://sh.lnott.top:880/dx29.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&t=1759030213&token=206306c42108589ce3e8939557e0fa85
+湖北卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&t=1760585411&token=76eddfe13eada736839871329aad9dac
 湖北卫视,http://gfr.x3322.net:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://gfr.x3322.net:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8?key=txiptv&playlive=1&authid=0
@@ -418,7 +415,7 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 湖北卫视,http://ak6668768.zicp.io:8838/live1040.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://api.kkitv.itv888.cn:8080/hls/qwummpaoaq/index.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://sh.lnott.top:880/dx42.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&t=1759030213&token=031bb5ae535273c782110173608041a7
+黑龙江卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&t=1760585411&token=2632b230666c41bb5b8af3046bd61e23
 黑龙江卫视,http://gfr.x3322.net:9901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://112.27.235.94:8000/hls/48/index.m3u8?key=txiptv&playlive=1&authid=0
@@ -429,7 +426,7 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 黑龙江卫视,http://api.kkitv.itv888.cn:8080/hls/2a24lcvser/index.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://39.164.160.249:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://sh.lnott.top:880/dx36.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&t=1759030213&token=6eb47758ee562191de44ab89a1e5f14c
+安徽卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&t=1760585411&token=67a313d02f474d9ecdcf34d515b70c08
 安徽卫视,http://gfr.x3322.net:9901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://gfr.x3322.net:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://iptv.huuc.edu.cn/hls/ahhd.m3u8?key=txiptv&playlive=1&authid=0
@@ -443,7 +440,7 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 安徽卫视,http://ak6668768.zicp.io:8834/live1036.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://api.kkitv.itv888.cn:8080/hls/m8hvytneunk/index.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://sh.lnott.top:880/dx34.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&t=1759030213&token=b5ee2491a4cab762e23dc81e20bc172e
+重庆卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&t=1760585411&token=fc2696781f430077931fa3a39ae4710e
 重庆卫视,http://gfr.x3322.net:9901/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://111.43.126.240:9003/hls/55/index.m3u8?key=txiptv&playlive=1&authid=0
@@ -456,7 +453,7 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 重庆卫视,http://ak6668768.zicp.io:8845/live1071.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://api.kkitv.itv888.cn:8080/hls/ogh3s6tbw6/index.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://sh.lnott.top:880/dx46.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&t=1759030213&token=48510faa72fcfc1d96a7777867be5d07
+东方卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&t=1760585411&token=f0b2febef0508ac20723821acaeb085c
 东方卫视,http://gfr.x3322.net:9901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://gfr.x3322.net:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://k.061899.xyz/m.php?id=dfws&key=txiptv&playlive=1&authid=0
@@ -468,7 +465,7 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 东方卫视,http://223.241.247.214:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://112.99.193.34:9901/tsfile/live/1036_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 东方卫视,http://api.kkitv.itv888.cn:8080/hls/p269fvbehye/index.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&t=1759030213&token=ffe1f0c184d539201c17c60b3e297587
+东南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&t=1760585411&token=70d8fd2d048aee0b3436a8ed1a161785
 东南卫视,http://gfr.x3322.net:9901/tsfile/live/1099_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://k.061899.xyz/m.php?id=dnws&key=txiptv&playlive=1&authid=0
 东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8?key=txiptv&playlive=1&authid=0
@@ -476,7 +473,7 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 东南卫视,http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://111.43.126.240:9003/hls/47/index.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://sh.lnott.top:880/dx47.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&t=1759030213&token=53d29fb7c91305cb92911f10e6b5e702
+甘肃卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&t=1760585411&token=ca23a984380ccb5a5338cb57fec640f5
 甘肃卫视,http://gfr.x3322.net:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://k.061899.xyz/m.php?id=dfws&key=txiptv&playlive=1&authid=0
 甘肃卫视,http://111.43.126.240:9003/hls/70/index.m3u8?key=txiptv&playlive=1&authid=0
@@ -484,7 +481,7 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 甘肃卫视,http://223.241.247.214:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://36.32.174.67:60080/newlive/live/hls/40/live.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://sh.lnott.top:880/dx56.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1759030213&token=a1d371afb6682c74b134df82192b7fef
+广西卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1760585411&token=c17f841f0f8ebd14e3662f03d23f5123
 广西卫视,http://k.061899.xyz/m.php?id=gxws&key=txiptv&playlive=1&authid=0
 广西卫视,http://gfr.x3322.net:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://42.225.117.174:11199/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -494,8 +491,7 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 广西卫视,http://222.169.85.8:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://111.43.126.240:9003/hls/62/index.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://sh.lnott.top:880/dx41.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86&t=1757403106&token=434c620615781b1bb1881bf9c258fe3e
-贵州卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86&t=1757401893&token=f2ce7751e7e7baed7ff787bc7270a289
+贵州卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86&t=1760585411&token=0655dcaaa41cfb56b94f990d998af551
 贵州卫视,http://gfr.x3322.net:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://k.061899.xyz/m.php?id=gzws&key=txiptv&playlive=1&authid=0
 贵州卫视,http://iptv.huuc.edu.cn/hls/gzhd.m3u8?key=txiptv&playlive=1&authid=0
@@ -503,7 +499,7 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 贵州卫视,http://112.27.235.94:8000/hls/46/index.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://222.169.85.8:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://sh.lnott.top:880/dx50.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&t=1759030213&token=cd312a394993aa6bd57967bac3a5c955
+河南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&t=1760585411&token=8689d35c534f76f661a723ce793da719
 河南卫视,http://gfr.x3322.net:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://iptv.huuc.edu.cn/hls/hnhd.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://k.061899.xyz/m.php?id=hnws&key=txiptv&playlive=1&authid=0
@@ -515,7 +511,7 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 河南卫视,http://183.131.246.250:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://223.241.247.214:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://sh.lnott.top:880/dx44.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&t=1759030213&token=0d19629f0d64aff61e38d29ae9efe4d4
+河北卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&t=1760585411&token=62c47972c3ca16000e0258de08c5a971
 河北卫视,http://gfr.x3322.net:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://gfr.x3322.net:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://k.061899.xyz/m.php?id=hbws&key=txiptv&playlive=1&authid=0
@@ -525,7 +521,7 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 河北卫视,http://111.61.236.247:9081/hls/17/index.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://61.156.228.12:8154/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://sh.lnott.top:880/dx63.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&t=1759030213&token=3c1248dadb0919666de3343933554710
+吉林卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&t=1760585411&token=432f852fc21044898d9d6bca80814ab6
 吉林卫视,http://gfr.x3322.net:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://k.061899.xyz/m.php?id=hbws&key=txiptv&playlive=1&authid=0
 吉林卫视,http://60.174.40.117:85/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -533,7 +529,7 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 吉林卫视,http://61.156.228.12:8154/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://sh.lnott.top:880/dx37.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&t=1759030213&token=ab04198b23210b25c5d09d253bda4be6
+江苏卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&t=1760585411&token=412e52dfa0d4a0ededcc0bfe869e3e17
 江苏卫视,http://gfr.x3322.net:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://gfr.x3322.net:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://k.061899.xyz/m.php?id=jsws&key=txiptv&playlive=1&authid=0
@@ -546,7 +542,7 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 江苏卫视,http://42.225.117.174:11199/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://ak6668768.zicp.io:8829/live1030.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://sh.lnott.top:880/dx33.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1759030213&token=6499f1d8541120c147e6f9fb73ea88c3
+江西卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1760585411&token=2cdd1e315698a1a39a9d397f821c32f2
 江西卫视,http://gfr.x3322.net:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://k.061899.xyz/m.php?id=jxws&key=txiptv&playlive=1&authid=0
 江西卫视,http://218.27.55.132:85/tsfile/live/1017_1.m3u8?key=txiptv
@@ -556,7 +552,7 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 江西卫视,http://223.241.247.214:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://60.174.40.117:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&t=1759030213&token=8d3022587417909170785a035f106b3d
+辽宁卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&t=1760585411&token=a74743bac9005acd38ca8532c6ecf88e
 辽宁卫视,http://k.061899.xyz/m.php?id=ynws&key=txiptv&playlive=1&authid=0
 辽宁卫视,http://gfr.x3322.net:9901/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8?key=txiptv&playlive=1&authid=0
@@ -567,8 +563,7 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 辽宁卫视,http://39.164.160.249:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://ak6668768.zicp.io:8843/live1045.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://1.180.2.93:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&t=1757403106&token=1b6662837bf70937064da160ca463abd
-内蒙古卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&t=1757401893&token=3f51ca593937df3c7d331492cc34c664
+内蒙古卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&t=1760585411&token=96a66fd5a163abfaffb0d89093c877b7
 内蒙古卫视,http://gfr.x3322.net:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://k.061899.xyz/m.php?id=nmgws&key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://hbhyjq.ufyct.com:1088/hls/43/index.m3u8?key=txiptv&playlive=1&authid=0
@@ -586,14 +581,14 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 宁夏卫视,http://222.169.85.8:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,http://113.57.93.165:9900/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,http://sh.lnott.top:880/dx53.m3u8?key=txiptv&playlive=1&authid=0
-青海卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&t=1759030213&token=4f5e71b2edaba0cd83907dcd09edf7e3
+青海卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&t=1760585411&token=78dc7b7d959a7a4dbe90284406cf66d4
 青海卫视,http://gfr.x3322.net:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://k.061899.xyz/m.php?id=qhws&key=txiptv&playlive=1&authid=0
 青海卫视,http://iptv.huuc.edu.cn/hls/qhhd.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://1.180.2.93:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://111.43.126.240:9003/hls/59/index.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://sh.lnott.top:880/dx54.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&t=1759030213&token=fb5ea40ce4b8edf28ef0d1f2c745874d
+山东卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&t=1760585411&token=ee8831f5c034ff124ca964335ba77a8d
 山东卫视,http://gfr.x3322.net:9901/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://gfr.x3322.net:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://61.156.228.12:8154/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -605,7 +600,7 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 山东卫视,http://ak6668768.zicp.io:8860/live1078.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://sh.lnott.top:880/dx38.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1759030213&token=aa1a07c9116c0266533a473167556ea0
+山西卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1760585411&token=90c270ada4720f2c2d561a1133b58a6a
 山西卫视,http://gfr.x3322.net:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://60.174.40.117:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://36.32.174.67:60080/newlive/live/hls/43/live.m3u8?key=txiptv&playlive=1&authid=0
@@ -616,7 +611,7 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 山西卫视,http://222.169.85.8:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://ak6668768.zicp.io:8865/live1090.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://sh.lnott.top:880/dx39.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1759030213&token=0f593494f3318fb3105c47333d71e9e1
+陕西卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1760585411&token=114b928d0b27972d144d67f794b64377
 陕西卫视,http://gfr.x3322.net:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://k.061899.xyz/m.php?id=sxws&key=txiptv&playlive=1&authid=0
 陕西卫视,http://112.27.235.94:8000/hls/43/index.m3u8?key=txiptv&playlive=1&authid=0
@@ -624,7 +619,7 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 陕西卫视,http://42.225.117.174:11199/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://gxlive.snrtv.com/sxws-SD.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://sh.lnott.top:880/dx51.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&t=1759030213&token=bc05a3bb5adc0acefa9d258ccb79b6cf
+四川卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&t=1760585411&token=a25b194aea8ec0330074a4025ffb95f7
 四川卫视,http://gfr.x3322.net:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://112.27.235.94:8000/hls/35/index.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://61.156.228.12:8154/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -632,7 +627,7 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 四川卫视,http://218.89.240.144:59901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://sh.lnott.top:880/dx45.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&t=1759030213&token=4e0d030a4a8c855c596f2c80f6f3e0b1
+深圳卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&t=1760585411&token=538edadf5c4b4d5e6e837d981d0cb5e8
 深圳卫视,http://gfr.x3322.net:9901/tsfile/live/1095_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://gfr.x3322.net:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://218.89.240.144:59901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -642,9 +637,9 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 深圳卫视,http://223.241.247.214:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://sh.lnott.top:880/dx61.m3u8?key=txiptv&playlive=1&authid=0
-三沙卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&t=1759030213&token=6615d3d39176abf63af2032db123cbe8
+三沙卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&t=1760585411&token=32a71b01c95fbab09c016decd5a754b7
 三沙卫视,http://gfr.x3322.net:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&t=1759030213&token=72a1eea683652439a3a72d00654c2eac
+天津卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&t=1760585411&token=aa43cbae48c98840bf5ba8f257bb9b96
 天津卫视,http://gfr.x3322.net:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://gfr.x3322.net:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://k.061899.xyz/m.php?id=tjws&key=txiptv&playlive=1&authid=0
@@ -653,14 +648,14 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 天津卫视,http://218.89.240.144:59901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://sh.lnott.top:880/dx30.m3u8?key=txiptv&playlive=1&authid=0
-西藏卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&t=1759030213&token=937bc15b838df21e872da2cc8afc057a
+西藏卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&t=1760585411&token=fc5ff2151d57947abc8814865fa02859
 西藏卫视,http://gfr.x3322.net:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://k.061899.xyz/m.php?id=xzws&key=txiptv&playlive=1&authid=0
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 西藏卫视,http://218.89.240.144:59901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://183.237.95.108:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=0&authid=0
 西藏卫视,http://sh.lnott.top:880/dx57.m3u8?key=txiptv&playlive=1&authid=0
-新疆卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&t=1759030213&token=a4f1bf88fb7fa50caf8e536ea61f1fae
+新疆卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&t=1760585411&token=4ae1862d33270f5117c7d71431b29c38
 新疆卫视,http://gfr.x3322.net:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://k.061899.xyz/m.php?id=xjws&key=txiptv&playlive=1&authid=0
 新疆卫视,http://42.225.117.174:11199/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -668,7 +663,7 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 新疆卫视,http://222.169.85.8:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://iptv.huuc.edu.cn/hls/xjhd.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://sh.lnott.top:880/dx55.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&t=1759030213&token=7a0dc293e94536afb92e38ca05e8bbdf
+云南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&t=1760585411&token=24326c58bc66011ebeee29505f981204
 云南卫视,http://gfr.x3322.net:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://60.174.40.117:85/tsfile/live/0119_1.m3u8?key=txiptv
 云南卫视,http://112.27.235.94:8000/hls/40/index.m3u8?key=txiptv&playlive=1&authid=0
@@ -678,7 +673,7 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 云南卫视,http://183.131.246.250:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://iptv.huuc.edu.cn/hls/ynhd.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://sh.lnott.top:880/dx49.m3u8?key=txiptv&playlive=1&authid=0
-兵团卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&t=1759030213&token=3238dfa407812c4938238dcb642bb209
+兵团卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&t=1760585411&token=0dccfb35ad42f88f22d6f57a2e960c2f
 兵团卫视,http://8.138.7.223/tv/btws.m3u8
 兵团卫视,http://gfr.x3322.net:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://k.061899.xyz/m.php?id=btws&key=txiptv&playlive=1&authid=0
@@ -687,84 +682,68 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 兵团卫视,http://222.169.85.8:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://218.89.240.144:59901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://sh.lnott.top:880/dx59.m3u8?key=txiptv&playlive=1&authid=0
-海南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&t=1759030213&token=83492bcef7c17505b1e22e8f56f15277
+海南卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&t=1760585411&token=fc9c26bbc37e5af7793a65134e169477
 海南卫视,http://gfr.x3322.net:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://218.89.240.144:59901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://1.180.2.93:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://183.223.157.33:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://sh.lnott.top:880/dx58.m3u8?key=txiptv&playlive=1&authid=0
-海峡卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&t=1759030213&token=a8ed910ea2f118ca1b58965d6a3d0ff1
+海峡卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&t=1760585411&token=7d661ff92492e988eb8b6cef1e8ccbdb
 海峡卫视,http://k.061899.xyz/m.php?id=hxws&key=txiptv&playlive=1&authid=0
 海峡卫视,http://iptv.huuc.edu.cn/hls/ynhd.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️上海频道,#genre#
-上海新闻综合,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&t=1759030213&token=3a6f7c034c932d5002f091d1677491de
+上海新闻综合,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&t=1760585411&token=bd284d43454df95ab19b057b95d7ee50
 上海新闻综合,http://8.138.7.223/tv/shtv.php?id=xwzh
 上海新闻综合,http://k.061899.xyz/m.php?id=shxw&key=txiptv&playlive=1&authid=0
 上海都市,http://8.138.7.223/tv/shtv.php?id=ds
 上海都市,http://k.061899.xyz/m.php?id=shds&key=txiptv&playlive=1&authid=0
-东方影视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86&t=1757403106&token=b26a8dd1eb2e488ef69cda521abb7ff7
-东方影视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86&t=1757401893&token=825dc96c8782c78b0ce8d40a3b2b7c80
-东方影视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%8A%E8%A7%86%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86&t=1757403106&token=b0f4a71cdd82b6e066a347a204b82382
-东方影视,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%8A%E8%A7%86%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86&t=1757401893&token=69eea0d687ec142cdc9e2cb17a46d99f
 东方影视,http://k.061899.xyz/m.php?id=hhxd&key=txiptv&playlive=1&authid=0
 动漫秀场,http://sh.lnott.top:880/dx110.m3u8?key=txiptv&playlive=1&authid=0
 哈哈炫动,http://60.29.124.66:6080/hls/62/index.m3u8?key=txiptv&playlive=1&authid=0
 哈哈炫动,http://gfr.x3322.net:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
-欢笑剧场,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA&t=1759030213&token=391d45ab927a6cc16a62cff6f12260cd
+欢笑剧场,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA&t=1760585411&token=90477e182f3bc05eb57542834d825a0a
 法治天地,http://sh.lnott.top:880/dx108.m3u8?key=txiptv&playlive=1&authid=0
 生活时尚,http://sh.lnott.top:880/dx114.m3u8?key=txiptv&playlive=1&authid=0
 第一财经,https://stream.iptv-search.com/iptv_test/main.php?id=%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F&t=1759030213&token=fa7a380d821acac097b50f6cd09dbb0c
 第一财经,http://8.138.7.223/tv/shtv.php?id=dycj
 纪实人文,http://8.138.7.223/tv/shtv.php?id=xjs
 都市剧场,http://183.237.95.108:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
+乐游,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B9%90%E6%B8%B8&t=1760585411&token=31956fa40cd6e3d5a8e7d9e57fede456
 
 🎬电影频道,#genre#
-CHC家庭影院,https://stream.iptv-search.com/main.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&t=1755401429&token=3f910c9a8fd178190bc3833a81b059ac
+CHC家庭影院,https://stream.iptv-search.com/iptv_test/main.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&t=1760585411&token=687870915695d42134a3f98e7991985d
 CHC家庭影院,http://58.19.180.108:9981/stream/channelid/2141017443?profile=pass
 CHC家庭影院,http://ak6668768.zicp.io:8844/live1046.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,http://go.bkpcp.top/mg/jtyy
 CHC家庭影院,http://k.061899.xyz/m.php?id=jtyy
 CHC家庭影院,http://sh.lnott.top:880/dx93.m3u8?key=txiptv&playlive=1&authid=0
-CHC动作电影,https://stream.iptv-search.com/main.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&t=1755401429&token=1a584ba2afe999ebeae6914fc9b89a9b
+CHC动作电影,https://stream.iptv-search.com/iptv_test/main.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&t=1760585411&token=6c7bcb41bc9422f0abecdc368ef1958d
 CHC动作电影,http://183.237.95.108:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC动作电影,http://58.19.180.108:9981/stream/channelid/1782708396?profile=pass
 CHC动作电影,http://go.bkpcp.top/mg/dzdy
 CHC动作电影,http://k.061899.xyz/m.php?id=dzdy
 CHC动作电影,http://sh.lnott.top:880/dx100.m3u8?key=txiptv&playlive=1&authid=0
-CHC影迷电影,https://stream.iptv-search.com/iptv_test/main.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&t=1759030213&token=6f303043274d3c6987799589d0a9ab82
+CHC影迷电影,https://stream.iptv-search.com/iptv_test/main.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&t=1760585411&token=cb0f6a1116a6d073cd0484b647e3bebc
 CHC影迷电影,http://go.bkpcp.top/mg/ymdy
 CHC影迷电影,http://k.061899.xyz/m.php?id=ymdy
 CHC影迷电影,http://58.19.180.108:9981/stream/channelid/473633391?profile=pass
 CHC影迷电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-黑莓电影,https://stream.iptv-search.com/main.php?id=%E9%BB%91%E8%8E%93%E7%94%B5%E5%BD%B1&t=1755401429&token=a1e89bbd6d257b14c8cf87d5e14d7159
-纬来电影,https://stream.iptv-search.com/iptv_test/main.php?id=%E7%B7%AF%E4%BE%86%E9%9B%BB%E5%BD%B1&t=1759030213&token=2d5edcc794a1811230a92c4441ad57e5
-无线星河,https://stream.iptv-search.com/iptv_test/main.php?id=TVB%E6%97%A0%E7%BA%BF%E6%98%9F%E6%B2%B3&t=1759030213&token=dc52058b42a40f85919cc2e20446c444
-星空卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%98%9F%E7%A9%BA%E8%A1%9B%E8%A6%96+%28576p%29&t=1757403106&token=53b39d49ffad5664ee0b5012826738a0
-星空卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%98%9F%E7%A9%BA%E8%A1%9B%E8%A6%96+%28576p%29&t=1757401893&token=50cdbcba3e6941bb6d8033befd5ad068
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8?key=txiptv&playlive=1&authid=0
-东森洋片,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%B8%9C%E6%A3%AE%E6%B4%8B%E7%89%87&t=1759030213&token=3ea5534277899611b0f29f3119dec9ca
-东森超视,https://stream.iptv-search.com/iptv_test/main.php?id=%E6%9D%B1%E6%A3%AE%E8%B6%85%E8%A6%96&t=1759030213&token=574d0f4524c1edccbe4868e081462696
+
 
 🏀体育频道,#genre#
-广东体育,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2&t=1759030213&token=3f6702a5e44af85c14e2b08a8e7a6afa
+广东体育,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2&t=1760585411&token=3d27592b8ea4273c064a0652410618f4
 广东体育,http://120.198.95.220:9901/tsfile/live/1010_1.m3u8?key=txiptv
-纬来体育,https://stream.iptv-search.com/iptv_test/main.php?id=%E7%B7%AF%E4%BE%86%E9%AB%94%E8%82%B2&t=1759030213&token=45cba9c37191340f9f3c79016e145475
 纬来体育,http://iptv.4666888.xyz/iptv.php?id=20225
-五星体育,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&t=1759030213&token=81860e4c54ca75eb100b8b0407d7221a
+五星体育,https://stream.iptv-search.com/iptv_test/main.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&t=1760585411&token=a10694e2379a09cfd53df66fd7c2e99c
 五星体育,http://8.138.7.223/tv/shtv.php?id=wxty
 五星体育,https://gdcucc.v1.mk/gdcucc/wxty.m3u8?key=txiptv&playlive=1&authid=0
-山东体育,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%B1%B1%E4%B8%9C%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2&t=1759030213&token=c2b46bd287a5a98b034a405fbae59d76
 山东体育,http://61.156.228.12:8154/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-睛彩篮球,https://stream.iptv-search.com/main.php?id=%E7%9D%9B%E5%BD%A9%E7%AF%AE%E7%90%83&t=1755401429&token=a734ecd50c5fd3a819b889d88054b8b8
-睛彩广场舞,https://stream.iptv-search.com/iptv_test/main.php?id=%E7%9D%9B%E5%BD%A9%E5%B9%BF%E5%9C%BA%E8%88%9E&t=1757403106&token=034bd0c7443f85653758a3638355a115
-睛彩广场舞,https://stream.iptv-search.com/iptv_test/main.php?id=%E7%9D%9B%E5%BD%A9%E5%B9%BF%E5%9C%BA%E8%88%9E&t=1757401893&token=f33b8e65c08d76f78487b85edc3af313
-风云足球,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83&t=1757403106&token=3f744bdd470ac2b54436a5d32b052559
-风云足球,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83&t=1757401893&token=acb3361dd447db537642b69ce25a9bf6
 风云足球,http://111.61.236.247:9081/hls/58/index.m3u8?key=txiptv&playlive=1&authid=0
 风云足球,http://sh.lnott.top:880/dx71.m3u8?key=txiptv&playlive=1&authid=0
-快乐垂钓,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&t=1757403106&token=8f125c5793655b892a27b5cf2bd99ced
-快乐垂钓,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&t=1757401893&token=8e69b6de03706839665b4a4ade953e94
+快乐垂钓,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&t=1760585411&token=3cbcb5a59d5a6b0439a10e6dc65a3306
+
 
 
 
