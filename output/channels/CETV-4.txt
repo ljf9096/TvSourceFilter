@@ -1,3 +1,4 @@
+CETV-4,https://stream.iptv-search.com/iptv_test/main.php?id=CETV4&t=1760585411&token=6ff5c5747e3adf8aba180a2ca54d2a0d
 CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV-4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
@@ -388,4 +389,3 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 CETV-4,http://113.104.186.199:7088/udp/239.253.43.40:5146
 CETV-4,http://114.254.37.51:8888/rtp/239.3.1.56:4120
 CETV-4,https://mgtv.ottiptv.cc/mg/923287339.m3u8?userid=5559462299&sign=c8c094c79268790b0015e823be25d97fec43b0afcde49655f429e976d1c5d7c4978cb129677804ecc4ec4432b04ed540fc84b37972c46de5b7476bef3578d5db8b49c1bb47e321b1fb17e768f00240f3d3&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
-CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8

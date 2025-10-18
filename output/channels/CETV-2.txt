@@ -1,3 +1,4 @@
+CETV-2,https://stream.iptv-search.com/iptv_test/main.php?id=CETV2&t=1760585411&token=867d79d929d9a3d9216b293f4bd4c37b
 CETV-2,http://gfr.x3322.net:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV-2,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV-2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8

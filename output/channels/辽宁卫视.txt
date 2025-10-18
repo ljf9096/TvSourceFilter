@@ -1,3 +1,4 @@
+辽宁卫视,https://stream.iptv-search.com/iptv_test/main.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&t=1760585411&token=a74743bac9005acd38ca8532c6ecf88e
 辽宁卫视,http://k.061899.xyz/m.php?id=ynws&key=txiptv&playlive=1&authid=0
 辽宁卫视,http://gfr.x3322.net:9901/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8?key=txiptv&playlive=1&authid=0
@@ -1253,4 +1254,3 @@
 辽宁卫视,https://iptv.catvod.com/catvod.php?id=lnws&token=7375646fb3137bc60952c35568bf1d10d4d887ce
 辽宁卫视,https://iptv.catvod.com/catvod.php?id=lnws&token=7375646f21cd7c3e4b1dfd276f5b684dab665193
 辽宁卫视,https://mgtv.ottiptv.cc/mg/630291707.m3u8?userid=5559462299&sign=1c08edd14add7b111dd623da8424c21b97452d33b28ed25d9a6f87551c4665e8e73a8a6f8ffc4c6e93308f9c5cf0058175b3ed15c239d8266a25afc31c6467d5ce7ddc771e01fa827cc4f172cbcb882cee&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
-辽宁卫视,http://cx.shscxzx.cn:8899/rtp/239.45.1.123:5140
