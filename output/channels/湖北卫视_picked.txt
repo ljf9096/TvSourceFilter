@@ -38,3 +38,4 @@
 湖北卫视,https://6663.luyazo.com/livetv/hldn/7pPf8MqSR/7pPf8MqSR_live.m3u8
 湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-31.ctv
 湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-38.ctv
+湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-1.ctv

@@ -28,3 +28,4 @@
 陕西卫视,http://8.138.7.223/tv/hot.php?id=45
 陕西卫视,https://stream1.freetv.fun/shan-xi-wei-shi-52.ctv
 陕西卫视,https://stream1.freetv.fun/shan-xi-wei-shi-57.ctv
+陕西卫视,https://stream1.freetv.fun/shan-xi-wei-shi-132.ctv

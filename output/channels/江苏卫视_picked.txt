@@ -48,3 +48,4 @@
 江苏卫视,https://stream1.freetv.fun/4f24c45e978db16f03f9526a99b66684f76c164081454f9fb06fb75f3909339d.ctv
 江苏卫视,https://stream1.freetv.fun/jiang-su-wei-shi-49.ctv
 江苏卫视,https://stream1.freetv.fun/b484249faa35740c98c20dd599a41e18135fa7626edd0489fbe28a00ec2652b8.ctv
+江苏卫视,https://stream1.freetv.fun/jiang-su-wei-shi-29.ctv

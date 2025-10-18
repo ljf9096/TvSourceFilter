@@ -33,3 +33,5 @@
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-363.ctv
 青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-158.ctv
 青海卫视,https://stream1.freetv.fun/d07c5ec4397fbc7f5e7cc384b2ea73f4109d928e2b68474fc1ef6041cb976744.ctv
+青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-345.ctv
+青海卫视,https://stream1.freetv.fun/qing-hai-wei-shi-127.ctv
