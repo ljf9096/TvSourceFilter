@@ -217,4 +217,14 @@
 第一财经,http://2099.tv12.xyz/1708_1760819317808.m3u8
 第一财经,http://2099.tv12.xyz/7512_1760819317808.m3u8
 第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1760743303&key=e055cd84ed00105cf3eef592fe3171fc
+第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1760905596&key=345b44ea9342dc793a886e15c0377597
+第一财经,http://2099.tv12.xyz/63_1760905864985.m3u8
+第一财经,http://2099.tv12.xyz/230_1760905864985.m3u8
+第一财经,http://2099.tv12.xyz/559_1760905864985.m3u8
+第一财经,http://2099.tv12.xyz/881_1760905864985.m3u8
+第一财经,http://2099.tv12.xyz/1620_1760905864985.m3u8
+第一财经,http://2099.tv12.xyz/1706_1760905864985.m3u8
+第一财经,http://2099.tv12.xyz/1792_1760905864985.m3u8
+第一财经,http://2099.tv12.xyz/7596_1760905864985.m3u8
+第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1760829706&key=b221f467e069fd68d2d5b4fe11654938
 第一财经,http://cx.shscxzx.cn:8899/rtp/239.45.3.111:5140

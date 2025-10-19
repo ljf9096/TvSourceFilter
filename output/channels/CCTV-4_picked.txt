@@ -48,3 +48,6 @@ CCTV-4,https://stream1.freetv.fun/cctv4-zhong-wen-guo-ji-1.ctv
 CCTV-4,https://stream1.freetv.fun/cctv4-17.ctv
 CCTV-4,https://6663.luyazo.com/livetv/hlcc/8rd2RQ7Ng/8rd2RQ7Ng_live.m3u8?auth_key=1756266890-0-0-be8dd49928881ddcf74850eff9d207aa
 CCTV-4,https://stream1.freetv.fun/cctv4-4.ctv
+CCTV-4,https://stream1.freetv.fun/cctv4-21.ctv
+CCTV-4,https://stream1.freetv.fun/cctv4-3.ctv
+CCTV-4,https://stream1.freetv.fun/cctv4-70.ctv

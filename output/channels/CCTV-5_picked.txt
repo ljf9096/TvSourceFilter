@@ -51,3 +51,7 @@ CCTV-5,https://stream1.freetv.fun/cctv5-ti-yu-5.ctv
 CCTV-5,https://stream1.freetv.fun/cctv5-63.ctv
 CCTV-5,https://6663.luyazo.com/livetv/hlcc/svAhgwnHR/svAhgwnHR_live.m3u8?auth_key=1756266921-0-0-c980775f013612d85a4758efb97fabc4
 CCTV-5,https://stream1.freetv.fun/cctv5-ti-yu-16.ctv
+CCTV-5,https://stream1.freetv.fun/cctv5-5.ctv
+CCTV-5,https://stream1.freetv.fun/cctv5-plus-2.ctv
+CCTV-5,https://stream1.freetv.fun/cctv5-ti-yu-4.ctv
+CCTV-5,https://stream1.freetv.fun/cctv5ti-yu-3.ctv

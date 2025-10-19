@@ -58,3 +58,5 @@ CCTV-13,https://stream1.freetv.fun/cctv13-xin-wen-17.ctv
 CCTV-13,https://stream1.freetv.fun/cctv13-42.ctv
 CCTV-13,https://stream1.freetv.fun/cctv13-60.ctv
 CCTV-13,https://stream1.freetv.fun/cctv13-xin-wen-6.ctv
+CCTV-13,https://stream1.freetv.fun/cctv13-10.ctv
+CCTV-13,https://stream1.freetv.fun/cctv13-29.ctv

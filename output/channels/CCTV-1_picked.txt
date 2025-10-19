@@ -61,3 +61,4 @@ CCTV-1,https://stream1.freetv.fun/cctv1-88.ctv
 CCTV-1,https://6663.luyazo.com/livetv/hlcc/8ispgQnNg/8ispgQnNg_live.m3u8?auth_key=1756266807-0-0-8c4ca6bb3d80148bb53c1f4cae92b26d
 CCTV-1,https://stream1.freetv.fun/cctv1-62.ctv
 CCTV-1,https://stream1.freetv.fun/cctv1-2.ctv
+CCTV-1,https://stream1.freetv.fun/cctv1-60.ctv
