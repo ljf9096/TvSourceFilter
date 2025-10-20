@@ -312,23 +312,14 @@ CETV-4,http://gfr.x3322.net:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&a
 文化精品,http://sh.lnott.top:880/dx104.m3u8?key=txiptv&playlive=1&authid=0
 央视台球,http://sh.lnott.top:880/dx82.m3u8?key=txiptv&playlive=1&authid=0
 风云音乐,http://sh.lnott.top:880/dx73.m3u8?key=txiptv&playlive=1&authid=0
-第一剧场,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA&t=1757403106&token=ccfc8c501213b9a553dbb2f3640cc888
-第一剧场,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA&t=1757401893&token=59165467ca8e6598d3bdad656856812a
 第一剧场,http://58.17.48.228:808/hls/89/index.m3u8?key=txiptv&playlive=1&authid=0
-怀旧剧场,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA&t=1757403106&token=7bb0404619e6bc5bc22938b8185300ce
-怀旧剧场,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA&t=1757401893&token=c76971596b513a029d659337a169c21a
 怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8?key=txiptv&playlive=1&authid=0
 怀旧剧场,http://sh.lnott.top:880/dx95.m3u8?key=txiptv&playlive=1&authid=0
-女性时尚,https://stream.iptv-search.com/main.php?id=CCTV%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A&t=1755401429&token=c237330a3f93f84e28e3eac393b5aa2a
 女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8?key=txiptv&playlive=1&authid=0
 女性时尚,http://sh.lnott.top:880/dx105.m3u8?key=txiptv&playlive=1&authid=0
 高尔夫网球,http://sh.lnott.top:880/dx98.m3u8?key=txiptv&playlive=1&authid=0
-风云足球,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83&t=1757403106&token=3f744bdd470ac2b54436a5d32b052559
-风云足球,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83&t=1757401893&token=acb3361dd447db537642b69ce25a9bf6
 风云足球,http://111.61.236.247:9081/hls/58/index.m3u8?key=txiptv&playlive=1&authid=0
 风云足球,http://sh.lnott.top:880/dx71.m3u8?key=txiptv&playlive=1&authid=0
-世界地理,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86&t=1757403106&token=9a9d91f8745181420e19311f748e20de
-世界地理,https://stream.iptv-search.com/iptv_test/main.php?id=CCTV%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86&t=1757401893&token=76f0926a8b317a84919104550af8078a
 世界地理,http://111.61.236.247:9081/hls/62/index.m3u8?key=txiptv&playlive=1&authid=0
 世界地理,http://sh.lnott.top:880/dx72.m3u8?key=txiptv&playlive=1&authid=0
 兵器科技,http://111.61.236.247:9081/hls/61/index.m3u8?key=txiptv&playlive=1&authid=0
@@ -743,6 +734,7 @@ CHC影迷电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&pl
 风云足球,http://111.61.236.247:9081/hls/58/index.m3u8?key=txiptv&playlive=1&authid=0
 风云足球,http://sh.lnott.top:880/dx71.m3u8?key=txiptv&playlive=1&authid=0
 快乐垂钓,https://stream.iptv-search.com/iptv_test/main.php?id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&t=1760585411&token=3cbcb5a59d5a6b0439a10e6dc65a3306
+
 
 
 
