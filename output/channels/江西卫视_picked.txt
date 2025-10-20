@@ -40,3 +40,4 @@
 江西卫视,https://stream1.freetv.fun/9b0ab5df7f1d9cc5e5fa4263ecfd80bdb7a042031fec72c5917aa4cc8f33230e.ctv
 江西卫视,https://stream1.freetv.fun/jiang-xi-wei-shi-18.ctv
 江西卫视,https://stream1.freetv.fun/jiang-xi-wei-shi-74.ctv
+江西卫视,https://stream1.freetv.fun/1d56b395bdb00424c44f8dbff39c9b2606472caa25b9328fb7231f8a97643de7.ctv

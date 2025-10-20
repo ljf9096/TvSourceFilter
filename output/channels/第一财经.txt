@@ -147,8 +147,8 @@
 第一财经,http://gilbert0571.gleeze.com:8888/rtp/233.50.200.125:5140
 第一财经,http://home.hiant.cfd:9999/rtp/233.50.200.125:5140
 第一财经,http://eversouthhangzhou.7766.org:8188/rtp/233.50.200.125:5140
-第一财经,http://iptv.cqshushu.com/migu.php?pid=shdycj&token=5c6ecc700ca5fc679b6f7eb0e5445c36
 第一财经,http://iptv.cqshushu.com/migu.php?pid=shdycj&token=9ab167e0a62c8c5630291569c5d09fab
+第一财经,http://iptv.cqshushu.com/migu.php?pid=shdycj&token=5c6ecc700ca5fc679b6f7eb0e5445c36
 第一财经,http://callis.carrollis.club:4022/rtp/239.45.3.211:5140
 第一财经,http://cloud.diskcloud.cn:4022/rtp/239.45.3.211:5140
 第一财经,http://60.185.234.155:4022/rtp/233.50.200.125:5140
@@ -227,4 +227,14 @@
 第一财经,http://2099.tv12.xyz/1792_1760905864985.m3u8
 第一财经,http://2099.tv12.xyz/7596_1760905864985.m3u8
 第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1760829706&key=b221f467e069fd68d2d5b4fe11654938
+第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1760992123&key=3a95a543e2257eccf40c4b294f09eede
+第一财经,http://2099.tv12.xyz/63_1760992362262.m3u8
+第一财经,http://2099.tv12.xyz/230_1760992362262.m3u8
+第一财经,http://2099.tv12.xyz/560_1760992362262.m3u8
+第一财经,http://2099.tv12.xyz/882_1760992362262.m3u8
+第一财经,http://2099.tv12.xyz/1621_1760992362262.m3u8
+第一财经,http://2099.tv12.xyz/1707_1760992362262.m3u8
+第一财经,http://2099.tv12.xyz/1793_1760992362262.m3u8
+第一财经,http://2099.tv12.xyz/7597_1760992362262.m3u8
+第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1760916130&key=2a57815b4a682b528c9a039def8f6a68
 第一财经,http://cx.shscxzx.cn:8899/rtp/239.45.3.111:5140

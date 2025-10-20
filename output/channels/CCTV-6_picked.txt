@@ -58,3 +58,4 @@ CCTV-6,https://stream1.freetv.fun/cctv6-dian-ying-7.ctv
 CCTV-6,https://6663.luyazo.com/livetv/hlcc/v7q2gw7HR/v7q2gw7HR_live.m3u8?auth_key=1756266973-0-0-611bc714de46cb8f7cb758d38d953845
 CCTV-6,https://stream1.freetv.fun/cctv6-40.ctv
 CCTV-6,https://stream1.freetv.fun/cctv6-dian-ying-16.ctv
+CCTV-6,https://stream1.freetv.fun/cctv6-15.ctv
