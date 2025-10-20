@@ -894,4 +894,3 @@
 新疆卫视,http://218.86.184.121:4022/rtp/238.255.2.66:5999
 新疆卫视,https://stream1.freetv.fun/xin-jiang-wei-shi-45.m3u8
 新疆卫视,http://www.kaniptv.cn/mk.php?ip=123.12.38.189:8899&id=live1574
-新疆卫视,http://cx.shscxzx.cn:8899/rtp/239.45.1.116:5140
