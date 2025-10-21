@@ -924,3 +924,4 @@
 新疆卫视,http://live1.hrtn.net/live/xjws_1000.m3u8?auth_key=1761096126-f734a24f55bb58fb2cfab9ca582a0a7b-0-e51e9583edff7532e053656712132f88
 新疆卫视,http://live1.hrtn.net/live/xjws_1000.m3u8?auth_key=1761094656-b224978cf2385569e312a45619a9c02f-0-5e921320f49f91814585116d780327e4
 新疆卫视,http://live1.hrtn.net/live/xjws_1000.m3u8?auth_key=1761094854-04d66008102606e5a26a97e135b00758-0-b7de98fc1cfcd04852370d392fa0697d
+新疆卫视,http://cx.shscxzx.cn:8899/rtp/239.45.1.116:5140

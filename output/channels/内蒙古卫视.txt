@@ -828,4 +828,3 @@
 内蒙古卫视,https://stream1.freetv.fun/nei-meng-gu-wei-shi-43.m3u8
 内蒙古卫视,http://live1.hrtn.net/live/nmws_1000.m3u8?auth_key=1761094656-5ad1023bdc75bed028c733e7fa54c482-0-dee47f0121083ab8b6bc07ff535cf720
 内蒙古卫视,http://live1.hrtn.net/live/nmws_1000.m3u8?auth_key=1761094854-6744118b539f2f78eba2922ca50fb959-0-e2952a84de75a3d3d11c661c85ae35d2
-内蒙古卫视,http://cx.shscxzx.cn:8899/rtp/239.45.3.225:5140
