@@ -55,3 +55,4 @@ CCTV-7,https://stream1.freetv.fun/cctv7-30.ctv
 CCTV-7,https://stream1.freetv.fun/cctv7-57.ctv
 CCTV-7,https://stream1.freetv.fun/cctv7-guo-fang-jun-shi-1.ctv
 CCTV-7,https://stream1.freetv.fun/cctv7-48.ctv
+CCTV-7,https://stream1.freetv.fun/cctv7-66.ctv
