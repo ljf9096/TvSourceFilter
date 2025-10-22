@@ -864,3 +864,4 @@
 内蒙古卫视,http://live1.hrtn.net/live/nmws_1000.m3u8?auth_key=1761180252-68c1c52c4b989b3543d3ede1c8f5eb72-0-2ef9288bb590ceca3a11e646aaeea092
 内蒙古卫视,http://live1.hrtn.net/live/nmws_1000.m3u8?auth_key=1761180389-24e0699f2cf9fa002e23ca9c027b8a4c-0-6517bef41eb88feba3ff54a818a36923
 内蒙古卫视,http://119.123.176.57:8086/hls/147/index.m3u8
+内蒙古卫视,http://cx.shscxzx.cn:8899/rtp/239.45.3.225:5140
