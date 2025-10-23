@@ -618,16 +618,17 @@ def main(input_file, output_file, step=7 ,exflag=False):
             logger.info(f"共读取到 {len(search_terms)} 个搜索词")
             
             # --- 处理每个搜索词 (Tonkiang/foodieguide) ---
-            for i, term in enumerate(search_terms, 1):
-                logger.info(f"\n处理第 {i}/{len(search_terms)} 个: {term}")
+            # 这个网站屏蔽了
+            # for i, term in enumerate(search_terms, 1):
+            #     logger.info(f"\n处理第 {i}/{len(search_terms)} 个: {term}")
                 
-                # 搜索并提取内容 (Tonkiang)
-                results = new_search_and_extract(term, 1)
-                all_results.extend(results)
+            #     # 搜索并提取内容 (Tonkiang)
+            #     results = new_search_and_extract(term, 1)
+            #     all_results.extend(results)
                 
-                # 添加延时避免请求过于频繁
-                if i < len(search_terms):
-                    time.sleep(1)
+            #     # 添加延时避免请求过于频繁
+            #     if i < len(search_terms):
+            #         time.sleep(1)
             
             # --- 处理每个搜索词 (iptv-search.com) ---
             # 注意：此网站可能需要翻墙或不稳定，可根据需要启用/禁用
@@ -660,6 +661,7 @@ if __name__ == "__main__":
     input_file = os.path.join("config", "channels.txt")
     output_file = os.path.join("output", "ownsource.txt")
     main(input_file, output_file)
+
 
 
 
