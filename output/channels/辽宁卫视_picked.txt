@@ -39,3 +39,4 @@
 辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-80.ctv
 辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-85.ctv
 辽宁卫视,https://stream1.freetv.fun/liao-zhu-wei-shi-59.ctv
+辽宁卫视,http://106.53.99.30/tv/migu.php?id=lnws

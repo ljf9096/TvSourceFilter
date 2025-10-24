@@ -53,3 +53,5 @@ CCTV-9,https://stream1.freetv.fun/cctv9-15.ctv
 CCTV-9,https://6663.luyazo.com/livetv/hlcc/NzboRw7Hg/NzboRw7Hg_live.m3u8?auth_key=1756267029-0-0-18bc5bfdef185660486c80e9ed2cdb77
 CCTV-9,https://stream1.freetv.fun/cctv9-11.ctv
 CCTV-9,https://stream1.freetv.fun/cctv9-6.ctv
+CCTV-9,https://stream1.freetv.fun/cctv-9-2.ctv
+CCTV-9,https://stream1.freetv.fun/cctv9-52.ctv
