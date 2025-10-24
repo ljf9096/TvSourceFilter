@@ -4,6 +4,6 @@
 
 #https://raw.githubusercontent.com/lgg-lg/IPTV/main/others.txt
 https://raw.githubusercontent.com/lgg-lg/IPTV/main/live.txt
-https://raw.githubusercontent.com/lgg-lg/iptv-api/master/output/user_result.txt
+#https://raw.githubusercontent.com/lgg-lg/iptv-api/master/output/user_result.txt
 #https://raw.githubusercontent.com/lgg-lg/IPTV/main/live_lite.txt
 https://raw.githubusercontent.com/lgg-lg/iptv-api/master/config/local.txt
