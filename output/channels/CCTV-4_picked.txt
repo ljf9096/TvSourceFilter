@@ -55,3 +55,4 @@ CCTV-4,https://stream1.freetv.fun/cctv4-3.ctv
 CCTV-4,https://stream1.freetv.fun/cctv4-70.ctv
 CCTV-4,https://stream1.freetv.fun/cctv-4zhong-wen-guo-ji-2.ctv
 CCTV-4,https://stream1.freetv.fun/cctv4-24.ctv
+CCTV-4,https://stream1.freetv.fun/cctv-4-5.ctv

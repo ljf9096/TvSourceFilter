@@ -66,3 +66,7 @@
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-54.ctv
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-98.ctv
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-99.ctv
+广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-70.ctv
+广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-61.ctv
+广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-49.ctv
+广东卫视,https://stream1.freetv.fun/aff16c21768db1d338b768ad24bd76dd3faaa45a34844f5928b0de29d7d5ace2.ctv

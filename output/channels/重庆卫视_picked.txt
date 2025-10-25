@@ -40,3 +40,4 @@
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-93.ctv
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-97.ctv
 重庆卫视,http://106.53.99.30/tv/migu.php?id=cqws
+重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-64.ctv

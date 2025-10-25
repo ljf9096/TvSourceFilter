@@ -63,3 +63,4 @@
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-48.ctv
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-74.ctv
 深圳卫视,https://stream1.freetv.fun/shen-zhen-wei-shi-75.ctv
+深圳卫视,https://stream1.freetv.fun/e20e442b0ac0eb9ee3d6b90302a722223a0074e2f77b10d0d122cde370809c33.ctv

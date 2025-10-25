@@ -54,3 +54,4 @@ CCTV-3,https://6663.luyazo.com/livetv/hlcc/cSGhRw7Hg/cSGhRw7Hg_live.m3u8?auth_ke
 CCTV-3,https://stream1.freetv.fun/cctv3-70.ctv
 CCTV-3,https://stream1.freetv.fun/cctv3-zong-yi-6.ctv
 CCTV-3,https://stream1.freetv.fun/cctv3-68.ctv
+CCTV-3,https://stream1.freetv.fun/cctv3-61.ctv
