@@ -90,9 +90,6 @@
 五星体育,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225732/index.m3u8
 五星体育,http://58.35.95.30:9898/udp/239.45.3.210:5140
 五星体育,https://cdn3.163189.xyz/163189/wxty
-五星体育,http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-五星体育,http://61.170.164.195:9901/tsfile/live/1007_1.m3u8
-五星体育,http://58.42.59.104/hljbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 五星体育,https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-16.m3u8
 五星体育,http://116.232.150.101:6000/tsfile/live/0001_47.m3u8?key=txiptv&playlive=1&authid=0
 五星体育,http://op.aklim.dpdns.org:18885/rtp/239.45.3.210:5140
@@ -167,10 +164,13 @@
 五星体育,http://8.138.7.223/api/ipv6.php?id=67&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 五星体育,http://cloud.diskcloud.cn:4022/rtp/239.45.3.210:5140
 五星体育,http://www.kktoo21.com:4022/rtp/239.45.3.210:5140
-五星体育,http://223.167.245.20:8001/rtp/239.45.3.210:5140
-五星体育,http://180.165.18.212:9898/rtp/239.45.3.210:5140
-五星体育,http://116.235.57.41:4022/rtp/239.45.3.210:5140
 五星体育,https://other.chinacert.cftest5.cn/wxty.m3u8
+五星体育,http://116.235.57.41:4022/rtp/239.45.3.210:5140
+五星体育,http://180.165.18.51:9898/rtp/239.45.3.210:5140
+五星体育,http://180.165.25.117:4022/rtp/239.45.3.210:5140
 五星体育,https://shyd.695847.xyz/cms001/ch00000090990000001018/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
+五星体育,http://180.165.18.212:9898/rtp/239.45.3.210:5140
+五星体育,http://223.167.245.20:8001/rtp/239.45.3.210:5140
 五星体育,https://hyf.serv00.net/稳定.php?id=77
+五星体育,http://180.165.20.28:4022/rtp/239.45.3.210:5140
 五星体育,http://vapi.91kds.cc/live1/bstv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=wxtyhd
