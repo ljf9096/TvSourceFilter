@@ -53,3 +53,4 @@ CCTV-8,https://6663.luyazo.com/livetv/hlcc/VScTgwnHR/VScTgwnHR_live.m3u8?auth_ke
 CCTV-8,https://stream1.freetv.fun/cctv8-55.ctv
 CCTV-8,https://stream1.freetv.fun/cctv8-dian-shi-ju-12.ctv
 CCTV-8,https://stream1.freetv.fun/cctv8-27.ctv
+CCTV-8,https://stream1.freetv.fun/cctv8-60.ctv

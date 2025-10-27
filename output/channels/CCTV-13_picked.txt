@@ -42,8 +42,8 @@ CCTV-13,https://stream1.freetv.fun/cctv13-70.ctv
 CCTV-13,http://106.53.99.30/tv/api.php?id=cctv13
 CCTV-13,http://t.061899.xyz/tl/tl.php?id=cctv13
 CCTV-13,https://stream1.freetv.fun/cctv13-xin-wen-1.ctv
-CCTV-13,http://106.53.99.30/tv/migu.php?id=cctv13
 CCTV-13,http://www.hkyc.site:1991/udp/239.253.64.59:5140
+CCTV-13,http://106.53.99.30/tv/migu.php?id=cctv13
 CCTV-13,http://106.53.99.30/tv/cctv13.php
 CCTV-13,http://k.061899.xyz/m.php?id=cctv13
 CCTV-13,http://gfr.x3322.net:9901/tsfile/live/1012_1.m3u8
