@@ -1,3 +1,4 @@
+棋牌室,#genre#
 JJ斗地主,http://live.iill.top/bilibili.php?id=22021983
 JJ斗地主,https://live.iill.top/bilibili/22021983
 JJ斗地主,http://live.iill.top/douyu.php?id=488743
