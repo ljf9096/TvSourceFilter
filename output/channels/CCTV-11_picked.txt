@@ -46,3 +46,5 @@ CCTV-11,https://stream1.freetv.fun/cctv11-xi-qu-2.ctv
 CCTV-11,https://stream1.freetv.fun/cctv11-25.ctv
 CCTV-11,https://stream1.freetv.fun/cctv-11-16.ctv
 CCTV-11,https://stream1.freetv.fun/cctv11-59.ctv
+CCTV-11,https://stream1.freetv.fun/cctv-11xi-qu-7.ctv
+CCTV-11,https://stream1.freetv.fun/cctv11-xi-qu-8.ctv
