@@ -151,6 +151,7 @@
 第一财经,http://8.138.7.223/api/ipv6.php?id=65&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
 第一财经,http://cloud.diskcloud.cn:4022/rtp/239.45.3.211:5140
 第一财经,http://115.236.242.169:8888/rtp/233.50.200.125:5140
+第一财经,http://www.mila2020.com:4022/udp/239.45.3.211:5140
 第一财经,http://www.kktoo21.com:4022/rtp/239.45.3.211:5140
 第一财经,http://106.53.99.30/tv/hot.php?id=dycj
 第一财经,http://t.061899.xyz/tl/dq.php?id=dycj
@@ -158,11 +159,11 @@
 第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1746379256&key=e6deaa8fc1e0662447be8f3b7c649f70
 第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1746292937&key=8dbd6113ce0541e6b92e8f47782ef1f6
 第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1746307365&key=7477fec974c356ed2cf91be43a1dc893
-第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1761679359&key=564d2ec5a63a6c27600936924b1e875e
-第一财经,http://www.mila2020.com:4022/udp/239.45.3.211:5140
+第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1761765650&key=c819d1bab82209b2e59f47026df2f474
+第一财经,http://125.118.1.136:2333/rtp/233.50.200.125:5140
 第一财经,http://www.kaniptv.cn/aa/shkdf.php?id=21
 第一财经,http://z.b.bkpcp.top/m.php?id=dycj
 第一财经,http://139.196.214.238/rtp/239.45.3.211:5140
 第一财经,http://vapi.91kds.cc/live1/bstv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=dycjhd
-第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1761607363&key=96d6217be96ebc37ecfb453407cfde85
+第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1761693807&key=cfb70199eb12662759dc624149aa03ec
 第一财经,https://stream1.freetv.fun/533f951c259e0a0db9189aab022c535bca241b30dbf0d18aca82012de4e8c080.m3u8
