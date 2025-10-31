@@ -174,10 +174,9 @@
 东方财经,http://2024.ye23.vip:7890/live2.rxip.sc96655.com/live/dfcj_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 东方财经,http://mail.ye23.vip:7890/live2.rxip.sc96655.com/live/dfcj_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 东方财经,http://8.138.7.223/api/ipv6.php?id=66&token=eb711f7fbc13342f2200eda6849fdfd209ac16b9ef56884e42f58c16c9db33f2
+东方财经,http://oec.wzy80119.top:5080/bst.php?id=Umai:CHAN/6880079@BESTV.SMG.SMG
 东方财经,http://cloud.diskcloud.cn:4022/rtp/239.45.0.17:5140
 东方财经,http://www.kktoo21.com:4022/rtp/239.45.0.17:5140
-东方财经,http://oec.wzy80119.top:5080/bst.php?id=Umai:CHAN/6880079@BESTV.SMG.SMG
-东方财经,http://1.032000.xyz:8848/udp/239.94.1.59:5140
-东方财经,https://hyf.serv00.net/稳定.php?id=74
-东方财经,https://hyf.serv00.net/稳定.php?id=76
+东方财经,http://116.179.149.157:6000/rtp/226.0.2.76:8520
 东方财经,https://shyd.484947.xyz/cms001/ch00000090990000001318/index.m3u8?
+东方财经,https://hyf.serv00.net/稳定.php?id=74

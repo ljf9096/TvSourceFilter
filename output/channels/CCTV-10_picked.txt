@@ -53,3 +53,4 @@ CCTV-10,https://6663.luyazo.com/livetv/hlcc/yx8oRw7NR/yx8oRw7NR_live.m3u8?auth_k
 CCTV-10,https://stream1.freetv.fun/cctv10-13.ctv
 CCTV-10,https://stream1.freetv.fun/cctv-10-7.ctv
 CCTV-10,https://stream1.freetv.fun/cctv10-57.ctv
+CCTV-10,https://stream1.freetv.fun/cctv10-4.ctv
